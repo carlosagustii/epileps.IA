@@ -13,9 +13,11 @@ from epileps_ia.webScraping import *
 #LEE EL EXCEL
 # TODO cambiar nombre por el correcto
 #df = pd.read_csv("Pruebas2.csv", sep=";") #PAra csv. El ; indica la separacion de cada componente de una fila
-df = pd.read_excel("Pruebas2.xlsx") #para excel
+df = pd.read_excel("medicamentos_epilepsia.xlsx") #para excel
+
 print(df.columns)
-urls = df["url"]
+#urls = df["url"]
+urls = df["url_html_ficha_tecnica"]
 
 print("urls: ", urls)
 
@@ -57,5 +59,6 @@ df["Indicador de Riesgo Severo (num veces grave/s)"] = veces_grave_s_column
 #GUARDA EN EL EXCEL
 # TODO cambiar nombre por el correcto
 #df.to_csv("Pruebas2.csv", sep=";", index=False) #para csv.
-df.to_excel("Pruebas2.xlsx", index=False) #para excel. El index=False indica que no quiero columna adicional indicando numeor fila
+df.to_excel("medicamentos_epilepsia.xlsx", index=False) #para excel. El index=False indica que no quiero columna adicional indicando numeor fila
+
 print("EXCEL GUARDADO")
