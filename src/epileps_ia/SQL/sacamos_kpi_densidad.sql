@@ -1,0 +1,4 @@
+USE bd_epilepsia;
+SELECT nombre, kpi_densidad_ficha_tecnica
+FROM medicamentos_epilepsia_hu5
+ORDER BY kpi_densidad_ficha_tecnica DESC;
