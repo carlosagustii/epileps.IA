@@ -15,6 +15,7 @@ Ademas tambien se ha creado una view para cada kpi:
 
 Por otro lado se ha creado una unica vista con todos los kpi (`view_kpis_medicamentos_completo.sql`) con su correspondiente `select.sql` y un `select` para ver toda la tabla (`ver_toda_tabla_medicamentos.sql`)
 
+**HAY QUE MODIFICARLO AL AÑADIR MAS KPIs**
 
 ## Sobre las views
 Las `views` es un modo de ver los datos distinto a las tablas.
