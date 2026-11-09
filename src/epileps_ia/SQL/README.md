@@ -15,7 +15,7 @@ Ademas tambien se ha creado una view para cada kpi:
 
 Por otro lado se ha creado una unica vista con todos los kpi (`view_kpis_medicamentos_completo.sql`) con su correspondiente `select.sql` y un `select` para ver toda la tabla (`ver_toda_tabla_medicamentos.sql`)
 
-**HAY QUE MODIFICARLO AL AÑADIR MAS KPIs**
+**HAY QUE MODIFICARLO AL AÑADIR MAS KPIs** --> `view_kpis_medicamentos_completo.sql` 
 
 ## Sobre las views
 Las `views` es un modo de ver los datos distinto a las tablas.
@@ -25,11 +25,11 @@ Se pueden ver haciendo un SELECT normal: `select * from base de datos.nombre de 
 En nuestro caso `SELECT * FROM bd_epilepsia.view_kpis_medicamentos_completo;`
 
 1. Si se modifican los datos de la tabla, en este caso la de medicamentos:
-    - los kpi de las columnas de la tabla de medicamentos **NO se modifican automaticamente** por lo que **habria que hacer el update** de la columna de la tabla
-    - En cambio las views de esas solumnas **SI se modifican automaticamnete** (la informacion de recalcula con los nuevos datos de la tabla). **NO hay que volver** a ejecutar el `create o replace view`
+    - los kpi de las **columnas de la tabla** de medicamentos **NO se modifican automaticamente** por lo que **habria que hacer el update** de la columna de la tabla
+    - En cambio las **views** de esas solumnas **SI se modifican automaticamnete** (la informacion de recalcula con los nuevos datos de la tabla). **NO hay que volver** a ejecutar el `create o replace view`
 
 2. Si se modifican los kpi de la tabla de medicamentos:
-    - Views **reflejan automaticamente** ese cammbio
+    - **Views reflejan automaticamente** ese cammbio
     -  **NO hay que volver** a ejecutar el `create o replace view`
 
 
