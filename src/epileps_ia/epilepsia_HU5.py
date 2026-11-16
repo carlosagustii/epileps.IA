@@ -1,7 +1,7 @@
 """
 HU5 - Clustering de medicamentos con K-Means
 
-Es la versión automatizada del notebook hu5.ipynb.
+Es la versión automatizada del notebook hu5.ipynb, basicamente hemos transformado cada celda y paso en una funcion.
 Recibe el DataFrame limpio de la HU4, le añade las columnas "cluster" y "perfil",
 guarda el CSV en data/ y devuelve el DataFrame.
 
@@ -39,6 +39,10 @@ COLUMNAS_MODELO = [PRECIO, PALABRAS, GRAVE, TABLAS]
 
 K = 5  # NUMERO DE CLUSTERES, ELEGIDO EN EL NOTEBOOK CON EL CODO Y LA SILUETA
 RANDOM_SEED = 42
+# UMBRALES PARA PONER NOMBRE A LOS CLUSTERES (DECIDIDOS EN EL NOTEBOOK)
+PRECIO_BAJO_HASTA = 15       # PRECIO MEDIANO DEL CLUSTER, EN EUROS
+PRECIO_ALTO_DESDE = 50
+MUCHOS_AVISOS_DESDE = 8.5    # MEDIA DE VECES QUE APARECE "GRAVE" EN EL CLUSTER
 
 # AVISOS DE CALIDAD DEL MODELO
 SILUETA_MINIMA = 0.25
@@ -84,18 +88,6 @@ def preparar_variables(df):
     return StandardScaler().fit_transform(X)
 
 
-def nivel(valor, serie, bajo, medio, alto):
-    """
-    Compara el valor de un clúster con los terciles de todo el dataset
-    """
-
-    if valor <= serie.quantile(0.33):
-        return bajo
-    if valor >= serie.quantile(0.66):
-        return alto
-    return medio
-
-
 def nombrar_clusters(df):
     """
     Genera el nombre de cada clúster con reglas, a partir de su precio y de sus avisos graves.
@@ -109,8 +101,18 @@ def nombrar_clusters(df):
 
     nombres = {}
     for cluster, fila in resumen.iterrows():
-        precio = nivel(fila["precio_mediano"], df[PRECIO], "Precio bajo", "Precio medio", "Precio alto")
-        avisos = nivel(fila["grave_media"], df[GRAVE], "pocos avisos graves", "avisos graves medios", "muchos avisos graves")
+        if fila["precio_mediano"] < PRECIO_BAJO_HASTA:
+            precio = "Precio bajo"
+        elif fila["precio_mediano"] >= PRECIO_ALTO_DESDE:
+            precio = "Precio alto"
+        else:
+            precio = "Precio medio"
+
+        if fila["grave_media"] >= MUCHOS_AVISOS_DESDE:
+            avisos = "muchos avisos graves"
+        else:
+            avisos = "pocos avisos graves"
+
         nombres[cluster] = f"{precio}, {avisos}"
 
     # SI DOS CLUSTERES TIENEN EL MISMO NOMBRE LES AÑADIMOS SU NUMERO PARA DISTINGUIRLOS
