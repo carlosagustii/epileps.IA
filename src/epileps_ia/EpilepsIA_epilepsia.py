@@ -12,6 +12,9 @@ from datetime import datetime
 from epileps_ia import cima_api
 from epileps_ia import epilepsia_HU2
 
+from epileps_ia import epilepsia_HU5
+from epileps_ia import epilepsia_HU6
+
 def configurar_logging():
 
     # CREAMOS LA CARPETA LOGS SI NO EXISTE
@@ -60,6 +63,16 @@ def main():
         df2 = epilepsia_HU2.obtener_datos_hu2(df)
         logger.info("HU2 finalizada correctamente")
 
+        # HU5 CLUSTERING CON K-MEANS
+        logger.info("Iniciando HU5")
+        df5 = epilepsia_HU5.obtener_clusters(df4)
+        logger.info("HU5 finalizada correctamente")
+
+        # HU6 CARGA EN MYSQL, KPIs E HISTORICO
+        logger.info("Iniciando HU6")
+        epilepsia_HU6.cargar_en_mysql(df5)
+        logger.info("HU6 finalizada correctamente")
+        
         # print("\nFin")
         logger.info("Proceso finalizado correctamente")
 
