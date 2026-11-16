@@ -10,6 +10,7 @@ from pathlib import Path
 from datetime import datetime
 
 from epileps_ia import cima_api
+from epileps_ia import epilepsia_HU2
 
 def configurar_logging():
 
@@ -47,11 +48,19 @@ def main():
     logger.info("Iniciando el proyecto")
 
     try:
-        print("inicio\n")
-        cima_api.obtener_medicamentos_epilepsia()
+        #print("inicio\n")
+        
+        # HU1 CONSEGUIR LA INFO DE LOS MEDICAMNETOS DE EPILEPSIA DE CIMA
+        logger.info("Trabajando en el HU1")
+        df = cima_api.obtener_medicamentos_epilepsia()
+        logger.info("HU1 finalizada correctamente")
 
+        # HU2 OBTENER INFORMACIÓN DE LAS FICHAS TÉCNICAS
+        logger.info("Iniciando HU2")
+        df2 = epilepsia_HU2.obtener_datos_hu2(df)
+        logger.info("HU2 finalizada correctamente")
 
-        print("\nFin")
+        # print("\nFin")
         logger.info("Proceso finalizado correctamente")
 
         # TODO ir añadiedno el resto de llamadas al codigo HU2-HU7

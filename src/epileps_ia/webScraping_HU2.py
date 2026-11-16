@@ -1,10 +1,13 @@
 
-
+# ESTA FILE NO SE HA CAMBIADO MUCHO CON RESPECTO A LA ORIGINAL DEL INICIO DEL PROYECTO
+# SE HAN AÑADIDO LOS LOGS
 
 import requests
 import pandas as pd
 import json
 import re
+import logging
+
 
 from bs4 import BeautifulSoup #hice el uv add bs4 -> esto instalo bs4
 
@@ -13,11 +16,17 @@ import sys
 print(sys.executable)
 """
 
+# CONFIGURACION PARA LOS LOGS
+logger = logging.getLogger(__name__)
 
 
 def get_url(url):
+    """
+    Accdemos a la url y obtenermos el html
+    """
+
     print("En funcion get_url()")
-    response = requests.get(url, timeout=20) #accede a la pagina y la guarda
+    response = requests.get(url, timeout=20) # ACCEDE A LA PAGINA Y LA GUARDA
     """
     si se hace 
         response.status_code 
@@ -33,21 +42,32 @@ def get_url(url):
     html = response.content
 
     soup = BeautifulSoup(html, "html.parser")
-    #soup tiene ahora el texto del html
+    #SOUP AHORA TIENE EL TEXTO DEL HTML
     #print(soup)
     return soup
 
 
-"""
-esta funcion cuenta el nuemro de palabras dentro de una secion.
-Si es secion 4 cuenta hasta secion 5
-si es secion 3.4 cuenta hasta llegar a la secion 3.5
-"""
+
 def numPalabrasSeccion(soup, id_section): 
+    """
+    esta funcion cuenta el nuemro de palabras dentro de una secion.
+    Si es secion 4 cuenta hasta secion 5
+    si es secion 3.4 cuenta hasta llegar a la secion 3.5
+    """
+
+
     #print("h2: \n",  soup.find_all("h2"))# imprime todos los h2
-    text4_4 = soup.find("h2", id=id_section) #como soloq uiero el 4.4 no necesittaria el find all
+    text_section = soup.find("h2", id=id_section) # COMO SOLO QUIERO UNO NO NECESITO EL FINDALL
+
+    # SE HACE PARA UE NO DE ERROR SI NO SE ENCIANTRA
+    if text_section is None:
+        # logger.info(f"No se ha encontrado la seccion {id_section}")
+        # MEJOR WARNING A INFO YA QUE INDICA UN IMPREVISTO PERO QUE SE PUEDE CONTINUAR
+        logger.warning(f"No se ha encontrado la sección {id_section}") 
+        return -1
+
     #print(f"test 4.4: {text4_4} \ntest 4.4.text: ", text4_4.text) # sin el .text nos da las etiquetas tambien. el text da solo el texto
-    title4_4 = text4_4.text #se podria poner en una sola linea:  title4_4 = soup.find("h2", id=4.4).text
+    # title4_4 = text_section.text #se podria poner en una sola linea:  title4_4 = soup.find("h2", id=4.4).text
     #print("\nTITLE: ", title4_4)
 
     texto_subseccion = "" #para tener todo el texto, es mejor en una sola string a tener varias string en un array
@@ -68,7 +88,7 @@ def numPalabrasSeccion(soup, id_section):
     En nuestro caso da igual porque lo que qeuremos es contar las palabras
     Por otro lado, si hubiera mas etiquetas al nivel de h2 las seguiria viendo e incluyendo hasta llegar al h2 del 4.5
     """
-    for elemento in text4_4.find_next_siblings(): 
+    for elemento in text_section.find_next_siblings(): 
         if elemento.name == "h2": #quiero parar de guardar el texto al llegar a la siguiente seccion. Solo quiero las del 4.4  y no del 4.5
             break
 
@@ -84,15 +104,20 @@ def numPalabrasSeccion(soup, id_section):
 
 
 def numEtiquetaBuscar(soup, etiqueta_busqueda):
+    """
+    Cuenta el numero de etiquetas
+    """
     numero_etiqueta = len(soup.find_all(etiqueta_busqueda))
     return numero_etiqueta
 
 
 
-"""
-Nunmero de veces que aparece "grave"/"graves" en el texto
-"""
+
 def contarPalabraGrave(soup):
+    """
+    Nunmero de veces que aparece "grave"/"graves" en el texto
+    """
+    
     text = soup.text
 
 
