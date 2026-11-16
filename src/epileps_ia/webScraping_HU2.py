@@ -25,7 +25,7 @@ def get_url(url):
     Accdemos a la url y obtenermos el html
     """
 
-    print("En funcion get_url()")
+    # print("En funcion get_url()")
     response = requests.get(url, timeout=20) # ACCEDE A LA PAGINA Y LA GUARDA
     """
     si se hace 
@@ -53,6 +53,7 @@ def numPalabrasSeccion(soup, id_section):
     esta funcion cuenta el nuemro de palabras dentro de una secion.
     Si es secion 4 cuenta hasta secion 5
     si es secion 3.4 cuenta hasta llegar a la secion 3.5
+    Si no se encuatra la seccion se devuelve un -1
     """
 
 

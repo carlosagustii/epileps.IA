@@ -22,7 +22,8 @@ def configurar_logging():
     # "todas las trazas, eventos, éxitos y errores en un
     # fichero de LOG dedicado (NombreEquipo_enfermedad_fecha.log)"
     # POR ESO USAMOS datatime
-    fecha = datetime.now().strftime("%Y-%m-%d")
+    #fecha = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    fecha = datetime.now().strftime("%Y-%m-%d") # LOGS DIARIOS EN MISMO FICHERO
     nombre_log = f"EpilepsIA_epilepsia_{fecha}.log"
 
     # CONFIGURAMOS LOS LOGS
@@ -47,18 +48,45 @@ def main():
 
     logger.info("Iniciando el proyecto")
 
+    # FECHA DE LA EJECUCIÓN (ANO/MES/DIA/HORA/MIN/SEG)
+    fecha = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+
     try:
         #print("inicio\n")
         
         # HU1 CONSEGUIR LA INFO DE LOS MEDICAMNETOS DE EPILEPSIA DE CIMA
         logger.info("Trabajando en el HU1")
-        df = cima_api.obtener_medicamentos_epilepsia()
-        logger.info("HU1 finalizada correctamente")
+        df, hu1_completo = cima_api.obtener_medicamentos_epilepsia(fecha)
+        #logger.info("HU1 finalizada correctamente")
+        if hu1_completo:
+            logger.info("HU1 finalizada: extracción completa")
+        else:
+            logger.warning("HU1 finalizada: extracción parcial. Algunos de los medicamentos no se pudieron acceder")
 
         # HU2 OBTENER INFORMACIÓN DE LAS FICHAS TÉCNICAS
         logger.info("Iniciando HU2")
-        df2 = epilepsia_HU2.obtener_datos_hu2(df)
-        logger.info("HU2 finalizada correctamente")
+        df2, hu2_completo = epilepsia_HU2.obtener_datos_hu2(df, fecha)
+        #logger.info("HU2 finalizada correctamente")
+        if hu2_completo:
+            logger.info("HU2 finalizada: procesamiento completo")
+        else:
+            logger.warning("HU2 finalizada: procesamiento parcial. Algunos datos no se pudieron conseguir")
+
+
+
+        # RESUMEN FINAL
+        # TODO hacer y cambiar esto para el resto tambien
+        # TODO ver que hay nuevo subido en github y cambiarlo acorde
+        
+        logger.info("RESUMEN DEL PROCESO")
+        logger.info(f"HU1 completa: {hu1_completo}")
+        logger.info(f"HU2 completa: {hu2_completo}")
+
+        if hu1_completo and hu2_completo:
+            logger.info("RESULTADO GLOBAL: DATOS COMPLETOS")
+        else:
+            logger.warning("RESULTADO GLOBAL: DATOS PARCIALES")
+
 
         # print("\nFin")
         logger.info("Proceso finalizado correctamente")

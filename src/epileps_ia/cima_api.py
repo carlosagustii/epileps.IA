@@ -23,6 +23,10 @@ CONDICIONES_BUSQUEDA = [
     }
 ]
 
+RUTA_DATA = Path(__file__).resolve().parents[2] / "data"
+
+
+"""
 RUTA_EXCEL = (
     Path(__file__).resolve().parents[2] # SE SUBEN DOS CARPETAS EPILESIA -> SRC -> APILEPSIA
     / "data" # SE ACCEDE A DATA
@@ -35,6 +39,7 @@ RUTA_EXCEL_PARCIAL = (
     / "data" # SE ACCEDE A DATA
     / "medicamentos_epilepsia_HU1_Parcial.xlsx" # NOMBRE DEL EXCEL
 )
+"""
 
 # OBTENER TODOS LOS NÚMEROS DE REGISTRO
 def obtener_n_registros(session): 
@@ -179,7 +184,7 @@ def obtener_datos_medicamento(session, registro):
     return fila
 
 
-def guardar_excel(df, medicamentos_fallidos):
+def guardar_excel(df, medicamentos_fallidos, fecha):
 
     """
     Mediante esta funcion guardamos el excel
@@ -190,55 +195,82 @@ def guardar_excel(df, medicamentos_fallidos):
     RUTA_TEMPORAL = None
 
     try:
-        # SI HAY MEDICAMENTOS QUE NO SE HAN PODIDO ACCEDER EL EXCEL ES PARCIAL
+
+        nombre_excel = f"medicamentos_epilepsia_HU1_{fecha}"
+        
+        # COMPRUEBO SI SE PUDO ACCEDER A TODOS LOS DATOS DE HU1 O SOLO A ALGUNOS
         if medicamentos_fallidos:
-            # CREAMOS LA CARPETA DATA SI NO EXISTE
-            RUTA_EXCEL_PARCIAL.parent.mkdir(parents=True, exist_ok=True)
+            nombre_excel += "_Parcial"
 
-            # DEFINIMOS UN ARCHIVO TEMPORAL
-            # CON EL STEM CONSEGUIMOS EL NOMBRE DEL ARCHIVO SIN LA EXTENSION
-            RUTA_TEMPORAL = RUTA_EXCEL_PARCIAL.with_name(RUTA_EXCEL_PARCIAL.stem + "_parcial_temporal.xlsx")
+        RUTA_EXCEL_DESTINO = RUTA_DATA / f"{nombre_excel}.xlsx"
 
-            # GUARDAMOS EL EXCEL TEMPORAL
-            df.to_excel(RUTA_TEMPORAL, index=False, na_rep="NaN")
+        # CREAMOS LA CARPETA DATA SI NO EXISTE
+        RUTA_EXCEL_DESTINO.parent.mkdir(parents=True, exist_ok=True)
+
+        # DEFINIMOS UN ARCHIVO TEMPORAL
+        # CON EL STEM CONSEGUIMOS EL NOMBRE DEL ARCHIVO SIN LA EXTENSION
+        RUTA_TEMPORAL = RUTA_EXCEL_DESTINO.with_name(RUTA_EXCEL_DESTINO.stem + "_temporal.xlsx")
+
+        # GUARDAMOS EL EXCEL TEMPORAL
+        df.to_excel(RUTA_TEMPORAL, index=False, na_rep="NaN")
+
+        # SI SE HA GUARDADO CORRECTAMENTE,
+        # SUSTITUIMOS EL EXCEL DEFINITIVO
+        RUTA_TEMPORAL.replace(RUTA_EXCEL_DESTINO)
+
+        logger.info(f"Excel hu1 guardado correctamente en: {RUTA_EXCEL_DESTINO}")
+        
+        
+        # SI HAY MEDICAMENTOS QUE NO SE HAN PODIDO ACCEDER EL EXCEL ES PARCIAL
+        # if medicamentos_fallidos:
+        #    # CREAMOS LA CARPETA DATA SI NO EXISTE
+        #    RUTA_EXCEL_PARCIAL.parent.mkdir(parents=True, exist_ok=True)
+
+        #   # DEFINIMOS UN ARCHIVO TEMPORAL
+        #    # CON EL STEM CONSEGUIMOS EL NOMBRE DEL ARCHIVO SIN LA EXTENSION
+        #    RUTA_TEMPORAL = RUTA_EXCEL_PARCIAL.with_name(RUTA_EXCEL_PARCIAL.stem + "_parcial_temporal.xlsx")
+
+        #    # GUARDAMOS EL EXCEL TEMPORAL
+        #    df.to_excel(RUTA_TEMPORAL, index=False, na_rep="NaN")
 
             # SI SE HA GUARDADO CORRECTAMENTE,
             # SUSTITUIMOS EL EXCEL DEFINITIVO
-            RUTA_TEMPORAL.replace(RUTA_EXCEL_PARCIAL)
+        #    RUTA_TEMPORAL.replace(RUTA_EXCEL_PARCIAL)
 
-            logger.info(f"Excel guardado correctamente en: {RUTA_EXCEL_PARCIAL}")
+        #    logger.info(f"Excel guardado correctamente en: {RUTA_EXCEL_PARCIAL}")
 
         # SI SE HA PODIDO ACCEDER A TODOS LOS MEDICAMENTOS EL EXCEL ES COMPLETO
-        else:
+        #else:
             # CREAMOS LA CARPETA DATA SI NO EXISTE
-            RUTA_EXCEL.parent.mkdir(parents=True, exist_ok=True)
+        #    RUTA_EXCEL.parent.mkdir(parents=True, exist_ok=True)
 
             # DEFINIMOS UN ARCHIVO TEMPORAL
             # CON EL STEM CONSEGUIMOS EL NOMBRE DEL ARCHIVO SIN LA EXTENSION
-            RUTA_TEMPORAL = RUTA_EXCEL.with_name(RUTA_EXCEL.stem + "_temporal.xlsx")
+        #    RUTA_TEMPORAL = RUTA_EXCEL.with_name(RUTA_EXCEL.stem + "_temporal.xlsx")
 
             # GUARDAMOS EL EXCEL TEMPORAL
-            df.to_excel(RUTA_TEMPORAL, index=False, na_rep="NaN")
+        #    df.to_excel(RUTA_TEMPORAL, index=False, na_rep="NaN")
 
             # SI SE HA GUARDADO CORRECTAMENTE,
             # SUSTITUIMOS EL EXCEL DEFINITIVO
-            RUTA_TEMPORAL.replace(RUTA_EXCEL)
+        #    RUTA_TEMPORAL.replace(RUTA_EXCEL)
 
-            logger.info(f"Excel guardado correctamente en: {RUTA_EXCEL}")
+        #    logger.info(f"Excel guardado correctamente en: {RUTA_EXCEL}")
 
     except Exception:
 
         # ELIMINAMOS EL ARCHIVO TEMPORAL SI EXISTE
         try:
-            RUTA_TEMPORAL.unlink(missing_ok=True)
+            if RUTA_TEMPORAL is not None:
+                RUTA_TEMPORAL.unlink(missing_ok=True)
         except OSError:
-            logger.exception("No se ha podido eliminar el archivo temporal")
+            logger.exception("No se ha podido eliminar el archivo temporal del hu1")
 
         raise
 
 
 # FUNCIÓN PRINCIPAL
-def obtener_medicamentos_epilepsia():
+def obtener_medicamentos_epilepsia(fecha):
 
     """
     Mediante esta funcion se obtienen los medicamentos de la epilepsia al hacer 
@@ -288,9 +320,18 @@ def obtener_medicamentos_epilepsia():
     df = pd.DataFrame(columnas)
 
     # EXPORTAMOS EL EXCEL
-    guardar_excel(df, medicamentos_fallidos)
+    guardar_excel(df, medicamentos_fallidos, fecha)
 
-    return df
+    #return df
+
+    # COMPRUEBO SI MI EXCEL DE MEDICAMENTOS DEL HU1 ESTA COMPLETO O NO
+    # FALSE si no esta completo
+    # TRUE si esta completo
+    hu1_completo = not medicamentos_fallidos 
+
+    # DEVUELVO EL DATAFRAME Y SI ESTA O NO "COMPLETO"
+    return df, hu1_completo
+
     """
     # CREAMOS LA CARPETA DATA SI NO EXISTE
     RUTA_EXCEL.parent.mkdir(parents=True, exist_ok=True)
