@@ -11,6 +11,7 @@ from datetime import datetime
 
 from epileps_ia import cima_api
 from epileps_ia import epilepsia_HU2
+from epileps_ia import hu3_nomenclator
 
 def configurar_logging():
 
@@ -72,17 +73,24 @@ def main():
         else:
             logger.warning("HU2 finalizada: procesamiento parcial. Algunos datos no se pudieron conseguir")
 
-
+        # HU3: OBTENER INFORMACIÓN ECONÓMICA DEL NOMENCLÁTOR
+        logger.info("Iniciando HU3")
+        df3, hu3_completo = hu3_nomenclator.obtener_datos_hu3(df2, fecha)
+        if hu3_completo:
+            logger.info("HU3 finalizada: procesamiento completo")
+        else:
+            logger.warning("HU3 finalizada: procesamiento parcial. Algunos medicamentos no tienen coincidencia en el Nomenclator")
 
         # RESUMEN FINAL
         # TODO hacer y cambiar esto para el resto tambien
         # TODO ver que hay nuevo subido en github y cambiarlo acorde
-        
+
         logger.info("RESUMEN DEL PROCESO")
         logger.info(f"HU1 completa: {hu1_completo}")
         logger.info(f"HU2 completa: {hu2_completo}")
+        logger.info(f"HU3 completa: {hu3_completo}")
 
-        if hu1_completo and hu2_completo:
+        if hu1_completo and hu2_completo and hu3_completo:
             logger.info("RESULTADO GLOBAL: DATOS COMPLETOS")
         else:
             logger.warning("RESULTADO GLOBAL: DATOS PARCIALES")
