@@ -46,6 +46,8 @@ def configurar_logging():
 
 def main():
 
+    # TODO una vez completo todos los HU hay que comprobar que el flujo funciona!!!
+
     configurar_logging()
 
     logger = logging.getLogger(__name__)
@@ -59,7 +61,7 @@ def main():
         #print("inicio\n")
         
         # HU1 CONSEGUIR LA INFO DE LOS MEDICAMNETOS DE EPILEPSIA DE CIMA
-        logger.info("Trabajando en el HU1")
+        logger.info("Iniciando HU1")
         df, hu1_completo = cima_api.obtener_medicamentos_epilepsia(fecha)
         #logger.info("HU1 finalizada correctamente")
         if hu1_completo:
@@ -84,20 +86,7 @@ def main():
         else:
             logger.warning("HU3 finalizada: procesamiento parcial. Algunos medicamentos no tienen coincidencia en el Nomenclator")
 
-        # RESUMEN FINAL
-        # TODO hacer y cambiar esto para el resto tambien
-        # TODO ver que hay nuevo subido en github y cambiarlo acorde
-
-        logger.info("RESUMEN DEL PROCESO")
-        logger.info(f"HU1 completa: {hu1_completo}")
-        logger.info(f"HU2 completa: {hu2_completo}")
-        logger.info(f"HU3 completa: {hu3_completo}")
-
-        if hu1_completo and hu2_completo and hu3_completo:
-            logger.info("RESULTADO GLOBAL: DATOS COMPLETOS")
-        else:
-            logger.warning("RESULTADO GLOBAL: DATOS PARCIALES")
-
+        # TODO añadir lo correspondiente al HU4 siguiendo este formato
 
         # HU5 CLUSTERING CON K-MEANS
         logger.info("Iniciando HU5")
@@ -108,11 +97,27 @@ def main():
         logger.info("Iniciando HU6")
         epilepsia_HU6.cargar_en_mysql(df5)
         logger.info("HU6 finalizada correctamente")
+
+        # RESUMEN FINAL
+        # TODO hacer y cambiar esto para el resto --> falta HU4
+
+        logger.info("RESUMEN DEL PROCESO")
+        logger.info(f"HU1 completa: {hu1_completo}")
+        logger.info(f"HU2 completa: {hu2_completo}")
+        logger.info(f"HU3 completa: {hu3_completo}")
+
+        # TODO poner logger final del hu4 -> comprobar tbn que se puede hacer completo?
+
+        logger.info("HU5 completa")
+        logger.info("HU6 completa")
+
+        if hu1_completo and hu2_completo and hu3_completo:
+            logger.info("RESULTADO GLOBAL: DATOS COMPLETOS")
+        else:
+            logger.warning("RESULTADO GLOBAL: DATOS PARCIALES")
         
         # print("\nFin")
         logger.info("Proceso finalizado correctamente")
-
-        # TODO ir añadiedno el resto de llamadas al codigo HU2-HU7
 
     except Exception:
         # REGISTRA EL ERROR Y SU TRACEBACK
