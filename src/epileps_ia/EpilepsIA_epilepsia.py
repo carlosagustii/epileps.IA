@@ -12,6 +12,7 @@ from datetime import datetime
 from epileps_ia import cima_api
 from epileps_ia import epilepsia_HU2
 from epileps_ia import hu3_nomenclator
+from epileps_ia import epilepsia_HU4
 
 from epileps_ia import epilepsia_HU5
 from epileps_ia import epilepsia_HU6
@@ -87,6 +88,13 @@ def main():
             logger.warning("HU3 finalizada: procesamiento parcial. Algunos medicamentos no tienen coincidencia en el Nomenclator")
 
         # TODO añadir lo correspondiente al HU4 siguiendo este formato
+        # HU4: LIMPIEZA Y PREPARACIÓN DE LOS DATOS (EDA)
+        logger.info("Iniciando HU4")
+        df4, hu4_completo = epilepsia_HU4.obtener_datos_hu4(df3, fecha)
+        if hu4_completo:
+            logger.info("HU4 finalizada: limpieza completa")
+        else:
+            logger.warning("HU4 finalizada: limpieza parcial. Se han quitado medicamentos por datos erróneos de las HU anteriores")
 
         # HU5 CLUSTERING CON K-MEANS
         logger.info("Iniciando HU5")
@@ -105,13 +113,13 @@ def main():
         logger.info(f"HU1 completa: {hu1_completo}")
         logger.info(f"HU2 completa: {hu2_completo}")
         logger.info(f"HU3 completa: {hu3_completo}")
-
+        logger.info(f"HU4 completa: {hu4_completo}")
         # TODO poner logger final del hu4 -> comprobar tbn que se puede hacer completo?
 
         logger.info("HU5 completa")
         logger.info("HU6 completa")
 
-        if hu1_completo and hu2_completo and hu3_completo:
+        if hu1_completo and hu2_completo and hu3_completo and hu4_completo:
             logger.info("RESULTADO GLOBAL: DATOS COMPLETOS")
         else:
             logger.warning("RESULTADO GLOBAL: DATOS PARCIALES")
