@@ -19,6 +19,9 @@ print(sys.executable)
 # CONFIGURACION PARA LOS LOGS
 logger = logging.getLogger(__name__)
 
+# SESIÓN HTTP REUTILIZABLE: MANTIENE LA CONEXIÓN ABIERTA ENTRE PETICIONES
+SESSION = requests.Session()
+
 
 def get_url(url):
     """
@@ -26,7 +29,7 @@ def get_url(url):
     """
 
     # print("En funcion get_url()")
-    response = requests.get(url, timeout=20) # ACCEDE A LA PAGINA Y LA GUARDA
+    response = SESSION.get(url, timeout=20) # ACCEDE A LA PAGINA Y LA GUARDA    
     """
     si se hace 
         response.status_code 

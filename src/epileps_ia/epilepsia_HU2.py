@@ -174,7 +174,7 @@ def obtener_datos_hu2(df, fecha):
             veces_grave_s_column.append(-1)
 
         # ESPERAMOS MEDIO SEGUNDO ENTRE CONSULTAS
-        time.sleep(0.5)
+        time.sleep(0.15)
 
     # AÑADIMOS LAS NUEVAS COLUMNAS AL DATAFRAME
     df2 = df.copy()
