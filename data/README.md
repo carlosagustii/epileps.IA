@@ -54,3 +54,51 @@ En caso de que un medicamento no tuviera su correspondiente, el medicamento se s
 Se considera completo cuando todos los medicamentos encuentran coincidencia.
 
 Al igual que en los otros HU, cada fase registra también su actividad, incidencias y resultado en el log de ejecución.
+
+### HU4
+Se recibe el dataframe del HU3.
+
+Sobre este dataframe se realiza todo el EDA. 
+
+- Se eliminan columnas:
+    "nregistro", 
+    "cn", 
+    "estado_rev", 
+    "estado_aut", 
+    "url_html_ficha_tecnica", 
+    "url_foto_materiales", 
+    "requiere_receta", 
+    "medicamento_huerfano", 
+    "biosimilar", 
+    "num_registros_atc", 
+    "num_excipientes", 
+    "Especial control médico"
+
+- Se hacen transformaciones, como pasar de categorico a numerico:
+    "forma_farmaceutica_simplificada", 
+    "vias_administracion", 
+    "Tratamiento de larga duración", 
+    "Estado"
+
+- Se eliminan los medicamentos sin precio de venta al público
+- Se eliminan los medicamentos en los que ha fallado el scraping de HU2 (alguna de las tres variables tiene valor -1)
+- Se eliminan duplicados
+- Se separa la dosis en valor numérico y unidad.
+- Se eliminan los registros cuya dosis o unidad no se puede interpretar
+
+El nuevo dataframe se guarda en un nuevo csv (medicamentos_epilepsia_HU4_limpio_fecha.csv)
+
+Al igual que en los otros HU, cada fase registra también su actividad, incidencias y resultado en el log de ejecución.
+
+### HU5
+Se recibe el dataframe del HU4, sobre el que se calculan los clusters
+
+Para el modelo se usan las columnas:
+- "Precio venta al público con IVA"
+- "Volumen Informativo de Seguridad (num palabras)"
+- "Indicador de Riesgo Severo (num veces grave/s)"
+- "Complejidad del Desglose Clínico (num tablas)"
+
+El archivo csv se sobreescribe con cada ejecucion: medicamentos_epilepsia_HU5_clusters.csv
+
+Se genera un archivo con los clusters -> data/graficos/ -> hu5_clusters_pca.png (tambien se sobreescribe)
