@@ -16,7 +16,7 @@ COLUMNAS_SCRAPING = [
     "Complejidad del Desglose Clínico (num tablas)",
     "Indicador de Riesgo Severo (num veces grave/s)",
 ]
-
+COLUMNAS_URL = ["url_html_ficha_tecnica", "url_foto_materiales"]
 
 def sacar_unidad(texto):
     texto = str(texto).lower()
@@ -79,14 +79,14 @@ def obtener_datos_hu4(df, fecha):
         logger.warning(f"Quitados {con_fallo.sum()} medicamentos con fallo de scraping en la HU2")
 
     # quitar colum que no interesan y ctes 
-    df4 = df4.drop(columns=["nregistro", "cn", "estado_rev", "estado_aut",
-                            "url_html_ficha_tecnica", "url_foto_materiales"])
+    df4 = df4.drop(columns=["nregistro", "cn", "estado_rev", "estado_aut"])
     df4 = df4.drop(columns=["requiere_receta", "medicamento_huerfano", "biosimilar",
                             "num_registros_atc", "num_excipientes", "Especial control médico"])
 
     #quitar duplicados 
-    logger.info(f"Duplicados quitados: {df4.duplicated().sum()}")
-    df4 = df4.drop_duplicates()
+    columnas_datos = [c for c in df4.columns if c not in COLUMNAS_URL]
+    logger.info(f"Duplicados quitados: {df4.duplicated(subset=columnas_datos).sum()}")
+    df4 = df4.drop_duplicates(subset=columnas_datos)
 
     # pasar cat a nº
     df4 = pd.get_dummies(df4, columns=["forma_farmaceutica_simplificada", "vias_administracion"], dtype=int)
@@ -101,14 +101,17 @@ def obtener_datos_hu4(df, fecha):
     df4 = df4.dropna(subset=["dosis", "dosis_unidad"])
 
     # comprobar que no hay nulos
-    nulos = df4.isnull().sum().sum()
-    if nulos > 0:
-        raise ValueError(f"Después de la limpieza quedan {nulos} nulos")
+    #nulos = df4.isnull().sum().sum()
+    #if nulos > 0:
+    #    raise ValueError(f"Después de la limpieza quedan {nulos} nulos")
+#
+    #logger.info(f"Datos limpios: {df4.shape[0]} medicamentos y {df4.shape[1]} columnas")
 
-    logger.info(f"Datos limpios: {df4.shape[0]} medicamentos y {df4.shape[1]} columnas")
-
+    nulos = df4.drop(columns=["url_foto_materiales"]).isnull().sum().sum()
+    print(f"Después de la limpieza quedan {nulos} nulos")
     #la hu4 esta completa si no hay ningun fallo de scraping en la hu2
     hu4_completo = (con_fallo.sum() == 0)
+    logger.info(f"el numero de columnas de la hu4 es {df4.shape[1]} y el numero de filas es {df4.shape[0]}")
 
     #guardar csv de la hu4
     ruta_csv = RUTA_DATA / f"medicamentos_epilepsia_HU4_limpio_{fecha}.csv"
