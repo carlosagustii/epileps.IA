@@ -1,0 +1,5 @@
+use bd_epilepsia;
+
+SELECT DISTINCT pactivos, kpi_num_laboratorios_pactivo
+FROM medicamentos_epilepsia_hu5
+ORDER BY kpi_num_laboratorios_pactivo DESC;

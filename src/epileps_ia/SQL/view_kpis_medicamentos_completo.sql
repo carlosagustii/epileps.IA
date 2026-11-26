@@ -18,6 +18,10 @@ SELECT
     kpi_ahorro_potencial_comercializados_pct,
 
     kpi_pct_distribucion_acumulada_precios,
-    kpi_pct_distribucion_acumulada_precios_comercializados
+    kpi_pct_distribucion_acumulada_precios_comercializados,
+
+    kpi_intensidad_riesgo,
+
+    kpi_num_laboratorios_pactivo
 
 FROM BD_EPILEPSIA.medicamentos_epilepsia_hu5;
