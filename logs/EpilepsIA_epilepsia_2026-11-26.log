@@ -1,0 +1,2084 @@
+2026-11-26 19:43:13,526 - INFO - __main__ - Iniciando el proyecto
+2026-11-26 19:43:13,527 - INFO - __main__ - Iniciando HU1
+2026-11-26 19:43:13,528 - INFO - epileps_ia.cima_api - Iniciando búsqueda de medicamentos en CIMA...
+2026-11-26 19:43:23,567 - INFO - epileps_ia.cima_api - Se han encontrado 995 medicamentos
+2026-11-26 19:43:23,568 - INFO - epileps_ia.cima_api - Consultando medicamento 1/995
+2026-11-26 19:43:23,678 - INFO - epileps_ia.cima_api - Consultando medicamento 2/995
+2026-11-26 19:43:23,737 - INFO - epileps_ia.cima_api - Consultando medicamento 3/995
+2026-11-26 19:43:23,766 - INFO - epileps_ia.cima_api - Consultando medicamento 4/995
+2026-11-26 19:43:23,798 - INFO - epileps_ia.cima_api - Consultando medicamento 5/995
+2026-11-26 19:43:23,834 - INFO - epileps_ia.cima_api - Consultando medicamento 6/995
+2026-11-26 19:43:23,866 - INFO - epileps_ia.cima_api - Consultando medicamento 7/995
+2026-11-26 19:43:23,889 - INFO - epileps_ia.cima_api - Consultando medicamento 8/995
+2026-11-26 19:43:23,917 - INFO - epileps_ia.cima_api - Consultando medicamento 9/995
+2026-11-26 19:43:23,946 - INFO - epileps_ia.cima_api - Consultando medicamento 10/995
+2026-11-26 19:43:23,981 - INFO - epileps_ia.cima_api - Consultando medicamento 11/995
+2026-11-26 19:43:24,009 - INFO - epileps_ia.cima_api - Consultando medicamento 12/995
+2026-11-26 19:43:24,146 - INFO - epileps_ia.cima_api - Consultando medicamento 13/995
+2026-11-26 19:43:24,209 - INFO - epileps_ia.cima_api - Consultando medicamento 14/995
+2026-11-26 19:43:24,276 - INFO - epileps_ia.cima_api - Consultando medicamento 15/995
+2026-11-26 19:43:24,310 - INFO - epileps_ia.cima_api - Consultando medicamento 16/995
+2026-11-26 19:43:24,344 - INFO - epileps_ia.cima_api - Consultando medicamento 17/995
+2026-11-26 19:43:24,375 - INFO - epileps_ia.cima_api - Consultando medicamento 18/995
+2026-11-26 19:43:24,406 - INFO - epileps_ia.cima_api - Consultando medicamento 19/995
+2026-11-26 19:43:24,459 - INFO - epileps_ia.cima_api - Consultando medicamento 20/995
+2026-11-26 19:43:24,492 - INFO - epileps_ia.cima_api - Consultando medicamento 21/995
+2026-11-26 19:43:24,521 - INFO - epileps_ia.cima_api - Consultando medicamento 22/995
+2026-11-26 19:43:24,556 - INFO - epileps_ia.cima_api - Consultando medicamento 23/995
+2026-11-26 19:43:24,592 - INFO - epileps_ia.cima_api - Consultando medicamento 24/995
+2026-11-26 19:43:24,625 - INFO - epileps_ia.cima_api - Consultando medicamento 25/995
+2026-11-26 19:43:24,661 - INFO - epileps_ia.cima_api - Consultando medicamento 26/995
+2026-11-26 19:43:24,692 - INFO - epileps_ia.cima_api - Consultando medicamento 27/995
+2026-11-26 19:43:24,728 - INFO - epileps_ia.cima_api - Consultando medicamento 28/995
+2026-11-26 19:43:24,762 - INFO - epileps_ia.cima_api - Consultando medicamento 29/995
+2026-11-26 19:43:24,847 - INFO - epileps_ia.cima_api - Consultando medicamento 30/995
+2026-11-26 19:43:24,877 - INFO - epileps_ia.cima_api - Consultando medicamento 31/995
+2026-11-26 19:43:24,908 - INFO - epileps_ia.cima_api - Consultando medicamento 32/995
+2026-11-26 19:43:24,935 - INFO - epileps_ia.cima_api - Consultando medicamento 33/995
+2026-11-26 19:43:24,962 - INFO - epileps_ia.cima_api - Consultando medicamento 34/995
+2026-11-26 19:43:24,994 - INFO - epileps_ia.cima_api - Consultando medicamento 35/995
+2026-11-26 19:43:25,024 - INFO - epileps_ia.cima_api - Consultando medicamento 36/995
+2026-11-26 19:43:25,052 - INFO - epileps_ia.cima_api - Consultando medicamento 37/995
+2026-11-26 19:43:25,092 - INFO - epileps_ia.cima_api - Consultando medicamento 38/995
+2026-11-26 19:43:25,116 - INFO - epileps_ia.cima_api - Consultando medicamento 39/995
+2026-11-26 19:43:25,146 - INFO - epileps_ia.cima_api - Consultando medicamento 40/995
+2026-11-26 19:43:25,178 - INFO - epileps_ia.cima_api - Consultando medicamento 41/995
+2026-11-26 19:43:25,259 - INFO - epileps_ia.cima_api - Consultando medicamento 42/995
+2026-11-26 19:43:25,293 - INFO - epileps_ia.cima_api - Consultando medicamento 43/995
+2026-11-26 19:43:25,548 - INFO - epileps_ia.cima_api - Consultando medicamento 44/995
+2026-11-26 19:43:25,690 - INFO - epileps_ia.cima_api - Consultando medicamento 45/995
+2026-11-26 19:43:25,756 - INFO - epileps_ia.cima_api - Consultando medicamento 46/995
+2026-11-26 19:43:25,866 - INFO - epileps_ia.cima_api - Consultando medicamento 47/995
+2026-11-26 19:43:25,903 - INFO - epileps_ia.cima_api - Consultando medicamento 48/995
+2026-11-26 19:43:25,933 - INFO - epileps_ia.cima_api - Consultando medicamento 49/995
+2026-11-26 19:43:25,959 - INFO - epileps_ia.cima_api - Consultando medicamento 50/995
+2026-11-26 19:43:25,986 - INFO - epileps_ia.cima_api - Consultando medicamento 51/995
+2026-11-26 19:43:26,013 - INFO - epileps_ia.cima_api - Consultando medicamento 52/995
+2026-11-26 19:43:26,039 - INFO - epileps_ia.cima_api - Consultando medicamento 53/995
+2026-11-26 19:43:26,067 - INFO - epileps_ia.cima_api - Consultando medicamento 54/995
+2026-11-26 19:43:26,096 - INFO - epileps_ia.cima_api - Consultando medicamento 55/995
+2026-11-26 19:43:26,127 - INFO - epileps_ia.cima_api - Consultando medicamento 56/995
+2026-11-26 19:43:26,159 - INFO - epileps_ia.cima_api - Consultando medicamento 57/995
+2026-11-26 19:43:26,191 - INFO - epileps_ia.cima_api - Consultando medicamento 58/995
+2026-11-26 19:43:26,225 - INFO - epileps_ia.cima_api - Consultando medicamento 59/995
+2026-11-26 19:43:26,260 - INFO - epileps_ia.cima_api - Consultando medicamento 60/995
+2026-11-26 19:43:26,292 - INFO - epileps_ia.cima_api - Consultando medicamento 61/995
+2026-11-26 19:43:26,319 - INFO - epileps_ia.cima_api - Consultando medicamento 62/995
+2026-11-26 19:43:26,347 - INFO - epileps_ia.cima_api - Consultando medicamento 63/995
+2026-11-26 19:43:26,376 - INFO - epileps_ia.cima_api - Consultando medicamento 64/995
+2026-11-26 19:43:26,404 - INFO - epileps_ia.cima_api - Consultando medicamento 65/995
+2026-11-26 19:43:26,433 - INFO - epileps_ia.cima_api - Consultando medicamento 66/995
+2026-11-26 19:43:26,483 - INFO - epileps_ia.cima_api - Consultando medicamento 67/995
+2026-11-26 19:43:26,514 - INFO - epileps_ia.cima_api - Consultando medicamento 68/995
+2026-11-26 19:43:26,544 - INFO - epileps_ia.cima_api - Consultando medicamento 69/995
+2026-11-26 19:43:26,576 - INFO - epileps_ia.cima_api - Consultando medicamento 70/995
+2026-11-26 19:43:26,611 - INFO - epileps_ia.cima_api - Consultando medicamento 71/995
+2026-11-26 19:43:26,662 - INFO - epileps_ia.cima_api - Consultando medicamento 72/995
+2026-11-26 19:43:26,695 - INFO - epileps_ia.cima_api - Consultando medicamento 73/995
+2026-11-26 19:43:26,722 - INFO - epileps_ia.cima_api - Consultando medicamento 74/995
+2026-11-26 19:43:26,756 - INFO - epileps_ia.cima_api - Consultando medicamento 75/995
+2026-11-26 19:43:26,794 - INFO - epileps_ia.cima_api - Consultando medicamento 76/995
+2026-11-26 19:43:26,824 - INFO - epileps_ia.cima_api - Consultando medicamento 77/995
+2026-11-26 19:43:26,856 - INFO - epileps_ia.cima_api - Consultando medicamento 78/995
+2026-11-26 19:43:26,889 - INFO - epileps_ia.cima_api - Consultando medicamento 79/995
+2026-11-26 19:43:26,920 - INFO - epileps_ia.cima_api - Consultando medicamento 80/995
+2026-11-26 19:43:26,953 - INFO - epileps_ia.cima_api - Consultando medicamento 81/995
+2026-11-26 19:43:26,983 - INFO - epileps_ia.cima_api - Consultando medicamento 82/995
+2026-11-26 19:43:27,012 - INFO - epileps_ia.cima_api - Consultando medicamento 83/995
+2026-11-26 19:43:27,044 - INFO - epileps_ia.cima_api - Consultando medicamento 84/995
+2026-11-26 19:43:27,194 - INFO - epileps_ia.cima_api - Consultando medicamento 85/995
+2026-11-26 19:43:27,241 - INFO - epileps_ia.cima_api - Consultando medicamento 86/995
+2026-11-26 19:43:27,280 - INFO - epileps_ia.cima_api - Consultando medicamento 87/995
+2026-11-26 19:43:27,332 - INFO - epileps_ia.cima_api - Consultando medicamento 88/995
+2026-11-26 19:43:27,429 - INFO - epileps_ia.cima_api - Consultando medicamento 89/995
+2026-11-26 19:43:27,462 - INFO - epileps_ia.cima_api - Consultando medicamento 90/995
+2026-11-26 19:43:27,492 - INFO - epileps_ia.cima_api - Consultando medicamento 91/995
+2026-11-26 19:43:27,519 - INFO - epileps_ia.cima_api - Consultando medicamento 92/995
+2026-11-26 19:43:27,547 - INFO - epileps_ia.cima_api - Consultando medicamento 93/995
+2026-11-26 19:43:27,579 - INFO - epileps_ia.cima_api - Consultando medicamento 94/995
+2026-11-26 19:43:27,612 - INFO - epileps_ia.cima_api - Consultando medicamento 95/995
+2026-11-26 19:43:27,654 - INFO - epileps_ia.cima_api - Consultando medicamento 96/995
+2026-11-26 19:43:27,685 - INFO - epileps_ia.cima_api - Consultando medicamento 97/995
+2026-11-26 19:43:27,715 - INFO - epileps_ia.cima_api - Consultando medicamento 98/995
+2026-11-26 19:43:27,746 - INFO - epileps_ia.cima_api - Consultando medicamento 99/995
+2026-11-26 19:43:27,778 - INFO - epileps_ia.cima_api - Consultando medicamento 100/995
+2026-11-26 19:43:27,809 - INFO - epileps_ia.cima_api - Consultando medicamento 101/995
+2026-11-26 19:43:27,840 - INFO - epileps_ia.cima_api - Consultando medicamento 102/995
+2026-11-26 19:43:27,874 - INFO - epileps_ia.cima_api - Consultando medicamento 103/995
+2026-11-26 19:43:27,904 - INFO - epileps_ia.cima_api - Consultando medicamento 104/995
+2026-11-26 19:43:27,935 - INFO - epileps_ia.cima_api - Consultando medicamento 105/995
+2026-11-26 19:43:28,053 - INFO - epileps_ia.cima_api - Consultando medicamento 106/995
+2026-11-26 19:43:28,089 - INFO - epileps_ia.cima_api - Consultando medicamento 107/995
+2026-11-26 19:43:28,177 - INFO - epileps_ia.cima_api - Consultando medicamento 108/995
+2026-11-26 19:43:28,213 - INFO - epileps_ia.cima_api - Consultando medicamento 109/995
+2026-11-26 19:43:28,247 - INFO - epileps_ia.cima_api - Consultando medicamento 110/995
+2026-11-26 19:43:28,283 - INFO - epileps_ia.cima_api - Consultando medicamento 111/995
+2026-11-26 19:43:28,314 - INFO - epileps_ia.cima_api - Consultando medicamento 112/995
+2026-11-26 19:43:28,577 - INFO - epileps_ia.cima_api - Consultando medicamento 113/995
+2026-11-26 19:43:28,610 - INFO - epileps_ia.cima_api - Consultando medicamento 114/995
+2026-11-26 19:43:28,637 - INFO - epileps_ia.cima_api - Consultando medicamento 115/995
+2026-11-26 19:43:28,668 - INFO - epileps_ia.cima_api - Consultando medicamento 116/995
+2026-11-26 19:43:28,696 - INFO - epileps_ia.cima_api - Consultando medicamento 117/995
+2026-11-26 19:43:28,729 - INFO - epileps_ia.cima_api - Consultando medicamento 118/995
+2026-11-26 19:43:28,860 - INFO - epileps_ia.cima_api - Consultando medicamento 119/995
+2026-11-26 19:43:28,947 - INFO - epileps_ia.cima_api - Consultando medicamento 120/995
+2026-11-26 19:43:29,010 - INFO - epileps_ia.cima_api - Consultando medicamento 121/995
+2026-11-26 19:43:29,045 - INFO - epileps_ia.cima_api - Consultando medicamento 122/995
+2026-11-26 19:43:29,072 - INFO - epileps_ia.cima_api - Consultando medicamento 123/995
+2026-11-26 19:43:29,103 - INFO - epileps_ia.cima_api - Consultando medicamento 124/995
+2026-11-26 19:43:29,133 - INFO - epileps_ia.cima_api - Consultando medicamento 125/995
+2026-11-26 19:43:29,163 - INFO - epileps_ia.cima_api - Consultando medicamento 126/995
+2026-11-26 19:43:29,198 - INFO - epileps_ia.cima_api - Consultando medicamento 127/995
+2026-11-26 19:43:29,236 - INFO - epileps_ia.cima_api - Consultando medicamento 128/995
+2026-11-26 19:43:29,278 - INFO - epileps_ia.cima_api - Consultando medicamento 129/995
+2026-11-26 19:43:29,310 - INFO - epileps_ia.cima_api - Consultando medicamento 130/995
+2026-11-26 19:43:29,552 - INFO - epileps_ia.cima_api - Consultando medicamento 131/995
+2026-11-26 19:43:29,638 - INFO - epileps_ia.cima_api - Consultando medicamento 132/995
+2026-11-26 19:43:29,710 - INFO - epileps_ia.cima_api - Consultando medicamento 133/995
+2026-11-26 19:43:29,743 - INFO - epileps_ia.cima_api - Consultando medicamento 134/995
+2026-11-26 19:43:29,781 - INFO - epileps_ia.cima_api - Consultando medicamento 135/995
+2026-11-26 19:43:29,851 - INFO - epileps_ia.cima_api - Consultando medicamento 136/995
+2026-11-26 19:43:29,886 - INFO - epileps_ia.cima_api - Consultando medicamento 137/995
+2026-11-26 19:43:29,918 - INFO - epileps_ia.cima_api - Consultando medicamento 138/995
+2026-11-26 19:43:29,949 - INFO - epileps_ia.cima_api - Consultando medicamento 139/995
+2026-11-26 19:43:29,978 - INFO - epileps_ia.cima_api - Consultando medicamento 140/995
+2026-11-26 19:43:30,013 - INFO - epileps_ia.cima_api - Consultando medicamento 141/995
+2026-11-26 19:43:30,049 - INFO - epileps_ia.cima_api - Consultando medicamento 142/995
+2026-11-26 19:43:30,080 - INFO - epileps_ia.cima_api - Consultando medicamento 143/995
+2026-11-26 19:43:30,114 - INFO - epileps_ia.cima_api - Consultando medicamento 144/995
+2026-11-26 19:43:30,144 - INFO - epileps_ia.cima_api - Consultando medicamento 145/995
+2026-11-26 19:43:30,195 - INFO - epileps_ia.cima_api - Consultando medicamento 146/995
+2026-11-26 19:43:30,230 - INFO - epileps_ia.cima_api - Consultando medicamento 147/995
+2026-11-26 19:43:30,294 - INFO - epileps_ia.cima_api - Consultando medicamento 148/995
+2026-11-26 19:43:30,327 - INFO - epileps_ia.cima_api - Consultando medicamento 149/995
+2026-11-26 19:43:30,355 - INFO - epileps_ia.cima_api - Consultando medicamento 150/995
+2026-11-26 19:43:30,522 - INFO - epileps_ia.cima_api - Consultando medicamento 151/995
+2026-11-26 19:43:30,545 - INFO - epileps_ia.cima_api - Consultando medicamento 152/995
+2026-11-26 19:43:30,568 - INFO - epileps_ia.cima_api - Consultando medicamento 153/995
+2026-11-26 19:43:30,594 - INFO - epileps_ia.cima_api - Consultando medicamento 154/995
+2026-11-26 19:43:30,619 - INFO - epileps_ia.cima_api - Consultando medicamento 155/995
+2026-11-26 19:43:30,661 - INFO - epileps_ia.cima_api - Consultando medicamento 156/995
+2026-11-26 19:43:30,686 - INFO - epileps_ia.cima_api - Consultando medicamento 157/995
+2026-11-26 19:43:30,714 - INFO - epileps_ia.cima_api - Consultando medicamento 158/995
+2026-11-26 19:43:30,745 - INFO - epileps_ia.cima_api - Consultando medicamento 159/995
+2026-11-26 19:43:30,817 - INFO - epileps_ia.cima_api - Consultando medicamento 160/995
+2026-11-26 19:43:30,850 - INFO - epileps_ia.cima_api - Consultando medicamento 161/995
+2026-11-26 19:43:30,881 - INFO - epileps_ia.cima_api - Consultando medicamento 162/995
+2026-11-26 19:43:30,915 - INFO - epileps_ia.cima_api - Consultando medicamento 163/995
+2026-11-26 19:43:30,949 - INFO - epileps_ia.cima_api - Consultando medicamento 164/995
+2026-11-26 19:43:30,979 - INFO - epileps_ia.cima_api - Consultando medicamento 165/995
+2026-11-26 19:43:31,025 - INFO - epileps_ia.cima_api - Consultando medicamento 166/995
+2026-11-26 19:43:31,063 - INFO - epileps_ia.cima_api - Consultando medicamento 167/995
+2026-11-26 19:43:31,096 - INFO - epileps_ia.cima_api - Consultando medicamento 168/995
+2026-11-26 19:43:31,130 - INFO - epileps_ia.cima_api - Consultando medicamento 169/995
+2026-11-26 19:43:31,165 - INFO - epileps_ia.cima_api - Consultando medicamento 170/995
+2026-11-26 19:43:31,196 - INFO - epileps_ia.cima_api - Consultando medicamento 171/995
+2026-11-26 19:43:31,293 - INFO - epileps_ia.cima_api - Consultando medicamento 172/995
+2026-11-26 19:43:31,320 - INFO - epileps_ia.cima_api - Consultando medicamento 173/995
+2026-11-26 19:43:31,346 - INFO - epileps_ia.cima_api - Consultando medicamento 174/995
+2026-11-26 19:43:31,362 - INFO - epileps_ia.cima_api - Consultando medicamento 175/995
+2026-11-26 19:43:31,391 - INFO - epileps_ia.cima_api - Consultando medicamento 176/995
+2026-11-26 19:43:31,405 - INFO - epileps_ia.cima_api - Consultando medicamento 177/995
+2026-11-26 19:43:31,443 - INFO - epileps_ia.cima_api - Consultando medicamento 178/995
+2026-11-26 19:43:31,460 - INFO - epileps_ia.cima_api - Consultando medicamento 179/995
+2026-11-26 19:43:31,475 - INFO - epileps_ia.cima_api - Consultando medicamento 180/995
+2026-11-26 19:43:31,509 - INFO - epileps_ia.cima_api - Consultando medicamento 181/995
+2026-11-26 19:43:31,524 - INFO - epileps_ia.cima_api - Consultando medicamento 182/995
+2026-11-26 19:43:31,539 - INFO - epileps_ia.cima_api - Consultando medicamento 183/995
+2026-11-26 19:43:31,555 - INFO - epileps_ia.cima_api - Consultando medicamento 184/995
+2026-11-26 19:43:31,571 - INFO - epileps_ia.cima_api - Consultando medicamento 185/995
+2026-11-26 19:43:31,585 - INFO - epileps_ia.cima_api - Consultando medicamento 186/995
+2026-11-26 19:43:31,599 - INFO - epileps_ia.cima_api - Consultando medicamento 187/995
+2026-11-26 19:43:31,627 - INFO - epileps_ia.cima_api - Consultando medicamento 188/995
+2026-11-26 19:43:31,654 - INFO - epileps_ia.cima_api - Consultando medicamento 189/995
+2026-11-26 19:43:31,669 - INFO - epileps_ia.cima_api - Consultando medicamento 190/995
+2026-11-26 19:43:31,698 - INFO - epileps_ia.cima_api - Consultando medicamento 191/995
+2026-11-26 19:43:31,727 - INFO - epileps_ia.cima_api - Consultando medicamento 192/995
+2026-11-26 19:43:31,760 - INFO - epileps_ia.cima_api - Consultando medicamento 193/995
+2026-11-26 19:43:31,850 - INFO - epileps_ia.cima_api - Consultando medicamento 194/995
+2026-11-26 19:43:31,869 - INFO - epileps_ia.cima_api - Consultando medicamento 195/995
+2026-11-26 19:43:31,898 - INFO - epileps_ia.cima_api - Consultando medicamento 196/995
+2026-11-26 19:43:31,926 - INFO - epileps_ia.cima_api - Consultando medicamento 197/995
+2026-11-26 19:43:31,960 - INFO - epileps_ia.cima_api - Consultando medicamento 198/995
+2026-11-26 19:43:31,993 - INFO - epileps_ia.cima_api - Consultando medicamento 199/995
+2026-11-26 19:43:32,021 - INFO - epileps_ia.cima_api - Consultando medicamento 200/995
+2026-11-26 19:43:32,050 - INFO - epileps_ia.cima_api - Consultando medicamento 201/995
+2026-11-26 19:43:32,262 - INFO - epileps_ia.cima_api - Consultando medicamento 202/995
+2026-11-26 19:43:32,297 - INFO - epileps_ia.cima_api - Consultando medicamento 203/995
+2026-11-26 19:43:32,330 - INFO - epileps_ia.cima_api - Consultando medicamento 204/995
+2026-11-26 19:43:32,360 - INFO - epileps_ia.cima_api - Consultando medicamento 205/995
+2026-11-26 19:43:32,397 - INFO - epileps_ia.cima_api - Consultando medicamento 206/995
+2026-11-26 19:43:32,446 - INFO - epileps_ia.cima_api - Consultando medicamento 207/995
+2026-11-26 19:43:32,508 - INFO - epileps_ia.cima_api - Consultando medicamento 208/995
+2026-11-26 19:43:32,537 - INFO - epileps_ia.cima_api - Consultando medicamento 209/995
+2026-11-26 19:43:32,586 - INFO - epileps_ia.cima_api - Consultando medicamento 210/995
+2026-11-26 19:43:32,614 - INFO - epileps_ia.cima_api - Consultando medicamento 211/995
+2026-11-26 19:43:32,638 - INFO - epileps_ia.cima_api - Consultando medicamento 212/995
+2026-11-26 19:43:32,669 - INFO - epileps_ia.cima_api - Consultando medicamento 213/995
+2026-11-26 19:43:32,696 - INFO - epileps_ia.cima_api - Consultando medicamento 214/995
+2026-11-26 19:43:32,727 - INFO - epileps_ia.cima_api - Consultando medicamento 215/995
+2026-11-26 19:43:32,757 - INFO - epileps_ia.cima_api - Consultando medicamento 216/995
+2026-11-26 19:43:32,788 - INFO - epileps_ia.cima_api - Consultando medicamento 217/995
+2026-11-26 19:43:32,823 - INFO - epileps_ia.cima_api - Consultando medicamento 218/995
+2026-11-26 19:43:32,858 - INFO - epileps_ia.cima_api - Consultando medicamento 219/995
+2026-11-26 19:43:32,887 - INFO - epileps_ia.cima_api - Consultando medicamento 220/995
+2026-11-26 19:43:32,969 - INFO - epileps_ia.cima_api - Consultando medicamento 221/995
+2026-11-26 19:43:33,003 - INFO - epileps_ia.cima_api - Consultando medicamento 222/995
+2026-11-26 19:43:33,037 - INFO - epileps_ia.cima_api - Consultando medicamento 223/995
+2026-11-26 19:43:33,069 - INFO - epileps_ia.cima_api - Consultando medicamento 224/995
+2026-11-26 19:43:33,100 - INFO - epileps_ia.cima_api - Consultando medicamento 225/995
+2026-11-26 19:43:33,129 - INFO - epileps_ia.cima_api - Consultando medicamento 226/995
+2026-11-26 19:43:33,160 - INFO - epileps_ia.cima_api - Consultando medicamento 227/995
+2026-11-26 19:43:33,189 - INFO - epileps_ia.cima_api - Consultando medicamento 228/995
+2026-11-26 19:43:33,219 - INFO - epileps_ia.cima_api - Consultando medicamento 229/995
+2026-11-26 19:43:33,249 - INFO - epileps_ia.cima_api - Consultando medicamento 230/995
+2026-11-26 19:43:33,287 - INFO - epileps_ia.cima_api - Consultando medicamento 231/995
+2026-11-26 19:43:33,339 - INFO - epileps_ia.cima_api - Consultando medicamento 232/995
+2026-11-26 19:43:33,417 - INFO - epileps_ia.cima_api - Consultando medicamento 233/995
+2026-11-26 19:43:33,453 - INFO - epileps_ia.cima_api - Consultando medicamento 234/995
+2026-11-26 19:43:33,469 - INFO - epileps_ia.cima_api - Consultando medicamento 235/995
+2026-11-26 19:43:33,497 - INFO - epileps_ia.cima_api - Consultando medicamento 236/995
+2026-11-26 19:43:33,556 - INFO - epileps_ia.cima_api - Consultando medicamento 237/995
+2026-11-26 19:43:33,585 - INFO - epileps_ia.cima_api - Consultando medicamento 238/995
+2026-11-26 19:43:33,615 - INFO - epileps_ia.cima_api - Consultando medicamento 239/995
+2026-11-26 19:43:33,639 - INFO - epileps_ia.cima_api - Consultando medicamento 240/995
+2026-11-26 19:43:33,669 - INFO - epileps_ia.cima_api - Consultando medicamento 241/995
+2026-11-26 19:43:33,694 - INFO - epileps_ia.cima_api - Consultando medicamento 242/995
+2026-11-26 19:43:33,724 - INFO - epileps_ia.cima_api - Consultando medicamento 243/995
+2026-11-26 19:43:33,758 - INFO - epileps_ia.cima_api - Consultando medicamento 244/995
+2026-11-26 19:43:33,791 - INFO - epileps_ia.cima_api - Consultando medicamento 245/995
+2026-11-26 19:43:33,822 - INFO - epileps_ia.cima_api - Consultando medicamento 246/995
+2026-11-26 19:43:33,853 - INFO - epileps_ia.cima_api - Consultando medicamento 247/995
+2026-11-26 19:43:33,977 - INFO - epileps_ia.cima_api - Consultando medicamento 248/995
+2026-11-26 19:43:34,074 - INFO - epileps_ia.cima_api - Consultando medicamento 249/995
+2026-11-26 19:43:34,116 - INFO - epileps_ia.cima_api - Consultando medicamento 250/995
+2026-11-26 19:43:34,147 - INFO - epileps_ia.cima_api - Consultando medicamento 251/995
+2026-11-26 19:43:34,184 - INFO - epileps_ia.cima_api - Consultando medicamento 252/995
+2026-11-26 19:43:34,215 - INFO - epileps_ia.cima_api - Consultando medicamento 253/995
+2026-11-26 19:43:34,246 - INFO - epileps_ia.cima_api - Consultando medicamento 254/995
+2026-11-26 19:43:34,277 - INFO - epileps_ia.cima_api - Consultando medicamento 255/995
+2026-11-26 19:43:34,304 - INFO - epileps_ia.cima_api - Consultando medicamento 256/995
+2026-11-26 19:43:34,334 - INFO - epileps_ia.cima_api - Consultando medicamento 257/995
+2026-11-26 19:43:34,362 - INFO - epileps_ia.cima_api - Consultando medicamento 258/995
+2026-11-26 19:43:34,394 - INFO - epileps_ia.cima_api - Consultando medicamento 259/995
+2026-11-26 19:43:34,420 - INFO - epileps_ia.cima_api - Consultando medicamento 260/995
+2026-11-26 19:43:34,448 - INFO - epileps_ia.cima_api - Consultando medicamento 261/995
+2026-11-26 19:43:34,527 - INFO - epileps_ia.cima_api - Consultando medicamento 262/995
+2026-11-26 19:43:34,562 - INFO - epileps_ia.cima_api - Consultando medicamento 263/995
+2026-11-26 19:43:34,593 - INFO - epileps_ia.cima_api - Consultando medicamento 264/995
+2026-11-26 19:43:34,644 - INFO - epileps_ia.cima_api - Consultando medicamento 265/995
+2026-11-26 19:43:34,675 - INFO - epileps_ia.cima_api - Consultando medicamento 266/995
+2026-11-26 19:43:34,705 - INFO - epileps_ia.cima_api - Consultando medicamento 267/995
+2026-11-26 19:43:34,736 - INFO - epileps_ia.cima_api - Consultando medicamento 268/995
+2026-11-26 19:43:34,752 - INFO - epileps_ia.cima_api - Consultando medicamento 269/995
+2026-11-26 19:43:34,783 - INFO - epileps_ia.cima_api - Consultando medicamento 270/995
+2026-11-26 19:43:35,130 - INFO - epileps_ia.cima_api - Consultando medicamento 271/995
+2026-11-26 19:43:35,232 - INFO - epileps_ia.cima_api - Consultando medicamento 272/995
+2026-11-26 19:43:35,265 - INFO - epileps_ia.cima_api - Consultando medicamento 273/995
+2026-11-26 19:43:35,301 - INFO - epileps_ia.cima_api - Consultando medicamento 274/995
+2026-11-26 19:43:35,327 - INFO - epileps_ia.cima_api - Consultando medicamento 275/995
+2026-11-26 19:43:35,361 - INFO - epileps_ia.cima_api - Consultando medicamento 276/995
+2026-11-26 19:43:35,541 - INFO - epileps_ia.cima_api - Consultando medicamento 277/995
+2026-11-26 19:43:35,594 - INFO - epileps_ia.cima_api - Consultando medicamento 278/995
+2026-11-26 19:43:35,636 - INFO - epileps_ia.cima_api - Consultando medicamento 279/995
+2026-11-26 19:43:35,660 - INFO - epileps_ia.cima_api - Consultando medicamento 280/995
+2026-11-26 19:43:35,706 - INFO - epileps_ia.cima_api - Consultando medicamento 281/995
+2026-11-26 19:43:35,759 - INFO - epileps_ia.cima_api - Consultando medicamento 282/995
+2026-11-26 19:43:35,864 - INFO - epileps_ia.cima_api - Consultando medicamento 283/995
+2026-11-26 19:43:35,895 - INFO - epileps_ia.cima_api - Consultando medicamento 284/995
+2026-11-26 19:43:35,929 - INFO - epileps_ia.cima_api - Consultando medicamento 285/995
+2026-11-26 19:43:35,959 - INFO - epileps_ia.cima_api - Consultando medicamento 286/995
+2026-11-26 19:43:35,990 - INFO - epileps_ia.cima_api - Consultando medicamento 287/995
+2026-11-26 19:43:36,022 - INFO - epileps_ia.cima_api - Consultando medicamento 288/995
+2026-11-26 19:43:36,054 - INFO - epileps_ia.cima_api - Consultando medicamento 289/995
+2026-11-26 19:43:36,092 - INFO - epileps_ia.cima_api - Consultando medicamento 290/995
+2026-11-26 19:43:36,124 - INFO - epileps_ia.cima_api - Consultando medicamento 291/995
+2026-11-26 19:43:36,155 - INFO - epileps_ia.cima_api - Consultando medicamento 292/995
+2026-11-26 19:43:36,190 - INFO - epileps_ia.cima_api - Consultando medicamento 293/995
+2026-11-26 19:43:36,276 - INFO - epileps_ia.cima_api - Consultando medicamento 294/995
+2026-11-26 19:43:36,311 - INFO - epileps_ia.cima_api - Consultando medicamento 295/995
+2026-11-26 19:43:36,348 - INFO - epileps_ia.cima_api - Consultando medicamento 296/995
+2026-11-26 19:43:36,381 - INFO - epileps_ia.cima_api - Consultando medicamento 297/995
+2026-11-26 19:43:36,413 - INFO - epileps_ia.cima_api - Consultando medicamento 298/995
+2026-11-26 19:43:36,440 - INFO - epileps_ia.cima_api - Consultando medicamento 299/995
+2026-11-26 19:43:36,467 - INFO - epileps_ia.cima_api - Consultando medicamento 300/995
+2026-11-26 19:43:36,562 - INFO - epileps_ia.cima_api - Consultando medicamento 301/995
+2026-11-26 19:43:36,593 - INFO - epileps_ia.cima_api - Consultando medicamento 302/995
+2026-11-26 19:43:36,619 - INFO - epileps_ia.cima_api - Consultando medicamento 303/995
+2026-11-26 19:43:36,974 - INFO - epileps_ia.cima_api - Consultando medicamento 304/995
+2026-11-26 19:43:37,002 - INFO - epileps_ia.cima_api - Consultando medicamento 305/995
+2026-11-26 19:43:37,031 - INFO - epileps_ia.cima_api - Consultando medicamento 306/995
+2026-11-26 19:43:37,060 - INFO - epileps_ia.cima_api - Consultando medicamento 307/995
+2026-11-26 19:43:37,087 - INFO - epileps_ia.cima_api - Consultando medicamento 308/995
+2026-11-26 19:43:37,118 - INFO - epileps_ia.cima_api - Consultando medicamento 309/995
+2026-11-26 19:43:37,153 - INFO - epileps_ia.cima_api - Consultando medicamento 310/995
+2026-11-26 19:43:37,190 - INFO - epileps_ia.cima_api - Consultando medicamento 311/995
+2026-11-26 19:43:37,313 - INFO - epileps_ia.cima_api - Consultando medicamento 312/995
+2026-11-26 19:43:37,364 - INFO - epileps_ia.cima_api - Consultando medicamento 313/995
+2026-11-26 19:43:37,391 - INFO - epileps_ia.cima_api - Consultando medicamento 314/995
+2026-11-26 19:43:37,515 - INFO - epileps_ia.cima_api - Consultando medicamento 315/995
+2026-11-26 19:43:37,544 - INFO - epileps_ia.cima_api - Consultando medicamento 316/995
+2026-11-26 19:43:37,574 - INFO - epileps_ia.cima_api - Consultando medicamento 317/995
+2026-11-26 19:43:37,608 - INFO - epileps_ia.cima_api - Consultando medicamento 318/995
+2026-11-26 19:43:37,640 - INFO - epileps_ia.cima_api - Consultando medicamento 319/995
+2026-11-26 19:43:37,733 - INFO - epileps_ia.cima_api - Consultando medicamento 320/995
+2026-11-26 19:43:37,768 - INFO - epileps_ia.cima_api - Consultando medicamento 321/995
+2026-11-26 19:43:37,801 - INFO - epileps_ia.cima_api - Consultando medicamento 322/995
+2026-11-26 19:43:37,830 - INFO - epileps_ia.cima_api - Consultando medicamento 323/995
+2026-11-26 19:43:37,861 - INFO - epileps_ia.cima_api - Consultando medicamento 324/995
+2026-11-26 19:43:37,896 - INFO - epileps_ia.cima_api - Consultando medicamento 325/995
+2026-11-26 19:43:37,927 - INFO - epileps_ia.cima_api - Consultando medicamento 326/995
+2026-11-26 19:43:37,961 - INFO - epileps_ia.cima_api - Consultando medicamento 327/995
+2026-11-26 19:43:37,991 - INFO - epileps_ia.cima_api - Consultando medicamento 328/995
+2026-11-26 19:43:38,042 - INFO - epileps_ia.cima_api - Consultando medicamento 329/995
+2026-11-26 19:43:38,078 - INFO - epileps_ia.cima_api - Consultando medicamento 330/995
+2026-11-26 19:43:38,116 - INFO - epileps_ia.cima_api - Consultando medicamento 331/995
+2026-11-26 19:43:38,150 - INFO - epileps_ia.cima_api - Consultando medicamento 332/995
+2026-11-26 19:43:38,253 - INFO - epileps_ia.cima_api - Consultando medicamento 333/995
+2026-11-26 19:43:38,290 - INFO - epileps_ia.cima_api - Consultando medicamento 334/995
+2026-11-26 19:43:38,328 - INFO - epileps_ia.cima_api - Consultando medicamento 335/995
+2026-11-26 19:43:38,364 - INFO - epileps_ia.cima_api - Consultando medicamento 336/995
+2026-11-26 19:43:38,396 - INFO - epileps_ia.cima_api - Consultando medicamento 337/995
+2026-11-26 19:43:38,431 - INFO - epileps_ia.cima_api - Consultando medicamento 338/995
+2026-11-26 19:43:38,465 - INFO - epileps_ia.cima_api - Consultando medicamento 339/995
+2026-11-26 19:43:38,496 - INFO - epileps_ia.cima_api - Consultando medicamento 340/995
+2026-11-26 19:43:38,535 - INFO - epileps_ia.cima_api - Consultando medicamento 341/995
+2026-11-26 19:43:39,693 - INFO - epileps_ia.cima_api - Consultando medicamento 342/995
+2026-11-26 19:43:39,725 - INFO - epileps_ia.cima_api - Consultando medicamento 343/995
+2026-11-26 19:43:39,754 - INFO - epileps_ia.cima_api - Consultando medicamento 344/995
+2026-11-26 19:43:39,780 - INFO - epileps_ia.cima_api - Consultando medicamento 345/995
+2026-11-26 19:43:39,809 - INFO - epileps_ia.cima_api - Consultando medicamento 346/995
+2026-11-26 19:43:39,842 - INFO - epileps_ia.cima_api - Consultando medicamento 347/995
+2026-11-26 19:43:39,895 - INFO - epileps_ia.cima_api - Consultando medicamento 348/995
+2026-11-26 19:43:39,923 - INFO - epileps_ia.cima_api - Consultando medicamento 349/995
+2026-11-26 19:43:39,956 - INFO - epileps_ia.cima_api - Consultando medicamento 350/995
+2026-11-26 19:43:39,988 - INFO - epileps_ia.cima_api - Consultando medicamento 351/995
+2026-11-26 19:43:40,019 - INFO - epileps_ia.cima_api - Consultando medicamento 352/995
+2026-11-26 19:43:40,047 - INFO - epileps_ia.cima_api - Consultando medicamento 353/995
+2026-11-26 19:43:40,075 - INFO - epileps_ia.cima_api - Consultando medicamento 354/995
+2026-11-26 19:43:40,115 - INFO - epileps_ia.cima_api - Consultando medicamento 355/995
+2026-11-26 19:43:40,187 - INFO - epileps_ia.cima_api - Consultando medicamento 356/995
+2026-11-26 19:43:40,216 - INFO - epileps_ia.cima_api - Consultando medicamento 357/995
+2026-11-26 19:43:40,258 - INFO - epileps_ia.cima_api - Consultando medicamento 358/995
+2026-11-26 19:43:40,318 - INFO - epileps_ia.cima_api - Consultando medicamento 359/995
+2026-11-26 19:43:40,345 - INFO - epileps_ia.cima_api - Consultando medicamento 360/995
+2026-11-26 19:43:40,376 - INFO - epileps_ia.cima_api - Consultando medicamento 361/995
+2026-11-26 19:43:40,406 - INFO - epileps_ia.cima_api - Consultando medicamento 362/995
+2026-11-26 19:43:40,437 - INFO - epileps_ia.cima_api - Consultando medicamento 363/995
+2026-11-26 19:43:40,470 - INFO - epileps_ia.cima_api - Consultando medicamento 364/995
+2026-11-26 19:43:40,662 - INFO - epileps_ia.cima_api - Consultando medicamento 365/995
+2026-11-26 19:43:40,699 - INFO - epileps_ia.cima_api - Consultando medicamento 366/995
+2026-11-26 19:43:40,758 - INFO - epileps_ia.cima_api - Consultando medicamento 367/995
+2026-11-26 19:43:40,786 - INFO - epileps_ia.cima_api - Consultando medicamento 368/995
+2026-11-26 19:43:40,814 - INFO - epileps_ia.cima_api - Consultando medicamento 369/995
+2026-11-26 19:43:40,845 - INFO - epileps_ia.cima_api - Consultando medicamento 370/995
+2026-11-26 19:43:40,870 - INFO - epileps_ia.cima_api - Consultando medicamento 371/995
+2026-11-26 19:43:40,906 - INFO - epileps_ia.cima_api - Consultando medicamento 372/995
+2026-11-26 19:43:40,936 - INFO - epileps_ia.cima_api - Consultando medicamento 373/995
+2026-11-26 19:43:40,966 - INFO - epileps_ia.cima_api - Consultando medicamento 374/995
+2026-11-26 19:43:40,994 - INFO - epileps_ia.cima_api - Consultando medicamento 375/995
+2026-11-26 19:43:41,025 - INFO - epileps_ia.cima_api - Consultando medicamento 376/995
+2026-11-26 19:43:41,054 - INFO - epileps_ia.cima_api - Consultando medicamento 377/995
+2026-11-26 19:43:41,087 - INFO - epileps_ia.cima_api - Consultando medicamento 378/995
+2026-11-26 19:43:41,192 - INFO - epileps_ia.cima_api - Consultando medicamento 379/995
+2026-11-26 19:43:41,224 - INFO - epileps_ia.cima_api - Consultando medicamento 380/995
+2026-11-26 19:43:41,258 - INFO - epileps_ia.cima_api - Consultando medicamento 381/995
+2026-11-26 19:43:41,289 - INFO - epileps_ia.cima_api - Consultando medicamento 382/995
+2026-11-26 19:43:41,325 - INFO - epileps_ia.cima_api - Consultando medicamento 383/995
+2026-11-26 19:43:41,361 - INFO - epileps_ia.cima_api - Consultando medicamento 384/995
+2026-11-26 19:43:41,581 - INFO - epileps_ia.cima_api - Consultando medicamento 385/995
+2026-11-26 19:43:41,612 - INFO - epileps_ia.cima_api - Consultando medicamento 386/995
+2026-11-26 19:43:41,888 - INFO - epileps_ia.cima_api - Consultando medicamento 387/995
+2026-11-26 19:43:41,917 - INFO - epileps_ia.cima_api - Consultando medicamento 388/995
+2026-11-26 19:43:41,969 - INFO - epileps_ia.cima_api - Consultando medicamento 389/995
+2026-11-26 19:43:41,995 - INFO - epileps_ia.cima_api - Consultando medicamento 390/995
+2026-11-26 19:43:42,019 - INFO - epileps_ia.cima_api - Consultando medicamento 391/995
+2026-11-26 19:43:42,049 - INFO - epileps_ia.cima_api - Consultando medicamento 392/995
+2026-11-26 19:43:42,080 - INFO - epileps_ia.cima_api - Consultando medicamento 393/995
+2026-11-26 19:43:42,111 - INFO - epileps_ia.cima_api - Consultando medicamento 394/995
+2026-11-26 19:43:42,144 - INFO - epileps_ia.cima_api - Consultando medicamento 395/995
+2026-11-26 19:43:42,300 - INFO - epileps_ia.cima_api - Consultando medicamento 396/995
+2026-11-26 19:43:42,381 - INFO - epileps_ia.cima_api - Consultando medicamento 397/995
+2026-11-26 19:43:42,413 - INFO - epileps_ia.cima_api - Consultando medicamento 398/995
+2026-11-26 19:43:42,443 - INFO - epileps_ia.cima_api - Consultando medicamento 399/995
+2026-11-26 19:43:42,469 - INFO - epileps_ia.cima_api - Consultando medicamento 400/995
+2026-11-26 19:43:42,494 - INFO - epileps_ia.cima_api - Consultando medicamento 401/995
+2026-11-26 19:43:42,523 - INFO - epileps_ia.cima_api - Consultando medicamento 402/995
+2026-11-26 19:43:42,564 - INFO - epileps_ia.cima_api - Consultando medicamento 403/995
+2026-11-26 19:43:42,636 - INFO - epileps_ia.cima_api - Consultando medicamento 404/995
+2026-11-26 19:43:42,661 - INFO - epileps_ia.cima_api - Consultando medicamento 405/995
+2026-11-26 19:43:42,691 - INFO - epileps_ia.cima_api - Consultando medicamento 406/995
+2026-11-26 19:43:42,729 - INFO - epileps_ia.cima_api - Consultando medicamento 407/995
+2026-11-26 19:43:42,760 - INFO - epileps_ia.cima_api - Consultando medicamento 408/995
+2026-11-26 19:43:42,790 - INFO - epileps_ia.cima_api - Consultando medicamento 409/995
+2026-11-26 19:43:42,815 - INFO - epileps_ia.cima_api - Consultando medicamento 410/995
+2026-11-26 19:43:42,891 - INFO - epileps_ia.cima_api - Consultando medicamento 411/995
+2026-11-26 19:43:42,922 - INFO - epileps_ia.cima_api - Consultando medicamento 412/995
+2026-11-26 19:43:42,950 - INFO - epileps_ia.cima_api - Consultando medicamento 413/995
+2026-11-26 19:43:42,980 - INFO - epileps_ia.cima_api - Consultando medicamento 414/995
+2026-11-26 19:43:43,011 - INFO - epileps_ia.cima_api - Consultando medicamento 415/995
+2026-11-26 19:43:43,044 - INFO - epileps_ia.cima_api - Consultando medicamento 416/995
+2026-11-26 19:43:43,078 - INFO - epileps_ia.cima_api - Consultando medicamento 417/995
+2026-11-26 19:43:43,530 - INFO - epileps_ia.cima_api - Consultando medicamento 418/995
+2026-11-26 19:43:43,583 - INFO - epileps_ia.cima_api - Consultando medicamento 419/995
+2026-11-26 19:43:43,613 - INFO - epileps_ia.cima_api - Consultando medicamento 420/995
+2026-11-26 19:43:43,642 - INFO - epileps_ia.cima_api - Consultando medicamento 421/995
+2026-11-26 19:43:43,672 - INFO - epileps_ia.cima_api - Consultando medicamento 422/995
+2026-11-26 19:43:43,938 - INFO - epileps_ia.cima_api - Consultando medicamento 423/995
+2026-11-26 19:43:43,980 - INFO - epileps_ia.cima_api - Consultando medicamento 424/995
+2026-11-26 19:43:44,009 - INFO - epileps_ia.cima_api - Consultando medicamento 425/995
+2026-11-26 19:43:44,038 - INFO - epileps_ia.cima_api - Consultando medicamento 426/995
+2026-11-26 19:43:44,071 - INFO - epileps_ia.cima_api - Consultando medicamento 427/995
+2026-11-26 19:43:44,103 - INFO - epileps_ia.cima_api - Consultando medicamento 428/995
+2026-11-26 19:43:44,134 - INFO - epileps_ia.cima_api - Consultando medicamento 429/995
+2026-11-26 19:43:44,165 - INFO - epileps_ia.cima_api - Consultando medicamento 430/995
+2026-11-26 19:43:44,198 - INFO - epileps_ia.cima_api - Consultando medicamento 431/995
+2026-11-26 19:43:44,246 - INFO - epileps_ia.cima_api - Consultando medicamento 432/995
+2026-11-26 19:43:44,284 - INFO - epileps_ia.cima_api - Consultando medicamento 433/995
+2026-11-26 19:43:44,312 - INFO - epileps_ia.cima_api - Consultando medicamento 434/995
+2026-11-26 19:43:44,344 - INFO - epileps_ia.cima_api - Consultando medicamento 435/995
+2026-11-26 19:43:44,376 - INFO - epileps_ia.cima_api - Consultando medicamento 436/995
+2026-11-26 19:43:44,407 - INFO - epileps_ia.cima_api - Consultando medicamento 437/995
+2026-11-26 19:43:44,440 - INFO - epileps_ia.cima_api - Consultando medicamento 438/995
+2026-11-26 19:43:44,472 - INFO - epileps_ia.cima_api - Consultando medicamento 439/995
+2026-11-26 19:43:44,502 - INFO - epileps_ia.cima_api - Consultando medicamento 440/995
+2026-11-26 19:43:44,534 - INFO - epileps_ia.cima_api - Consultando medicamento 441/995
+2026-11-26 19:43:44,565 - INFO - epileps_ia.cima_api - Consultando medicamento 442/995
+2026-11-26 19:43:44,595 - INFO - epileps_ia.cima_api - Consultando medicamento 443/995
+2026-11-26 19:43:44,619 - INFO - epileps_ia.cima_api - Consultando medicamento 444/995
+2026-11-26 19:43:44,647 - INFO - epileps_ia.cima_api - Consultando medicamento 445/995
+2026-11-26 19:43:44,679 - INFO - epileps_ia.cima_api - Consultando medicamento 446/995
+2026-11-26 19:43:44,710 - INFO - epileps_ia.cima_api - Consultando medicamento 447/995
+2026-11-26 19:43:44,740 - INFO - epileps_ia.cima_api - Consultando medicamento 448/995
+2026-11-26 19:43:44,809 - INFO - epileps_ia.cima_api - Consultando medicamento 449/995
+2026-11-26 19:43:44,885 - INFO - epileps_ia.cima_api - Consultando medicamento 450/995
+2026-11-26 19:43:44,918 - INFO - epileps_ia.cima_api - Consultando medicamento 451/995
+2026-11-26 19:43:44,950 - INFO - epileps_ia.cima_api - Consultando medicamento 452/995
+2026-11-26 19:43:44,981 - INFO - epileps_ia.cima_api - Consultando medicamento 453/995
+2026-11-26 19:43:45,048 - INFO - epileps_ia.cima_api - Consultando medicamento 454/995
+2026-11-26 19:43:45,082 - INFO - epileps_ia.cima_api - Consultando medicamento 455/995
+2026-11-26 19:43:45,113 - INFO - epileps_ia.cima_api - Consultando medicamento 456/995
+2026-11-26 19:43:45,143 - INFO - epileps_ia.cima_api - Consultando medicamento 457/995
+2026-11-26 19:43:45,171 - INFO - epileps_ia.cima_api - Consultando medicamento 458/995
+2026-11-26 19:43:45,205 - INFO - epileps_ia.cima_api - Consultando medicamento 459/995
+2026-11-26 19:43:45,234 - INFO - epileps_ia.cima_api - Consultando medicamento 460/995
+2026-11-26 19:43:45,374 - INFO - epileps_ia.cima_api - Consultando medicamento 461/995
+2026-11-26 19:43:45,424 - INFO - epileps_ia.cima_api - Consultando medicamento 462/995
+2026-11-26 19:43:45,463 - INFO - epileps_ia.cima_api - Consultando medicamento 463/995
+2026-11-26 19:43:45,495 - INFO - epileps_ia.cima_api - Consultando medicamento 464/995
+2026-11-26 19:43:45,524 - INFO - epileps_ia.cima_api - Consultando medicamento 465/995
+2026-11-26 19:43:45,551 - INFO - epileps_ia.cima_api - Consultando medicamento 466/995
+2026-11-26 19:43:45,579 - INFO - epileps_ia.cima_api - Consultando medicamento 467/995
+2026-11-26 19:43:45,630 - INFO - epileps_ia.cima_api - Consultando medicamento 468/995
+2026-11-26 19:43:45,654 - INFO - epileps_ia.cima_api - Consultando medicamento 469/995
+2026-11-26 19:43:45,680 - INFO - epileps_ia.cima_api - Consultando medicamento 470/995
+2026-11-26 19:43:45,709 - INFO - epileps_ia.cima_api - Consultando medicamento 471/995
+2026-11-26 19:43:45,740 - INFO - epileps_ia.cima_api - Consultando medicamento 472/995
+2026-11-26 19:43:45,831 - INFO - epileps_ia.cima_api - Consultando medicamento 473/995
+2026-11-26 19:43:45,860 - INFO - epileps_ia.cima_api - Consultando medicamento 474/995
+2026-11-26 19:43:45,890 - INFO - epileps_ia.cima_api - Consultando medicamento 475/995
+2026-11-26 19:43:45,931 - INFO - epileps_ia.cima_api - Consultando medicamento 476/995
+2026-11-26 19:43:45,967 - INFO - epileps_ia.cima_api - Consultando medicamento 477/995
+2026-11-26 19:43:46,000 - INFO - epileps_ia.cima_api - Consultando medicamento 478/995
+2026-11-26 19:43:46,033 - INFO - epileps_ia.cima_api - Consultando medicamento 479/995
+2026-11-26 19:43:46,061 - INFO - epileps_ia.cima_api - Consultando medicamento 480/995
+2026-11-26 19:43:46,090 - INFO - epileps_ia.cima_api - Consultando medicamento 481/995
+2026-11-26 19:43:46,128 - INFO - epileps_ia.cima_api - Consultando medicamento 482/995
+2026-11-26 19:43:46,160 - INFO - epileps_ia.cima_api - Consultando medicamento 483/995
+2026-11-26 19:43:46,192 - INFO - epileps_ia.cima_api - Consultando medicamento 484/995
+2026-11-26 19:43:46,238 - INFO - epileps_ia.cima_api - Consultando medicamento 485/995
+2026-11-26 19:43:46,281 - INFO - epileps_ia.cima_api - Consultando medicamento 486/995
+2026-11-26 19:43:46,315 - INFO - epileps_ia.cima_api - Consultando medicamento 487/995
+2026-11-26 19:43:46,343 - INFO - epileps_ia.cima_api - Consultando medicamento 488/995
+2026-11-26 19:43:46,376 - INFO - epileps_ia.cima_api - Consultando medicamento 489/995
+2026-11-26 19:43:46,410 - INFO - epileps_ia.cima_api - Consultando medicamento 490/995
+2026-11-26 19:43:46,460 - INFO - epileps_ia.cima_api - Consultando medicamento 491/995
+2026-11-26 19:43:46,497 - INFO - epileps_ia.cima_api - Consultando medicamento 492/995
+2026-11-26 19:43:46,527 - INFO - epileps_ia.cima_api - Consultando medicamento 493/995
+2026-11-26 19:43:46,558 - INFO - epileps_ia.cima_api - Consultando medicamento 494/995
+2026-11-26 19:43:46,607 - INFO - epileps_ia.cima_api - Consultando medicamento 495/995
+2026-11-26 19:43:46,666 - INFO - epileps_ia.cima_api - Consultando medicamento 496/995
+2026-11-26 19:43:46,697 - INFO - epileps_ia.cima_api - Consultando medicamento 497/995
+2026-11-26 19:43:46,731 - INFO - epileps_ia.cima_api - Consultando medicamento 498/995
+2026-11-26 19:43:46,762 - INFO - epileps_ia.cima_api - Consultando medicamento 499/995
+2026-11-26 19:43:46,791 - INFO - epileps_ia.cima_api - Consultando medicamento 500/995
+2026-11-26 19:43:46,819 - INFO - epileps_ia.cima_api - Consultando medicamento 501/995
+2026-11-26 19:43:46,852 - INFO - epileps_ia.cima_api - Consultando medicamento 502/995
+2026-11-26 19:43:46,880 - INFO - epileps_ia.cima_api - Consultando medicamento 503/995
+2026-11-26 19:43:46,922 - INFO - epileps_ia.cima_api - Consultando medicamento 504/995
+2026-11-26 19:43:47,063 - INFO - epileps_ia.cima_api - Consultando medicamento 505/995
+2026-11-26 19:43:47,094 - INFO - epileps_ia.cima_api - Consultando medicamento 506/995
+2026-11-26 19:43:47,125 - INFO - epileps_ia.cima_api - Consultando medicamento 507/995
+2026-11-26 19:43:47,158 - INFO - epileps_ia.cima_api - Consultando medicamento 508/995
+2026-11-26 19:43:47,186 - INFO - epileps_ia.cima_api - Consultando medicamento 509/995
+2026-11-26 19:43:47,219 - INFO - epileps_ia.cima_api - Consultando medicamento 510/995
+2026-11-26 19:43:47,349 - INFO - epileps_ia.cima_api - Consultando medicamento 511/995
+2026-11-26 19:43:47,375 - INFO - epileps_ia.cima_api - Consultando medicamento 512/995
+2026-11-26 19:43:47,403 - INFO - epileps_ia.cima_api - Consultando medicamento 513/995
+2026-11-26 19:43:47,430 - INFO - epileps_ia.cima_api - Consultando medicamento 514/995
+2026-11-26 19:43:47,457 - INFO - epileps_ia.cima_api - Consultando medicamento 515/995
+2026-11-26 19:43:47,483 - INFO - epileps_ia.cima_api - Consultando medicamento 516/995
+2026-11-26 19:43:47,508 - INFO - epileps_ia.cima_api - Consultando medicamento 517/995
+2026-11-26 19:43:47,534 - INFO - epileps_ia.cima_api - Consultando medicamento 518/995
+2026-11-26 19:43:47,558 - INFO - epileps_ia.cima_api - Consultando medicamento 519/995
+2026-11-26 19:43:47,584 - INFO - epileps_ia.cima_api - Consultando medicamento 520/995
+2026-11-26 19:43:47,608 - INFO - epileps_ia.cima_api - Consultando medicamento 521/995
+2026-11-26 19:43:47,633 - INFO - epileps_ia.cima_api - Consultando medicamento 522/995
+2026-11-26 19:43:47,664 - INFO - epileps_ia.cima_api - Consultando medicamento 523/995
+2026-11-26 19:43:47,704 - INFO - epileps_ia.cima_api - Consultando medicamento 524/995
+2026-11-26 19:43:47,773 - INFO - epileps_ia.cima_api - Consultando medicamento 525/995
+2026-11-26 19:43:47,799 - INFO - epileps_ia.cima_api - Consultando medicamento 526/995
+2026-11-26 19:43:47,829 - INFO - epileps_ia.cima_api - Consultando medicamento 527/995
+2026-11-26 19:43:47,864 - INFO - epileps_ia.cima_api - Consultando medicamento 528/995
+2026-11-26 19:43:47,891 - INFO - epileps_ia.cima_api - Consultando medicamento 529/995
+2026-11-26 19:43:47,917 - INFO - epileps_ia.cima_api - Consultando medicamento 530/995
+2026-11-26 19:43:47,943 - INFO - epileps_ia.cima_api - Consultando medicamento 531/995
+2026-11-26 19:43:47,970 - INFO - epileps_ia.cima_api - Consultando medicamento 532/995
+2026-11-26 19:43:47,994 - INFO - epileps_ia.cima_api - Consultando medicamento 533/995
+2026-11-26 19:43:48,024 - INFO - epileps_ia.cima_api - Consultando medicamento 534/995
+2026-11-26 19:43:48,053 - INFO - epileps_ia.cima_api - Consultando medicamento 535/995
+2026-11-26 19:43:48,077 - INFO - epileps_ia.cima_api - Consultando medicamento 536/995
+2026-11-26 19:43:48,105 - INFO - epileps_ia.cima_api - Consultando medicamento 537/995
+2026-11-26 19:43:48,130 - INFO - epileps_ia.cima_api - Consultando medicamento 538/995
+2026-11-26 19:43:48,158 - INFO - epileps_ia.cima_api - Consultando medicamento 539/995
+2026-11-26 19:43:48,182 - INFO - epileps_ia.cima_api - Consultando medicamento 540/995
+2026-11-26 19:43:48,211 - INFO - epileps_ia.cima_api - Consultando medicamento 541/995
+2026-11-26 19:43:48,239 - INFO - epileps_ia.cima_api - Consultando medicamento 542/995
+2026-11-26 19:43:48,287 - INFO - epileps_ia.cima_api - Consultando medicamento 543/995
+2026-11-26 19:43:48,315 - INFO - epileps_ia.cima_api - Consultando medicamento 544/995
+2026-11-26 19:43:48,341 - INFO - epileps_ia.cima_api - Consultando medicamento 545/995
+2026-11-26 19:43:48,369 - INFO - epileps_ia.cima_api - Consultando medicamento 546/995
+2026-11-26 19:43:48,398 - INFO - epileps_ia.cima_api - Consultando medicamento 547/995
+2026-11-26 19:43:48,425 - INFO - epileps_ia.cima_api - Consultando medicamento 548/995
+2026-11-26 19:43:48,449 - INFO - epileps_ia.cima_api - Consultando medicamento 549/995
+2026-11-26 19:43:48,471 - INFO - epileps_ia.cima_api - Consultando medicamento 550/995
+2026-11-26 19:43:48,497 - INFO - epileps_ia.cima_api - Consultando medicamento 551/995
+2026-11-26 19:43:48,524 - INFO - epileps_ia.cima_api - Consultando medicamento 552/995
+2026-11-26 19:43:48,554 - INFO - epileps_ia.cima_api - Consultando medicamento 553/995
+2026-11-26 19:43:48,608 - INFO - epileps_ia.cima_api - Consultando medicamento 554/995
+2026-11-26 19:43:48,636 - INFO - epileps_ia.cima_api - Consultando medicamento 555/995
+2026-11-26 19:43:48,661 - INFO - epileps_ia.cima_api - Consultando medicamento 556/995
+2026-11-26 19:43:48,691 - INFO - epileps_ia.cima_api - Consultando medicamento 557/995
+2026-11-26 19:43:48,718 - INFO - epileps_ia.cima_api - Consultando medicamento 558/995
+2026-11-26 19:43:48,742 - INFO - epileps_ia.cima_api - Consultando medicamento 559/995
+2026-11-26 19:43:48,770 - INFO - epileps_ia.cima_api - Consultando medicamento 560/995
+2026-11-26 19:43:48,798 - INFO - epileps_ia.cima_api - Consultando medicamento 561/995
+2026-11-26 19:43:48,822 - INFO - epileps_ia.cima_api - Consultando medicamento 562/995
+2026-11-26 19:43:48,848 - INFO - epileps_ia.cima_api - Consultando medicamento 563/995
+2026-11-26 19:43:48,875 - INFO - epileps_ia.cima_api - Consultando medicamento 564/995
+2026-11-26 19:43:48,904 - INFO - epileps_ia.cima_api - Consultando medicamento 565/995
+2026-11-26 19:43:48,932 - INFO - epileps_ia.cima_api - Consultando medicamento 566/995
+2026-11-26 19:43:49,166 - INFO - epileps_ia.cima_api - Consultando medicamento 567/995
+2026-11-26 19:43:49,191 - INFO - epileps_ia.cima_api - Consultando medicamento 568/995
+2026-11-26 19:43:49,216 - INFO - epileps_ia.cima_api - Consultando medicamento 569/995
+2026-11-26 19:43:49,242 - INFO - epileps_ia.cima_api - Consultando medicamento 570/995
+2026-11-26 19:43:49,268 - INFO - epileps_ia.cima_api - Consultando medicamento 571/995
+2026-11-26 19:43:49,293 - INFO - epileps_ia.cima_api - Consultando medicamento 572/995
+2026-11-26 19:43:49,319 - INFO - epileps_ia.cima_api - Consultando medicamento 573/995
+2026-11-26 19:43:49,345 - INFO - epileps_ia.cima_api - Consultando medicamento 574/995
+2026-11-26 19:43:49,368 - INFO - epileps_ia.cima_api - Consultando medicamento 575/995
+2026-11-26 19:43:49,393 - INFO - epileps_ia.cima_api - Consultando medicamento 576/995
+2026-11-26 19:43:49,416 - INFO - epileps_ia.cima_api - Consultando medicamento 577/995
+2026-11-26 19:43:49,441 - INFO - epileps_ia.cima_api - Consultando medicamento 578/995
+2026-11-26 19:43:49,465 - INFO - epileps_ia.cima_api - Consultando medicamento 579/995
+2026-11-26 19:43:49,490 - INFO - epileps_ia.cima_api - Consultando medicamento 580/995
+2026-11-26 19:43:49,525 - INFO - epileps_ia.cima_api - Consultando medicamento 581/995
+2026-11-26 19:43:49,606 - INFO - epileps_ia.cima_api - Consultando medicamento 582/995
+2026-11-26 19:43:49,633 - INFO - epileps_ia.cima_api - Consultando medicamento 583/995
+2026-11-26 19:43:49,658 - INFO - epileps_ia.cima_api - Consultando medicamento 584/995
+2026-11-26 19:43:49,685 - INFO - epileps_ia.cima_api - Consultando medicamento 585/995
+2026-11-26 19:43:49,733 - INFO - epileps_ia.cima_api - Consultando medicamento 586/995
+2026-11-26 19:43:49,762 - INFO - epileps_ia.cima_api - Consultando medicamento 587/995
+2026-11-26 19:43:49,789 - INFO - epileps_ia.cima_api - Consultando medicamento 588/995
+2026-11-26 19:43:49,816 - INFO - epileps_ia.cima_api - Consultando medicamento 589/995
+2026-11-26 19:43:49,846 - INFO - epileps_ia.cima_api - Consultando medicamento 590/995
+2026-11-26 19:43:49,877 - INFO - epileps_ia.cima_api - Consultando medicamento 591/995
+2026-11-26 19:43:49,909 - INFO - epileps_ia.cima_api - Consultando medicamento 592/995
+2026-11-26 19:43:49,944 - INFO - epileps_ia.cima_api - Consultando medicamento 593/995
+2026-11-26 19:43:50,020 - INFO - epileps_ia.cima_api - Consultando medicamento 594/995
+2026-11-26 19:43:50,050 - INFO - epileps_ia.cima_api - Consultando medicamento 595/995
+2026-11-26 19:43:50,489 - INFO - epileps_ia.cima_api - Consultando medicamento 596/995
+2026-11-26 19:43:50,519 - INFO - epileps_ia.cima_api - Consultando medicamento 597/995
+2026-11-26 19:43:50,560 - INFO - epileps_ia.cima_api - Consultando medicamento 598/995
+2026-11-26 19:43:50,587 - INFO - epileps_ia.cima_api - Consultando medicamento 599/995
+2026-11-26 19:43:50,617 - INFO - epileps_ia.cima_api - Consultando medicamento 600/995
+2026-11-26 19:43:50,645 - INFO - epileps_ia.cima_api - Consultando medicamento 601/995
+2026-11-26 19:43:50,672 - INFO - epileps_ia.cima_api - Consultando medicamento 602/995
+2026-11-26 19:43:50,700 - INFO - epileps_ia.cima_api - Consultando medicamento 603/995
+2026-11-26 19:43:50,850 - INFO - epileps_ia.cima_api - Consultando medicamento 604/995
+2026-11-26 19:43:50,878 - INFO - epileps_ia.cima_api - Consultando medicamento 605/995
+2026-11-26 19:43:50,905 - INFO - epileps_ia.cima_api - Consultando medicamento 606/995
+2026-11-26 19:43:50,933 - INFO - epileps_ia.cima_api - Consultando medicamento 607/995
+2026-11-26 19:43:50,958 - INFO - epileps_ia.cima_api - Consultando medicamento 608/995
+2026-11-26 19:43:51,004 - INFO - epileps_ia.cima_api - Consultando medicamento 609/995
+2026-11-26 19:43:51,031 - INFO - epileps_ia.cima_api - Consultando medicamento 610/995
+2026-11-26 19:43:51,058 - INFO - epileps_ia.cima_api - Consultando medicamento 611/995
+2026-11-26 19:43:51,084 - INFO - epileps_ia.cima_api - Consultando medicamento 612/995
+2026-11-26 19:43:51,110 - INFO - epileps_ia.cima_api - Consultando medicamento 613/995
+2026-11-26 19:43:51,135 - INFO - epileps_ia.cima_api - Consultando medicamento 614/995
+2026-11-26 19:43:51,159 - INFO - epileps_ia.cima_api - Consultando medicamento 615/995
+2026-11-26 19:43:51,181 - INFO - epileps_ia.cima_api - Consultando medicamento 616/995
+2026-11-26 19:43:51,206 - INFO - epileps_ia.cima_api - Consultando medicamento 617/995
+2026-11-26 19:43:51,230 - INFO - epileps_ia.cima_api - Consultando medicamento 618/995
+2026-11-26 19:43:51,258 - INFO - epileps_ia.cima_api - Consultando medicamento 619/995
+2026-11-26 19:43:51,285 - INFO - epileps_ia.cima_api - Consultando medicamento 620/995
+2026-11-26 19:43:51,313 - INFO - epileps_ia.cima_api - Consultando medicamento 621/995
+2026-11-26 19:43:51,341 - INFO - epileps_ia.cima_api - Consultando medicamento 622/995
+2026-11-26 19:43:51,367 - INFO - epileps_ia.cima_api - Consultando medicamento 623/995
+2026-11-26 19:43:51,394 - INFO - epileps_ia.cima_api - Consultando medicamento 624/995
+2026-11-26 19:43:51,420 - INFO - epileps_ia.cima_api - Consultando medicamento 625/995
+2026-11-26 19:43:51,447 - INFO - epileps_ia.cima_api - Consultando medicamento 626/995
+2026-11-26 19:43:51,471 - INFO - epileps_ia.cima_api - Consultando medicamento 627/995
+2026-11-26 19:43:51,494 - INFO - epileps_ia.cima_api - Consultando medicamento 628/995
+2026-11-26 19:43:51,518 - INFO - epileps_ia.cima_api - Consultando medicamento 629/995
+2026-11-26 19:43:51,542 - INFO - epileps_ia.cima_api - Consultando medicamento 630/995
+2026-11-26 19:43:51,565 - INFO - epileps_ia.cima_api - Consultando medicamento 631/995
+2026-11-26 19:43:51,591 - INFO - epileps_ia.cima_api - Consultando medicamento 632/995
+2026-11-26 19:43:51,615 - INFO - epileps_ia.cima_api - Consultando medicamento 633/995
+2026-11-26 19:43:51,638 - INFO - epileps_ia.cima_api - Consultando medicamento 634/995
+2026-11-26 19:43:51,666 - INFO - epileps_ia.cima_api - Consultando medicamento 635/995
+2026-11-26 19:43:51,692 - INFO - epileps_ia.cima_api - Consultando medicamento 636/995
+2026-11-26 19:43:51,717 - INFO - epileps_ia.cima_api - Consultando medicamento 637/995
+2026-11-26 19:43:51,740 - INFO - epileps_ia.cima_api - Consultando medicamento 638/995
+2026-11-26 19:43:51,766 - INFO - epileps_ia.cima_api - Consultando medicamento 639/995
+2026-11-26 19:43:51,791 - INFO - epileps_ia.cima_api - Consultando medicamento 640/995
+2026-11-26 19:43:51,891 - INFO - epileps_ia.cima_api - Consultando medicamento 641/995
+2026-11-26 19:43:51,917 - INFO - epileps_ia.cima_api - Consultando medicamento 642/995
+2026-11-26 19:43:51,942 - INFO - epileps_ia.cima_api - Consultando medicamento 643/995
+2026-11-26 19:43:51,965 - INFO - epileps_ia.cima_api - Consultando medicamento 644/995
+2026-11-26 19:43:52,206 - INFO - epileps_ia.cima_api - Consultando medicamento 645/995
+2026-11-26 19:43:52,230 - INFO - epileps_ia.cima_api - Consultando medicamento 646/995
+2026-11-26 19:43:52,251 - INFO - epileps_ia.cima_api - Consultando medicamento 647/995
+2026-11-26 19:43:52,275 - INFO - epileps_ia.cima_api - Consultando medicamento 648/995
+2026-11-26 19:43:52,301 - INFO - epileps_ia.cima_api - Consultando medicamento 649/995
+2026-11-26 19:43:52,326 - INFO - epileps_ia.cima_api - Consultando medicamento 650/995
+2026-11-26 19:43:52,351 - INFO - epileps_ia.cima_api - Consultando medicamento 651/995
+2026-11-26 19:43:52,375 - INFO - epileps_ia.cima_api - Consultando medicamento 652/995
+2026-11-26 19:43:52,401 - INFO - epileps_ia.cima_api - Consultando medicamento 653/995
+2026-11-26 19:43:52,425 - INFO - epileps_ia.cima_api - Consultando medicamento 654/995
+2026-11-26 19:43:52,450 - INFO - epileps_ia.cima_api - Consultando medicamento 655/995
+2026-11-26 19:43:52,474 - INFO - epileps_ia.cima_api - Consultando medicamento 656/995
+2026-11-26 19:43:52,498 - INFO - epileps_ia.cima_api - Consultando medicamento 657/995
+2026-11-26 19:43:52,521 - INFO - epileps_ia.cima_api - Consultando medicamento 658/995
+2026-11-26 19:43:52,545 - INFO - epileps_ia.cima_api - Consultando medicamento 659/995
+2026-11-26 19:43:52,568 - INFO - epileps_ia.cima_api - Consultando medicamento 660/995
+2026-11-26 19:43:52,591 - INFO - epileps_ia.cima_api - Consultando medicamento 661/995
+2026-11-26 19:43:52,616 - INFO - epileps_ia.cima_api - Consultando medicamento 662/995
+2026-11-26 19:43:52,645 - INFO - epileps_ia.cima_api - Consultando medicamento 663/995
+2026-11-26 19:43:52,698 - INFO - epileps_ia.cima_api - Consultando medicamento 664/995
+2026-11-26 19:43:52,727 - INFO - epileps_ia.cima_api - Consultando medicamento 665/995
+2026-11-26 19:43:52,791 - INFO - epileps_ia.cima_api - Consultando medicamento 666/995
+2026-11-26 19:43:52,819 - INFO - epileps_ia.cima_api - Consultando medicamento 667/995
+2026-11-26 19:43:52,845 - INFO - epileps_ia.cima_api - Consultando medicamento 668/995
+2026-11-26 19:43:52,889 - INFO - epileps_ia.cima_api - Consultando medicamento 669/995
+2026-11-26 19:43:52,923 - INFO - epileps_ia.cima_api - Consultando medicamento 670/995
+2026-11-26 19:43:52,956 - INFO - epileps_ia.cima_api - Consultando medicamento 671/995
+2026-11-26 19:43:52,991 - INFO - epileps_ia.cima_api - Consultando medicamento 672/995
+2026-11-26 19:43:53,358 - INFO - epileps_ia.cima_api - Consultando medicamento 673/995
+2026-11-26 19:43:53,386 - INFO - epileps_ia.cima_api - Consultando medicamento 674/995
+2026-11-26 19:43:53,413 - INFO - epileps_ia.cima_api - Consultando medicamento 675/995
+2026-11-26 19:43:53,447 - INFO - epileps_ia.cima_api - Consultando medicamento 676/995
+2026-11-26 19:43:53,475 - INFO - epileps_ia.cima_api - Consultando medicamento 677/995
+2026-11-26 19:43:53,505 - INFO - epileps_ia.cima_api - Consultando medicamento 678/995
+2026-11-26 19:43:53,532 - INFO - epileps_ia.cima_api - Consultando medicamento 679/995
+2026-11-26 19:43:53,562 - INFO - epileps_ia.cima_api - Consultando medicamento 680/995
+2026-11-26 19:43:53,592 - INFO - epileps_ia.cima_api - Consultando medicamento 681/995
+2026-11-26 19:43:53,622 - INFO - epileps_ia.cima_api - Consultando medicamento 682/995
+2026-11-26 19:43:53,650 - INFO - epileps_ia.cima_api - Consultando medicamento 683/995
+2026-11-26 19:43:53,674 - INFO - epileps_ia.cima_api - Consultando medicamento 684/995
+2026-11-26 19:43:53,700 - INFO - epileps_ia.cima_api - Consultando medicamento 685/995
+2026-11-26 19:43:53,725 - INFO - epileps_ia.cima_api - Consultando medicamento 686/995
+2026-11-26 19:43:53,758 - INFO - epileps_ia.cima_api - Consultando medicamento 687/995
+2026-11-26 19:43:53,859 - INFO - epileps_ia.cima_api - Consultando medicamento 688/995
+2026-11-26 19:43:53,885 - INFO - epileps_ia.cima_api - Consultando medicamento 689/995
+2026-11-26 19:43:53,982 - INFO - epileps_ia.cima_api - Consultando medicamento 690/995
+2026-11-26 19:43:54,011 - INFO - epileps_ia.cima_api - Consultando medicamento 691/995
+2026-11-26 19:43:54,038 - INFO - epileps_ia.cima_api - Consultando medicamento 692/995
+2026-11-26 19:43:54,101 - INFO - epileps_ia.cima_api - Consultando medicamento 693/995
+2026-11-26 19:43:54,128 - INFO - epileps_ia.cima_api - Consultando medicamento 694/995
+2026-11-26 19:43:54,483 - INFO - epileps_ia.cima_api - Consultando medicamento 695/995
+2026-11-26 19:43:54,515 - INFO - epileps_ia.cima_api - Consultando medicamento 696/995
+2026-11-26 19:43:54,545 - INFO - epileps_ia.cima_api - Consultando medicamento 697/995
+2026-11-26 19:43:54,596 - INFO - epileps_ia.cima_api - Consultando medicamento 698/995
+2026-11-26 19:43:54,628 - INFO - epileps_ia.cima_api - Consultando medicamento 699/995
+2026-11-26 19:43:54,658 - INFO - epileps_ia.cima_api - Consultando medicamento 700/995
+2026-11-26 19:43:54,687 - INFO - epileps_ia.cima_api - Consultando medicamento 701/995
+2026-11-26 19:43:54,714 - INFO - epileps_ia.cima_api - Consultando medicamento 702/995
+2026-11-26 19:43:54,998 - INFO - epileps_ia.cima_api - Consultando medicamento 703/995
+2026-11-26 19:43:55,024 - INFO - epileps_ia.cima_api - Consultando medicamento 704/995
+2026-11-26 19:43:55,050 - INFO - epileps_ia.cima_api - Consultando medicamento 705/995
+2026-11-26 19:43:55,077 - INFO - epileps_ia.cima_api - Consultando medicamento 706/995
+2026-11-26 19:43:55,117 - INFO - epileps_ia.cima_api - Consultando medicamento 707/995
+2026-11-26 19:43:55,143 - INFO - epileps_ia.cima_api - Consultando medicamento 708/995
+2026-11-26 19:43:55,170 - INFO - epileps_ia.cima_api - Consultando medicamento 709/995
+2026-11-26 19:43:55,195 - INFO - epileps_ia.cima_api - Consultando medicamento 710/995
+2026-11-26 19:43:55,225 - INFO - epileps_ia.cima_api - Consultando medicamento 711/995
+2026-11-26 19:43:55,281 - INFO - epileps_ia.cima_api - Consultando medicamento 712/995
+2026-11-26 19:43:55,313 - INFO - epileps_ia.cima_api - Consultando medicamento 713/995
+2026-11-26 19:43:55,341 - INFO - epileps_ia.cima_api - Consultando medicamento 714/995
+2026-11-26 19:43:55,370 - INFO - epileps_ia.cima_api - Consultando medicamento 715/995
+2026-11-26 19:43:55,414 - INFO - epileps_ia.cima_api - Consultando medicamento 716/995
+2026-11-26 19:43:55,461 - INFO - epileps_ia.cima_api - Consultando medicamento 717/995
+2026-11-26 19:43:55,490 - INFO - epileps_ia.cima_api - Consultando medicamento 718/995
+2026-11-26 19:43:55,517 - INFO - epileps_ia.cima_api - Consultando medicamento 719/995
+2026-11-26 19:43:55,547 - INFO - epileps_ia.cima_api - Consultando medicamento 720/995
+2026-11-26 19:43:55,574 - INFO - epileps_ia.cima_api - Consultando medicamento 721/995
+2026-11-26 19:43:55,606 - INFO - epileps_ia.cima_api - Consultando medicamento 722/995
+2026-11-26 19:43:55,643 - INFO - epileps_ia.cima_api - Consultando medicamento 723/995
+2026-11-26 19:43:55,815 - INFO - epileps_ia.cima_api - Consultando medicamento 724/995
+2026-11-26 19:43:55,869 - INFO - epileps_ia.cima_api - Consultando medicamento 725/995
+2026-11-26 19:43:55,897 - INFO - epileps_ia.cima_api - Consultando medicamento 726/995
+2026-11-26 19:43:55,927 - INFO - epileps_ia.cima_api - Consultando medicamento 727/995
+2026-11-26 19:43:55,959 - INFO - epileps_ia.cima_api - Consultando medicamento 728/995
+2026-11-26 19:43:56,019 - INFO - epileps_ia.cima_api - Consultando medicamento 729/995
+2026-11-26 19:43:56,054 - INFO - epileps_ia.cima_api - Consultando medicamento 730/995
+2026-11-26 19:43:56,114 - INFO - epileps_ia.cima_api - Consultando medicamento 731/995
+2026-11-26 19:43:56,141 - INFO - epileps_ia.cima_api - Consultando medicamento 732/995
+2026-11-26 19:43:56,168 - INFO - epileps_ia.cima_api - Consultando medicamento 733/995
+2026-11-26 19:43:56,195 - INFO - epileps_ia.cima_api - Consultando medicamento 734/995
+2026-11-26 19:43:56,225 - INFO - epileps_ia.cima_api - Consultando medicamento 735/995
+2026-11-26 19:43:56,256 - INFO - epileps_ia.cima_api - Consultando medicamento 736/995
+2026-11-26 19:43:56,290 - INFO - epileps_ia.cima_api - Consultando medicamento 737/995
+2026-11-26 19:43:56,319 - INFO - epileps_ia.cima_api - Consultando medicamento 738/995
+2026-11-26 19:43:56,347 - INFO - epileps_ia.cima_api - Consultando medicamento 739/995
+2026-11-26 19:43:56,375 - INFO - epileps_ia.cima_api - Consultando medicamento 740/995
+2026-11-26 19:43:56,404 - INFO - epileps_ia.cima_api - Consultando medicamento 741/995
+2026-11-26 19:43:56,435 - INFO - epileps_ia.cima_api - Consultando medicamento 742/995
+2026-11-26 19:43:56,494 - INFO - epileps_ia.cima_api - Consultando medicamento 743/995
+2026-11-26 19:43:56,527 - INFO - epileps_ia.cima_api - Consultando medicamento 744/995
+2026-11-26 19:43:56,628 - INFO - epileps_ia.cima_api - Consultando medicamento 745/995
+2026-11-26 19:43:56,656 - INFO - epileps_ia.cima_api - Consultando medicamento 746/995
+2026-11-26 19:43:56,686 - INFO - epileps_ia.cima_api - Consultando medicamento 747/995
+2026-11-26 19:43:56,714 - INFO - epileps_ia.cima_api - Consultando medicamento 748/995
+2026-11-26 19:43:56,740 - INFO - epileps_ia.cima_api - Consultando medicamento 749/995
+2026-11-26 19:43:56,768 - INFO - epileps_ia.cima_api - Consultando medicamento 750/995
+2026-11-26 19:43:56,796 - INFO - epileps_ia.cima_api - Consultando medicamento 751/995
+2026-11-26 19:43:56,854 - INFO - epileps_ia.cima_api - Consultando medicamento 752/995
+2026-11-26 19:43:56,883 - INFO - epileps_ia.cima_api - Consultando medicamento 753/995
+2026-11-26 19:43:56,909 - INFO - epileps_ia.cima_api - Consultando medicamento 754/995
+2026-11-26 19:43:56,936 - INFO - epileps_ia.cima_api - Consultando medicamento 755/995
+2026-11-26 19:43:56,965 - INFO - epileps_ia.cima_api - Consultando medicamento 756/995
+2026-11-26 19:43:56,995 - INFO - epileps_ia.cima_api - Consultando medicamento 757/995
+2026-11-26 19:43:57,083 - INFO - epileps_ia.cima_api - Consultando medicamento 758/995
+2026-11-26 19:43:57,114 - INFO - epileps_ia.cima_api - Consultando medicamento 759/995
+2026-11-26 19:43:57,143 - INFO - epileps_ia.cima_api - Consultando medicamento 760/995
+2026-11-26 19:43:57,208 - INFO - epileps_ia.cima_api - Consultando medicamento 761/995
+2026-11-26 19:43:57,235 - INFO - epileps_ia.cima_api - Consultando medicamento 762/995
+2026-11-26 19:43:57,262 - INFO - epileps_ia.cima_api - Consultando medicamento 763/995
+2026-11-26 19:43:57,395 - INFO - epileps_ia.cima_api - Consultando medicamento 764/995
+2026-11-26 19:43:57,424 - INFO - epileps_ia.cima_api - Consultando medicamento 765/995
+2026-11-26 19:43:57,454 - INFO - epileps_ia.cima_api - Consultando medicamento 766/995
+2026-11-26 19:43:57,477 - INFO - epileps_ia.cima_api - Consultando medicamento 767/995
+2026-11-26 19:43:57,504 - INFO - epileps_ia.cima_api - Consultando medicamento 768/995
+2026-11-26 19:43:57,535 - INFO - epileps_ia.cima_api - Consultando medicamento 769/995
+2026-11-26 19:43:57,570 - INFO - epileps_ia.cima_api - Consultando medicamento 770/995
+2026-11-26 19:43:57,768 - INFO - epileps_ia.cima_api - Consultando medicamento 771/995
+2026-11-26 19:43:57,801 - INFO - epileps_ia.cima_api - Consultando medicamento 772/995
+2026-11-26 19:43:57,834 - INFO - epileps_ia.cima_api - Consultando medicamento 773/995
+2026-11-26 19:43:57,866 - INFO - epileps_ia.cima_api - Consultando medicamento 774/995
+2026-11-26 19:43:57,896 - INFO - epileps_ia.cima_api - Consultando medicamento 775/995
+2026-11-26 19:43:57,929 - INFO - epileps_ia.cima_api - Consultando medicamento 776/995
+2026-11-26 19:43:58,091 - INFO - epileps_ia.cima_api - Consultando medicamento 777/995
+2026-11-26 19:43:58,120 - INFO - epileps_ia.cima_api - Consultando medicamento 778/995
+2026-11-26 19:43:58,149 - INFO - epileps_ia.cima_api - Consultando medicamento 779/995
+2026-11-26 19:43:58,177 - INFO - epileps_ia.cima_api - Consultando medicamento 780/995
+2026-11-26 19:43:58,208 - INFO - epileps_ia.cima_api - Consultando medicamento 781/995
+2026-11-26 19:43:58,249 - INFO - epileps_ia.cima_api - Consultando medicamento 782/995
+2026-11-26 19:43:58,280 - INFO - epileps_ia.cima_api - Consultando medicamento 783/995
+2026-11-26 19:43:58,306 - INFO - epileps_ia.cima_api - Consultando medicamento 784/995
+2026-11-26 19:43:58,333 - INFO - epileps_ia.cima_api - Consultando medicamento 785/995
+2026-11-26 19:43:58,360 - INFO - epileps_ia.cima_api - Consultando medicamento 786/995
+2026-11-26 19:43:58,388 - INFO - epileps_ia.cima_api - Consultando medicamento 787/995
+2026-11-26 19:43:58,415 - INFO - epileps_ia.cima_api - Consultando medicamento 788/995
+2026-11-26 19:43:58,444 - INFO - epileps_ia.cima_api - Consultando medicamento 789/995
+2026-11-26 19:43:58,507 - INFO - epileps_ia.cima_api - Consultando medicamento 790/995
+2026-11-26 19:43:58,540 - INFO - epileps_ia.cima_api - Consultando medicamento 791/995
+2026-11-26 19:43:58,571 - INFO - epileps_ia.cima_api - Consultando medicamento 792/995
+2026-11-26 19:43:58,602 - INFO - epileps_ia.cima_api - Consultando medicamento 793/995
+2026-11-26 19:43:58,629 - INFO - epileps_ia.cima_api - Consultando medicamento 794/995
+2026-11-26 19:43:58,659 - INFO - epileps_ia.cima_api - Consultando medicamento 795/995
+2026-11-26 19:43:58,691 - INFO - epileps_ia.cima_api - Consultando medicamento 796/995
+2026-11-26 19:43:58,719 - INFO - epileps_ia.cima_api - Consultando medicamento 797/995
+2026-11-26 19:43:58,762 - INFO - epileps_ia.cima_api - Consultando medicamento 798/995
+2026-11-26 19:43:58,809 - INFO - epileps_ia.cima_api - Consultando medicamento 799/995
+2026-11-26 19:43:58,882 - INFO - epileps_ia.cima_api - Consultando medicamento 800/995
+2026-11-26 19:43:58,915 - INFO - epileps_ia.cima_api - Consultando medicamento 801/995
+2026-11-26 19:43:58,948 - INFO - epileps_ia.cima_api - Consultando medicamento 802/995
+2026-11-26 19:43:58,976 - INFO - epileps_ia.cima_api - Consultando medicamento 803/995
+2026-11-26 19:43:59,194 - INFO - epileps_ia.cima_api - Consultando medicamento 804/995
+2026-11-26 19:43:59,243 - INFO - epileps_ia.cima_api - Consultando medicamento 805/995
+2026-11-26 19:43:59,291 - INFO - epileps_ia.cima_api - Consultando medicamento 806/995
+2026-11-26 19:43:59,316 - INFO - epileps_ia.cima_api - Consultando medicamento 807/995
+2026-11-26 19:43:59,380 - INFO - epileps_ia.cima_api - Consultando medicamento 808/995
+2026-11-26 19:43:59,407 - INFO - epileps_ia.cima_api - Consultando medicamento 809/995
+2026-11-26 19:43:59,436 - INFO - epileps_ia.cima_api - Consultando medicamento 810/995
+2026-11-26 19:43:59,462 - INFO - epileps_ia.cima_api - Consultando medicamento 811/995
+2026-11-26 19:43:59,491 - INFO - epileps_ia.cima_api - Consultando medicamento 812/995
+2026-11-26 19:43:59,518 - INFO - epileps_ia.cima_api - Consultando medicamento 813/995
+2026-11-26 19:43:59,547 - INFO - epileps_ia.cima_api - Consultando medicamento 814/995
+2026-11-26 19:43:59,577 - INFO - epileps_ia.cima_api - Consultando medicamento 815/995
+2026-11-26 19:43:59,608 - INFO - epileps_ia.cima_api - Consultando medicamento 816/995
+2026-11-26 19:43:59,634 - INFO - epileps_ia.cima_api - Consultando medicamento 817/995
+2026-11-26 19:43:59,661 - INFO - epileps_ia.cima_api - Consultando medicamento 818/995
+2026-11-26 19:43:59,689 - INFO - epileps_ia.cima_api - Consultando medicamento 819/995
+2026-11-26 19:43:59,720 - INFO - epileps_ia.cima_api - Consultando medicamento 820/995
+2026-11-26 19:43:59,750 - INFO - epileps_ia.cima_api - Consultando medicamento 821/995
+2026-11-26 19:43:59,776 - INFO - epileps_ia.cima_api - Consultando medicamento 822/995
+2026-11-26 19:43:59,806 - INFO - epileps_ia.cima_api - Consultando medicamento 823/995
+2026-11-26 19:43:59,837 - INFO - epileps_ia.cima_api - Consultando medicamento 824/995
+2026-11-26 19:43:59,868 - INFO - epileps_ia.cima_api - Consultando medicamento 825/995
+2026-11-26 19:43:59,919 - INFO - epileps_ia.cima_api - Consultando medicamento 826/995
+2026-11-26 19:43:59,983 - INFO - epileps_ia.cima_api - Consultando medicamento 827/995
+2026-11-26 19:44:00,014 - INFO - epileps_ia.cima_api - Consultando medicamento 828/995
+2026-11-26 19:44:00,052 - INFO - epileps_ia.cima_api - Consultando medicamento 829/995
+2026-11-26 19:44:00,082 - INFO - epileps_ia.cima_api - Consultando medicamento 830/995
+2026-11-26 19:44:00,111 - INFO - epileps_ia.cima_api - Consultando medicamento 831/995
+2026-11-26 19:44:00,143 - INFO - epileps_ia.cima_api - Consultando medicamento 832/995
+2026-11-26 19:44:00,171 - INFO - epileps_ia.cima_api - Consultando medicamento 833/995
+2026-11-26 19:44:00,204 - INFO - epileps_ia.cima_api - Consultando medicamento 834/995
+2026-11-26 19:44:00,291 - INFO - epileps_ia.cima_api - Consultando medicamento 835/995
+2026-11-26 19:44:00,320 - INFO - epileps_ia.cima_api - Consultando medicamento 836/995
+2026-11-26 19:44:00,349 - INFO - epileps_ia.cima_api - Consultando medicamento 837/995
+2026-11-26 19:44:00,375 - INFO - epileps_ia.cima_api - Consultando medicamento 838/995
+2026-11-26 19:44:00,402 - INFO - epileps_ia.cima_api - Consultando medicamento 839/995
+2026-11-26 19:44:00,430 - INFO - epileps_ia.cima_api - Consultando medicamento 840/995
+2026-11-26 19:44:00,459 - INFO - epileps_ia.cima_api - Consultando medicamento 841/995
+2026-11-26 19:44:00,486 - INFO - epileps_ia.cima_api - Consultando medicamento 842/995
+2026-11-26 19:44:00,514 - INFO - epileps_ia.cima_api - Consultando medicamento 843/995
+2026-11-26 19:44:00,565 - INFO - epileps_ia.cima_api - Consultando medicamento 844/995
+2026-11-26 19:44:00,598 - INFO - epileps_ia.cima_api - Consultando medicamento 845/995
+2026-11-26 19:44:00,692 - INFO - epileps_ia.cima_api - Consultando medicamento 846/995
+2026-11-26 19:44:00,821 - INFO - epileps_ia.cima_api - Consultando medicamento 847/995
+2026-11-26 19:44:00,849 - INFO - epileps_ia.cima_api - Consultando medicamento 848/995
+2026-11-26 19:44:00,877 - INFO - epileps_ia.cima_api - Consultando medicamento 849/995
+2026-11-26 19:44:00,906 - INFO - epileps_ia.cima_api - Consultando medicamento 850/995
+2026-11-26 19:44:00,962 - INFO - epileps_ia.cima_api - Consultando medicamento 851/995
+2026-11-26 19:44:00,992 - INFO - epileps_ia.cima_api - Consultando medicamento 852/995
+2026-11-26 19:44:01,031 - INFO - epileps_ia.cima_api - Consultando medicamento 853/995
+2026-11-26 19:44:01,061 - INFO - epileps_ia.cima_api - Consultando medicamento 854/995
+2026-11-26 19:44:01,091 - INFO - epileps_ia.cima_api - Consultando medicamento 855/995
+2026-11-26 19:44:01,181 - INFO - epileps_ia.cima_api - Consultando medicamento 856/995
+2026-11-26 19:44:01,246 - INFO - epileps_ia.cima_api - Consultando medicamento 857/995
+2026-11-26 19:44:01,279 - INFO - epileps_ia.cima_api - Consultando medicamento 858/995
+2026-11-26 19:44:01,312 - INFO - epileps_ia.cima_api - Consultando medicamento 859/995
+2026-11-26 19:44:01,346 - INFO - epileps_ia.cima_api - Consultando medicamento 860/995
+2026-11-26 19:44:01,385 - INFO - epileps_ia.cima_api - Consultando medicamento 861/995
+2026-11-26 19:44:01,416 - INFO - epileps_ia.cima_api - Consultando medicamento 862/995
+2026-11-26 19:44:01,446 - INFO - epileps_ia.cima_api - Consultando medicamento 863/995
+2026-11-26 19:44:01,513 - INFO - epileps_ia.cima_api - Consultando medicamento 864/995
+2026-11-26 19:44:01,563 - INFO - epileps_ia.cima_api - Consultando medicamento 865/995
+2026-11-26 19:44:01,638 - INFO - epileps_ia.cima_api - Consultando medicamento 866/995
+2026-11-26 19:44:01,667 - INFO - epileps_ia.cima_api - Consultando medicamento 867/995
+2026-11-26 19:44:01,695 - INFO - epileps_ia.cima_api - Consultando medicamento 868/995
+2026-11-26 19:44:01,725 - INFO - epileps_ia.cima_api - Consultando medicamento 869/995
+2026-11-26 19:44:01,759 - INFO - epileps_ia.cima_api - Consultando medicamento 870/995
+2026-11-26 19:44:01,794 - INFO - epileps_ia.cima_api - Consultando medicamento 871/995
+2026-11-26 19:44:01,828 - INFO - epileps_ia.cima_api - Consultando medicamento 872/995
+2026-11-26 19:44:01,860 - INFO - epileps_ia.cima_api - Consultando medicamento 873/995
+2026-11-26 19:44:01,925 - INFO - epileps_ia.cima_api - Consultando medicamento 874/995
+2026-11-26 19:44:01,961 - INFO - epileps_ia.cima_api - Consultando medicamento 875/995
+2026-11-26 19:44:01,994 - INFO - epileps_ia.cima_api - Consultando medicamento 876/995
+2026-11-26 19:44:02,041 - INFO - epileps_ia.cima_api - Consultando medicamento 877/995
+2026-11-26 19:44:02,074 - INFO - epileps_ia.cima_api - Consultando medicamento 878/995
+2026-11-26 19:44:02,108 - INFO - epileps_ia.cima_api - Consultando medicamento 879/995
+2026-11-26 19:44:02,141 - INFO - epileps_ia.cima_api - Consultando medicamento 880/995
+2026-11-26 19:44:02,178 - INFO - epileps_ia.cima_api - Consultando medicamento 881/995
+2026-11-26 19:44:02,210 - INFO - epileps_ia.cima_api - Consultando medicamento 882/995
+2026-11-26 19:44:02,242 - INFO - epileps_ia.cima_api - Consultando medicamento 883/995
+2026-11-26 19:44:02,274 - INFO - epileps_ia.cima_api - Consultando medicamento 884/995
+2026-11-26 19:44:02,361 - INFO - epileps_ia.cima_api - Consultando medicamento 885/995
+2026-11-26 19:44:02,400 - INFO - epileps_ia.cima_api - Consultando medicamento 886/995
+2026-11-26 19:44:02,438 - INFO - epileps_ia.cima_api - Consultando medicamento 887/995
+2026-11-26 19:44:02,518 - INFO - epileps_ia.cima_api - Consultando medicamento 888/995
+2026-11-26 19:44:02,554 - INFO - epileps_ia.cima_api - Consultando medicamento 889/995
+2026-11-26 19:44:02,600 - INFO - epileps_ia.cima_api - Consultando medicamento 890/995
+2026-11-26 19:44:02,659 - INFO - epileps_ia.cima_api - Consultando medicamento 891/995
+2026-11-26 19:44:02,885 - INFO - epileps_ia.cima_api - Consultando medicamento 892/995
+2026-11-26 19:44:02,968 - INFO - epileps_ia.cima_api - Consultando medicamento 893/995
+2026-11-26 19:44:03,001 - INFO - epileps_ia.cima_api - Consultando medicamento 894/995
+2026-11-26 19:44:03,032 - INFO - epileps_ia.cima_api - Consultando medicamento 895/995
+2026-11-26 19:44:03,064 - INFO - epileps_ia.cima_api - Consultando medicamento 896/995
+2026-11-26 19:44:03,097 - INFO - epileps_ia.cima_api - Consultando medicamento 897/995
+2026-11-26 19:44:03,128 - INFO - epileps_ia.cima_api - Consultando medicamento 898/995
+2026-11-26 19:44:03,166 - INFO - epileps_ia.cima_api - Consultando medicamento 899/995
+2026-11-26 19:44:03,253 - INFO - epileps_ia.cima_api - Consultando medicamento 900/995
+2026-11-26 19:44:03,291 - INFO - epileps_ia.cima_api - Consultando medicamento 901/995
+2026-11-26 19:44:03,325 - INFO - epileps_ia.cima_api - Consultando medicamento 902/995
+2026-11-26 19:44:03,360 - INFO - epileps_ia.cima_api - Consultando medicamento 903/995
+2026-11-26 19:44:03,397 - INFO - epileps_ia.cima_api - Consultando medicamento 904/995
+2026-11-26 19:44:03,483 - INFO - epileps_ia.cima_api - Consultando medicamento 905/995
+2026-11-26 19:44:03,521 - INFO - epileps_ia.cima_api - Consultando medicamento 906/995
+2026-11-26 19:44:03,564 - INFO - epileps_ia.cima_api - Consultando medicamento 907/995
+2026-11-26 19:44:03,596 - INFO - epileps_ia.cima_api - Consultando medicamento 908/995
+2026-11-26 19:44:03,641 - INFO - epileps_ia.cima_api - Consultando medicamento 909/995
+2026-11-26 19:44:03,754 - INFO - epileps_ia.cima_api - Consultando medicamento 910/995
+2026-11-26 19:44:03,845 - INFO - epileps_ia.cima_api - Consultando medicamento 911/995
+2026-11-26 19:44:03,878 - INFO - epileps_ia.cima_api - Consultando medicamento 912/995
+2026-11-26 19:44:03,917 - INFO - epileps_ia.cima_api - Consultando medicamento 913/995
+2026-11-26 19:44:03,992 - INFO - epileps_ia.cima_api - Consultando medicamento 914/995
+2026-11-26 19:44:04,025 - INFO - epileps_ia.cima_api - Consultando medicamento 915/995
+2026-11-26 19:44:04,064 - INFO - epileps_ia.cima_api - Consultando medicamento 916/995
+2026-11-26 19:44:04,097 - INFO - epileps_ia.cima_api - Consultando medicamento 917/995
+2026-11-26 19:44:04,128 - INFO - epileps_ia.cima_api - Consultando medicamento 918/995
+2026-11-26 19:44:04,163 - INFO - epileps_ia.cima_api - Consultando medicamento 919/995
+2026-11-26 19:44:04,244 - INFO - epileps_ia.cima_api - Consultando medicamento 920/995
+2026-11-26 19:44:04,280 - INFO - epileps_ia.cima_api - Consultando medicamento 921/995
+2026-11-26 19:44:04,314 - INFO - epileps_ia.cima_api - Consultando medicamento 922/995
+2026-11-26 19:44:04,361 - INFO - epileps_ia.cima_api - Consultando medicamento 923/995
+2026-11-26 19:44:04,440 - INFO - epileps_ia.cima_api - Consultando medicamento 924/995
+2026-11-26 19:44:04,478 - INFO - epileps_ia.cima_api - Consultando medicamento 925/995
+2026-11-26 19:44:04,728 - INFO - epileps_ia.cima_api - Consultando medicamento 926/995
+2026-11-26 19:44:04,764 - INFO - epileps_ia.cima_api - Consultando medicamento 927/995
+2026-11-26 19:44:04,798 - INFO - epileps_ia.cima_api - Consultando medicamento 928/995
+2026-11-26 19:44:04,849 - INFO - epileps_ia.cima_api - Consultando medicamento 929/995
+2026-11-26 19:44:04,878 - INFO - epileps_ia.cima_api - Consultando medicamento 930/995
+2026-11-26 19:44:04,909 - INFO - epileps_ia.cima_api - Consultando medicamento 931/995
+2026-11-26 19:44:04,942 - INFO - epileps_ia.cima_api - Consultando medicamento 932/995
+2026-11-26 19:44:04,979 - INFO - epileps_ia.cima_api - Consultando medicamento 933/995
+2026-11-26 19:44:05,027 - INFO - epileps_ia.cima_api - Consultando medicamento 934/995
+2026-11-26 19:44:05,062 - INFO - epileps_ia.cima_api - Consultando medicamento 935/995
+2026-11-26 19:44:05,137 - INFO - epileps_ia.cima_api - Consultando medicamento 936/995
+2026-11-26 19:44:05,172 - INFO - epileps_ia.cima_api - Consultando medicamento 937/995
+2026-11-26 19:44:05,211 - INFO - epileps_ia.cima_api - Consultando medicamento 938/995
+2026-11-26 19:44:05,242 - INFO - epileps_ia.cima_api - Consultando medicamento 939/995
+2026-11-26 19:44:05,277 - INFO - epileps_ia.cima_api - Consultando medicamento 940/995
+2026-11-26 19:44:05,305 - INFO - epileps_ia.cima_api - Consultando medicamento 941/995
+2026-11-26 19:44:05,332 - INFO - epileps_ia.cima_api - Consultando medicamento 942/995
+2026-11-26 19:44:05,362 - INFO - epileps_ia.cima_api - Consultando medicamento 943/995
+2026-11-26 19:44:05,394 - INFO - epileps_ia.cima_api - Consultando medicamento 944/995
+2026-11-26 19:44:05,446 - INFO - epileps_ia.cima_api - Consultando medicamento 945/995
+2026-11-26 19:44:05,476 - INFO - epileps_ia.cima_api - Consultando medicamento 946/995
+2026-11-26 19:44:05,506 - INFO - epileps_ia.cima_api - Consultando medicamento 947/995
+2026-11-26 19:44:05,542 - INFO - epileps_ia.cima_api - Consultando medicamento 948/995
+2026-11-26 19:44:05,621 - INFO - epileps_ia.cima_api - Consultando medicamento 949/995
+2026-11-26 19:44:05,653 - INFO - epileps_ia.cima_api - Consultando medicamento 950/995
+2026-11-26 19:44:05,684 - INFO - epileps_ia.cima_api - Consultando medicamento 951/995
+2026-11-26 19:44:05,713 - INFO - epileps_ia.cima_api - Consultando medicamento 952/995
+2026-11-26 19:44:05,756 - INFO - epileps_ia.cima_api - Consultando medicamento 953/995
+2026-11-26 19:44:05,855 - INFO - epileps_ia.cima_api - Consultando medicamento 954/995
+2026-11-26 19:44:05,898 - INFO - epileps_ia.cima_api - Consultando medicamento 955/995
+2026-11-26 19:44:05,930 - INFO - epileps_ia.cima_api - Consultando medicamento 956/995
+2026-11-26 19:44:05,960 - INFO - epileps_ia.cima_api - Consultando medicamento 957/995
+2026-11-26 19:44:06,024 - INFO - epileps_ia.cima_api - Consultando medicamento 958/995
+2026-11-26 19:44:06,055 - INFO - epileps_ia.cima_api - Consultando medicamento 959/995
+2026-11-26 19:44:06,092 - INFO - epileps_ia.cima_api - Consultando medicamento 960/995
+2026-11-26 19:44:06,135 - INFO - epileps_ia.cima_api - Consultando medicamento 961/995
+2026-11-26 19:44:06,166 - INFO - epileps_ia.cima_api - Consultando medicamento 962/995
+2026-11-26 19:44:06,199 - INFO - epileps_ia.cima_api - Consultando medicamento 963/995
+2026-11-26 19:44:06,227 - INFO - epileps_ia.cima_api - Consultando medicamento 964/995
+2026-11-26 19:44:06,359 - INFO - epileps_ia.cima_api - Consultando medicamento 965/995
+2026-11-26 19:44:06,409 - INFO - epileps_ia.cima_api - Consultando medicamento 966/995
+2026-11-26 19:44:06,444 - INFO - epileps_ia.cima_api - Consultando medicamento 967/995
+2026-11-26 19:44:06,473 - INFO - epileps_ia.cima_api - Consultando medicamento 968/995
+2026-11-26 19:44:06,502 - INFO - epileps_ia.cima_api - Consultando medicamento 969/995
+2026-11-26 19:44:06,533 - INFO - epileps_ia.cima_api - Consultando medicamento 970/995
+2026-11-26 19:44:06,580 - INFO - epileps_ia.cima_api - Consultando medicamento 971/995
+2026-11-26 19:44:06,614 - INFO - epileps_ia.cima_api - Consultando medicamento 972/995
+2026-11-26 19:44:06,640 - INFO - epileps_ia.cima_api - Consultando medicamento 973/995
+2026-11-26 19:44:06,671 - INFO - epileps_ia.cima_api - Consultando medicamento 974/995
+2026-11-26 19:44:06,712 - INFO - epileps_ia.cima_api - Consultando medicamento 975/995
+2026-11-26 19:44:06,785 - INFO - epileps_ia.cima_api - Consultando medicamento 976/995
+2026-11-26 19:44:06,818 - INFO - epileps_ia.cima_api - Consultando medicamento 977/995
+2026-11-26 19:44:06,848 - INFO - epileps_ia.cima_api - Consultando medicamento 978/995
+2026-11-26 19:44:06,876 - INFO - epileps_ia.cima_api - Consultando medicamento 979/995
+2026-11-26 19:44:06,903 - INFO - epileps_ia.cima_api - Consultando medicamento 980/995
+2026-11-26 19:44:06,932 - INFO - epileps_ia.cima_api - Consultando medicamento 981/995
+2026-11-26 19:44:06,963 - INFO - epileps_ia.cima_api - Consultando medicamento 982/995
+2026-11-26 19:44:06,999 - INFO - epileps_ia.cima_api - Consultando medicamento 983/995
+2026-11-26 19:44:07,076 - INFO - epileps_ia.cima_api - Consultando medicamento 984/995
+2026-11-26 19:44:07,103 - INFO - epileps_ia.cima_api - Consultando medicamento 985/995
+2026-11-26 19:44:07,132 - INFO - epileps_ia.cima_api - Consultando medicamento 986/995
+2026-11-26 19:44:07,161 - INFO - epileps_ia.cima_api - Consultando medicamento 987/995
+2026-11-26 19:44:07,189 - INFO - epileps_ia.cima_api - Consultando medicamento 988/995
+2026-11-26 19:44:07,219 - INFO - epileps_ia.cima_api - Consultando medicamento 989/995
+2026-11-26 19:44:07,279 - INFO - epileps_ia.cima_api - Consultando medicamento 990/995
+2026-11-26 19:44:07,312 - INFO - epileps_ia.cima_api - Consultando medicamento 991/995
+2026-11-26 19:44:07,346 - INFO - epileps_ia.cima_api - Consultando medicamento 992/995
+2026-11-26 19:44:07,395 - INFO - epileps_ia.cima_api - Consultando medicamento 993/995
+2026-11-26 19:44:07,426 - INFO - epileps_ia.cima_api - Consultando medicamento 994/995
+2026-11-26 19:44:07,457 - INFO - epileps_ia.cima_api - Consultando medicamento 995/995
+2026-11-26 19:44:07,567 - INFO - epileps_ia.cima_api - Medicamentos obtenidos correctamente: 995
+2026-11-26 19:44:07,568 - INFO - epileps_ia.cima_api - Total de medicamentos fallidos: 0
+2026-11-26 19:44:07,568 - INFO - epileps_ia.cima_api - Todos los medicamentos se han consultado correctamente.
+2026-11-26 19:44:08,596 - INFO - epileps_ia.cima_api - Excel hu1 guardado correctamente en: C:\TRASTEO\epileps.IA\data\medicamentos_epilepsia_HU1_2026-11-26_19-43-13.xlsx
+2026-11-26 19:44:08,597 - INFO - __main__ - HU1 finalizada: extracción completa
+2026-11-26 19:44:08,597 - INFO - __main__ - Iniciando HU2
+2026-11-26 19:44:08,597 - INFO - epileps_ia.epilepsia_HU2 - Iniciando extracción de información de HU2
+2026-11-26 19:44:08,605 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 1/995
+2026-11-26 19:44:09,078 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 2/995
+2026-11-26 19:44:09,447 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 3/995
+2026-11-26 19:44:09,737 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 4/995
+2026-11-26 19:44:10,061 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 5/995
+2026-11-26 19:44:10,324 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 6/995
+2026-11-26 19:44:10,627 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 7/995
+2026-11-26 19:44:11,005 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 8/995
+2026-11-26 19:44:11,501 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 9/995
+2026-11-26 19:44:11,984 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 10/995
+2026-11-26 19:44:12,491 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 11/995
+2026-11-26 19:44:12,730 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 12/995
+2026-11-26 19:44:13,038 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 13/995
+2026-11-26 19:44:13,432 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 14/995
+2026-11-26 19:44:13,703 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 15/995
+2026-11-26 19:44:14,040 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 16/995
+2026-11-26 19:44:14,317 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 17/995
+2026-11-26 19:44:14,609 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 18/995
+2026-11-26 19:44:14,916 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 19/995
+2026-11-26 19:44:15,384 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 20/995
+2026-11-26 19:44:15,688 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 21/995
+2026-11-26 19:44:15,971 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 22/995
+2026-11-26 19:44:16,245 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 23/995
+2026-11-26 19:44:16,520 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 24/995
+2026-11-26 19:44:16,778 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 25/995
+2026-11-26 19:44:17,085 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 26/995
+2026-11-26 19:44:17,382 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 27/995
+2026-11-26 19:44:17,675 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 28/995
+2026-11-26 19:44:17,951 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 29/995
+2026-11-26 19:44:18,228 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 30/995
+2026-11-26 19:44:18,510 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 31/995
+2026-11-26 19:44:18,801 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 32/995
+2026-11-26 19:44:19,061 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 33/995
+2026-11-26 19:44:19,590 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 34/995
+2026-11-26 19:44:19,900 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 35/995
+2026-11-26 19:44:20,184 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 36/995
+2026-11-26 19:44:20,470 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 37/995
+2026-11-26 19:44:20,774 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 38/995
+2026-11-26 19:44:21,063 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 39/995
+2026-11-26 19:44:21,431 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 40/995
+2026-11-26 19:44:21,719 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 41/995
+2026-11-26 19:44:22,197 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 42/995
+2026-11-26 19:44:22,513 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 43/995
+2026-11-26 19:44:22,839 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 44/995
+2026-11-26 19:44:23,336 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 45/995
+2026-11-26 19:44:23,684 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 46/995
+2026-11-26 19:44:24,034 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 47/995
+2026-11-26 19:44:24,399 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 48/995
+2026-11-26 19:44:24,724 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 49/995
+2026-11-26 19:44:25,034 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 50/995
+2026-11-26 19:44:25,345 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 51/995
+2026-11-26 19:44:25,746 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 52/995
+2026-11-26 19:44:26,057 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 53/995
+2026-11-26 19:44:26,394 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 54/995
+2026-11-26 19:44:26,703 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 55/995
+2026-11-26 19:44:26,981 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 56/995
+2026-11-26 19:44:27,307 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 57/995
+2026-11-26 19:44:27,622 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 58/995
+2026-11-26 19:44:27,909 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 59/995
+2026-11-26 19:44:28,214 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 60/995
+2026-11-26 19:44:28,527 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 61/995
+2026-11-26 19:44:28,879 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 62/995
+2026-11-26 19:44:29,203 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 63/995
+2026-11-26 19:44:29,497 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 64/995
+2026-11-26 19:44:29,787 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 65/995
+2026-11-26 19:44:30,073 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 66/995
+2026-11-26 19:44:30,536 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 67/995
+2026-11-26 19:44:30,881 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 68/995
+2026-11-26 19:44:31,273 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 69/995
+2026-11-26 19:44:31,617 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 70/995
+2026-11-26 19:44:31,980 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 71/995
+2026-11-26 19:44:32,339 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 72/995
+2026-11-26 19:44:32,697 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 73/995
+2026-11-26 19:44:33,100 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 74/995
+2026-11-26 19:44:33,448 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 75/995
+2026-11-26 19:44:33,776 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 76/995
+2026-11-26 19:44:34,139 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 77/995
+2026-11-26 19:44:34,542 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 78/995
+2026-11-26 19:44:34,885 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 79/995
+2026-11-26 19:44:35,242 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 80/995
+2026-11-26 19:44:35,607 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 81/995
+2026-11-26 19:44:35,999 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 82/995
+2026-11-26 19:44:36,373 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 83/995
+2026-11-26 19:44:36,961 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 84/995
+2026-11-26 19:44:37,337 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 85/995
+2026-11-26 19:44:37,663 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 86/995
+2026-11-26 19:44:37,931 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 87/995
+2026-11-26 19:44:38,281 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 88/995
+2026-11-26 19:44:38,581 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 89/995
+2026-11-26 19:44:38,871 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 90/995
+2026-11-26 19:44:39,195 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 91/995
+2026-11-26 19:44:39,482 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 92/995
+2026-11-26 19:44:39,749 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 93/995
+2026-11-26 19:44:40,200 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 94/995
+2026-11-26 19:44:40,535 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 95/995
+2026-11-26 19:44:40,823 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 96/995
+2026-11-26 19:44:41,098 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 97/995
+2026-11-26 19:44:41,366 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 98/995
+2026-11-26 19:44:41,671 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 99/995
+2026-11-26 19:44:41,959 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 100/995
+2026-11-26 19:44:42,308 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 101/995
+2026-11-26 19:44:42,740 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 102/995
+2026-11-26 19:44:43,066 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 103/995
+2026-11-26 19:44:43,373 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 104/995
+2026-11-26 19:44:43,680 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 105/995
+2026-11-26 19:44:44,082 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 106/995
+2026-11-26 19:44:44,423 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 107/995
+2026-11-26 19:44:44,742 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 108/995
+2026-11-26 19:44:45,050 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 109/995
+2026-11-26 19:44:45,348 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 110/995
+2026-11-26 19:44:45,795 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 111/995
+2026-11-26 19:44:46,127 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 112/995
+2026-11-26 19:44:46,428 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 113/995
+2026-11-26 19:44:46,718 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 114/995
+2026-11-26 19:44:47,210 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 115/995
+2026-11-26 19:44:47,476 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 116/995
+2026-11-26 19:44:47,745 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 117/995
+2026-11-26 19:44:48,066 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 118/995
+2026-11-26 19:44:48,374 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 119/995
+2026-11-26 19:44:48,878 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 120/995
+2026-11-26 19:44:49,302 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 121/995
+2026-11-26 19:44:49,609 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 122/995
+2026-11-26 19:44:49,948 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 123/995
+2026-11-26 19:44:50,263 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 124/995
+2026-11-26 19:44:50,585 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 125/995
+2026-11-26 19:44:50,924 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 126/995
+2026-11-26 19:44:51,230 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 127/995
+2026-11-26 19:44:51,591 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 128/995
+2026-11-26 19:44:51,907 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 129/995
+2026-11-26 19:44:52,251 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 130/995
+2026-11-26 19:44:52,601 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 131/995
+2026-11-26 19:44:53,098 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 132/995
+2026-11-26 19:44:53,396 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 133/995
+2026-11-26 19:44:53,712 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 134/995
+2026-11-26 19:44:54,009 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 135/995
+2026-11-26 19:44:54,331 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 136/995
+2026-11-26 19:44:54,829 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 137/995
+2026-11-26 19:44:55,104 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 138/995
+2026-11-26 19:44:55,561 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 139/995
+2026-11-26 19:44:55,840 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 140/995
+2026-11-26 19:44:56,130 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 141/995
+2026-11-26 19:44:56,466 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 142/995
+2026-11-26 19:44:56,760 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 143/995
+2026-11-26 19:44:57,049 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 144/995
+2026-11-26 19:44:57,328 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 145/995
+2026-11-26 19:44:57,616 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 146/995
+2026-11-26 19:44:57,881 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 147/995
+2026-11-26 19:44:58,290 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 148/995
+2026-11-26 19:44:58,579 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 149/995
+2026-11-26 19:44:58,940 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 150/995
+2026-11-26 19:44:59,310 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 151/995
+2026-11-26 19:44:59,568 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 152/995
+2026-11-26 19:44:59,850 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 153/995
+2026-11-26 19:45:00,245 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 154/995
+2026-11-26 19:45:00,577 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 155/995
+2026-11-26 19:45:00,915 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 156/995
+2026-11-26 19:45:01,326 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 157/995
+2026-11-26 19:45:01,677 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 158/995
+2026-11-26 19:45:02,238 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 159/995
+2026-11-26 19:45:02,578 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 160/995
+2026-11-26 19:45:02,939 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 161/995
+2026-11-26 19:45:03,267 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 162/995
+2026-11-26 19:45:03,581 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 163/995
+2026-11-26 19:45:03,898 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 164/995
+2026-11-26 19:45:04,212 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 165/995
+2026-11-26 19:45:04,798 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 166/995
+2026-11-26 19:45:05,134 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 167/995
+2026-11-26 19:45:05,425 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 168/995
+2026-11-26 19:45:05,739 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 169/995
+2026-11-26 19:45:06,059 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 170/995
+2026-11-26 19:45:06,360 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 171/995
+2026-11-26 19:45:06,651 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 172/995
+2026-11-26 19:45:06,966 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 173/995
+2026-11-26 19:45:07,256 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 174/995
+2026-11-26 19:45:07,643 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 175/995
+2026-11-26 19:45:08,013 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 176/995
+2026-11-26 19:45:08,370 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 177/995
+2026-11-26 19:45:08,690 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 178/995
+2026-11-26 19:45:09,023 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 179/995
+2026-11-26 19:45:09,412 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 180/995
+2026-11-26 19:45:09,786 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 181/995
+2026-11-26 19:45:10,181 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 182/995
+2026-11-26 19:45:10,541 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 183/995
+2026-11-26 19:45:10,848 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 184/995
+2026-11-26 19:45:11,186 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 185/995
+2026-11-26 19:45:11,494 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 186/995
+2026-11-26 19:45:11,814 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 187/995
+2026-11-26 19:45:12,180 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 188/995
+2026-11-26 19:45:12,517 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 189/995
+2026-11-26 19:45:13,039 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 190/995
+2026-11-26 19:45:13,384 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 191/995
+2026-11-26 19:45:13,734 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 192/995
+2026-11-26 19:45:14,041 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 193/995
+2026-11-26 19:45:14,373 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 194/995
+2026-11-26 19:45:14,712 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 195/995
+2026-11-26 19:45:15,210 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 196/995
+2026-11-26 19:45:15,522 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 197/995
+2026-11-26 19:45:15,804 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 198/995
+2026-11-26 19:45:16,084 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 199/995
+2026-11-26 19:45:16,365 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 200/995
+2026-11-26 19:45:16,651 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 201/995
+2026-11-26 19:45:16,906 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 202/995
+2026-11-26 19:45:17,154 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 203/995
+2026-11-26 19:45:17,410 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 204/995
+2026-11-26 19:45:17,765 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 205/995
+2026-11-26 19:45:18,082 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 206/995
+2026-11-26 19:45:18,428 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 207/995
+2026-11-26 19:45:18,987 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 208/995
+2026-11-26 19:45:19,347 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 209/995
+2026-11-26 19:45:19,811 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 210/995
+2026-11-26 19:45:20,094 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 211/995
+2026-11-26 19:45:20,365 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 212/995
+2026-11-26 19:45:20,652 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 213/995
+2026-11-26 19:45:20,931 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 214/995
+2026-11-26 19:45:21,186 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 215/995
+2026-11-26 19:45:21,507 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 216/995
+2026-11-26 19:45:21,795 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 217/995
+2026-11-26 19:45:22,291 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 218/995
+2026-11-26 19:45:22,566 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 219/995
+2026-11-26 19:45:23,088 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 220/995
+2026-11-26 19:45:23,358 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 221/995
+2026-11-26 19:45:23,617 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 222/995
+2026-11-26 19:45:23,874 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 223/995
+2026-11-26 19:45:24,191 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 224/995
+2026-11-26 19:45:24,625 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 225/995
+2026-11-26 19:45:24,967 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 226/995
+2026-11-26 19:45:25,440 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 227/995
+2026-11-26 19:45:25,757 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 228/995
+2026-11-26 19:45:26,058 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 229/995
+2026-11-26 19:45:26,342 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 230/995
+2026-11-26 19:45:26,624 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 231/995
+2026-11-26 19:45:26,910 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 232/995
+2026-11-26 19:45:27,410 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 233/995
+2026-11-26 19:45:27,689 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 234/995
+2026-11-26 19:45:28,122 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 235/995
+2026-11-26 19:45:28,432 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 236/995
+2026-11-26 19:45:28,785 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 237/995
+2026-11-26 19:45:29,246 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 238/995
+2026-11-26 19:45:29,605 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 239/995
+2026-11-26 19:45:29,902 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 240/995
+2026-11-26 19:45:30,285 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 241/995
+2026-11-26 19:45:30,638 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 242/995
+2026-11-26 19:45:30,965 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 243/995
+2026-11-26 19:45:31,509 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 244/995
+2026-11-26 19:45:31,826 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 245/995
+2026-11-26 19:45:32,149 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 246/995
+2026-11-26 19:45:32,455 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 247/995
+2026-11-26 19:45:32,770 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 248/995
+2026-11-26 19:45:33,107 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 249/995
+2026-11-26 19:45:33,653 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 250/995
+2026-11-26 19:45:33,959 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 251/995
+2026-11-26 19:45:34,286 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 252/995
+2026-11-26 19:45:34,612 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 253/995
+2026-11-26 19:45:34,907 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 254/995
+2026-11-26 19:45:35,205 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 255/995
+2026-11-26 19:45:35,543 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 256/995
+2026-11-26 19:45:35,843 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 257/995
+2026-11-26 19:45:36,297 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 258/995
+2026-11-26 19:45:36,617 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 259/995
+2026-11-26 19:45:37,061 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 260/995
+2026-11-26 19:45:37,332 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 261/995
+2026-11-26 19:45:37,615 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 262/995
+2026-11-26 19:45:37,914 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 263/995
+2026-11-26 19:45:38,197 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 264/995
+2026-11-26 19:45:38,503 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 265/995
+2026-11-26 19:45:38,800 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 266/995
+2026-11-26 19:45:39,128 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 267/995
+2026-11-26 19:45:39,422 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 268/995
+2026-11-26 19:45:39,824 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 269/995
+2026-11-26 19:45:40,133 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 270/995
+2026-11-26 19:45:40,439 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 271/995
+2026-11-26 19:45:41,021 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 272/995
+2026-11-26 19:45:41,338 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 273/995
+2026-11-26 19:45:41,632 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 274/995
+2026-11-26 19:45:41,910 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 275/995
+2026-11-26 19:45:42,531 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 276/995
+2026-11-26 19:45:42,816 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 277/995
+2026-11-26 19:45:43,115 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 278/995
+2026-11-26 19:45:43,554 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 279/995
+2026-11-26 19:45:43,924 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 280/995
+2026-11-26 19:45:44,210 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 281/995
+2026-11-26 19:45:44,487 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 282/995
+2026-11-26 19:45:44,805 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 283/995
+2026-11-26 19:45:45,114 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 284/995
+2026-11-26 19:45:45,470 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 285/995
+2026-11-26 19:45:45,788 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 286/995
+2026-11-26 19:45:46,245 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 287/995
+2026-11-26 19:45:46,566 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 288/995
+2026-11-26 19:45:46,903 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 289/995
+2026-11-26 19:45:47,222 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 290/995
+2026-11-26 19:45:47,553 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 291/995
+2026-11-26 19:45:47,859 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 292/995
+2026-11-26 19:45:48,164 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 293/995
+2026-11-26 19:45:48,490 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 294/995
+2026-11-26 19:45:48,872 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 295/995
+2026-11-26 19:45:49,181 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 296/995
+2026-11-26 19:45:49,509 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 297/995
+2026-11-26 19:45:49,797 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 298/995
+2026-11-26 19:45:50,307 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 299/995
+2026-11-26 19:45:50,592 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 300/995
+2026-11-26 19:45:50,862 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 301/995
+2026-11-26 19:45:51,132 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 302/995
+2026-11-26 19:45:51,389 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 303/995
+2026-11-26 19:45:51,648 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 304/995
+2026-11-26 19:45:51,925 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 305/995
+2026-11-26 19:45:52,177 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 306/995
+2026-11-26 19:45:52,549 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 307/995
+2026-11-26 19:45:52,819 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 308/995
+2026-11-26 19:45:53,077 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 309/995
+2026-11-26 19:45:53,401 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 310/995
+2026-11-26 19:45:53,674 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 311/995
+2026-11-26 19:45:53,951 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 312/995
+2026-11-26 19:45:54,252 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 313/995
+2026-11-26 19:45:54,518 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 314/995
+2026-11-26 19:45:54,813 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 315/995
+2026-11-26 19:45:55,063 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 316/995
+2026-11-26 19:45:55,332 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 317/995
+2026-11-26 19:45:55,635 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 318/995
+2026-11-26 19:45:55,932 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 319/995
+2026-11-26 19:45:56,350 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 320/995
+2026-11-26 19:45:56,622 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 321/995
+2026-11-26 19:45:56,887 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 322/995
+2026-11-26 19:45:57,163 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 323/995
+2026-11-26 19:45:57,678 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 324/995
+2026-11-26 19:45:57,936 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 325/995
+2026-11-26 19:45:58,223 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 326/995
+2026-11-26 19:45:58,481 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 327/995
+2026-11-26 19:45:58,766 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 328/995
+2026-11-26 19:45:59,017 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 329/995
+2026-11-26 19:45:59,279 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 330/995
+2026-11-26 19:45:59,540 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 331/995
+2026-11-26 19:45:59,817 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 332/995
+2026-11-26 19:46:00,082 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 333/995
+2026-11-26 19:46:00,353 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 334/995
+2026-11-26 19:46:00,602 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 335/995
+2026-11-26 19:46:00,864 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 336/995
+2026-11-26 19:46:01,125 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 337/995
+2026-11-26 19:46:01,534 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 338/995
+2026-11-26 19:46:01,770 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 339/995
+2026-11-26 19:46:02,074 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 340/995
+2026-11-26 19:46:02,368 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 341/995
+2026-11-26 19:46:02,691 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 342/995
+2026-11-26 19:46:02,982 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 343/995
+2026-11-26 19:46:03,253 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 344/995
+2026-11-26 19:46:03,647 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 345/995
+2026-11-26 19:46:03,953 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 346/995
+2026-11-26 19:46:04,250 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 347/995
+2026-11-26 19:46:04,610 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 348/995
+2026-11-26 19:46:04,977 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 349/995
+2026-11-26 19:46:05,330 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 350/995
+2026-11-26 19:46:05,703 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 351/995
+2026-11-26 19:46:06,324 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 352/995
+2026-11-26 19:46:06,695 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 353/995
+2026-11-26 19:46:07,038 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 354/995
+2026-11-26 19:46:07,441 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 355/995
+2026-11-26 19:46:07,724 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 356/995
+2026-11-26 19:46:08,038 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 357/995
+2026-11-26 19:46:08,331 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 358/995
+2026-11-26 19:46:08,671 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 359/995
+2026-11-26 19:46:08,948 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 360/995
+2026-11-26 19:46:09,378 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 361/995
+2026-11-26 19:46:09,885 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 362/995
+2026-11-26 19:46:10,183 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 363/995
+2026-11-26 19:46:10,480 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 364/995
+2026-11-26 19:46:10,783 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 365/995
+2026-11-26 19:46:11,055 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 366/995
+2026-11-26 19:46:11,323 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 367/995
+2026-11-26 19:46:11,603 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 368/995
+2026-11-26 19:46:11,917 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 369/995
+2026-11-26 19:46:12,212 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 370/995
+2026-11-26 19:46:12,494 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 371/995
+2026-11-26 19:46:12,783 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 372/995
+2026-11-26 19:46:13,087 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 373/995
+2026-11-26 19:46:13,389 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 374/995
+2026-11-26 19:46:13,682 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 375/995
+2026-11-26 19:46:14,197 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 376/995
+2026-11-26 19:46:15,616 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 377/995
+2026-11-26 19:46:16,029 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 378/995
+2026-11-26 19:46:16,328 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 379/995
+2026-11-26 19:46:16,616 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 380/995
+2026-11-26 19:46:16,898 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 381/995
+2026-11-26 19:46:17,176 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 382/995
+2026-11-26 19:46:17,453 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 383/995
+2026-11-26 19:46:17,736 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 384/995
+2026-11-26 19:46:18,037 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 385/995
+2026-11-26 19:46:18,342 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 386/995
+2026-11-26 19:46:18,642 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 387/995
+2026-11-26 19:46:19,139 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 388/995
+2026-11-26 19:46:19,492 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 389/995
+2026-11-26 19:46:19,775 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 390/995
+2026-11-26 19:46:20,076 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 391/995
+2026-11-26 19:46:20,448 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 392/995
+2026-11-26 19:46:20,775 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 393/995
+2026-11-26 19:46:21,437 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 394/995
+2026-11-26 19:46:21,743 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 395/995
+2026-11-26 19:46:22,010 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 396/995
+2026-11-26 19:46:22,288 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 397/995
+2026-11-26 19:46:22,559 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 398/995
+2026-11-26 19:46:22,847 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 399/995
+2026-11-26 19:46:23,154 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 400/995
+2026-11-26 19:46:23,559 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 401/995
+2026-11-26 19:46:23,880 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 402/995
+2026-11-26 19:46:24,160 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 403/995
+2026-11-26 19:46:24,492 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 404/995
+2026-11-26 19:46:24,787 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 405/995
+2026-11-26 19:46:25,178 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 406/995
+2026-11-26 19:46:25,469 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 407/995
+2026-11-26 19:46:25,874 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 408/995
+2026-11-26 19:46:26,177 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 409/995
+2026-11-26 19:46:26,476 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 410/995
+2026-11-26 19:46:26,799 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 411/995
+2026-11-26 19:46:27,245 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 412/995
+2026-11-26 19:46:27,599 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 413/995
+2026-11-26 19:46:27,881 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 414/995
+2026-11-26 19:46:28,169 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 415/995
+2026-11-26 19:46:28,461 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 416/995
+2026-11-26 19:46:28,765 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 417/995
+2026-11-26 19:46:29,075 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 418/995
+2026-11-26 19:46:29,350 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 419/995
+2026-11-26 19:46:29,622 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 420/995
+2026-11-26 19:46:29,912 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 421/995
+2026-11-26 19:46:30,202 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 422/995
+2026-11-26 19:46:30,516 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 423/995
+2026-11-26 19:46:31,172 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 424/995
+2026-11-26 19:46:31,484 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 425/995
+2026-11-26 19:46:31,769 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 426/995
+2026-11-26 19:46:32,219 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 427/995
+2026-11-26 19:46:32,536 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 428/995
+2026-11-26 19:46:32,880 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 429/995
+2026-11-26 19:46:33,187 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 430/995
+2026-11-26 19:46:33,505 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 431/995
+2026-11-26 19:46:33,801 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 432/995
+2026-11-26 19:46:34,272 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 433/995
+2026-11-26 19:46:34,570 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 434/995
+2026-11-26 19:46:34,993 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 435/995
+2026-11-26 19:46:35,289 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 436/995
+2026-11-26 19:46:35,578 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 437/995
+2026-11-26 19:46:35,871 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 438/995
+2026-11-26 19:46:36,180 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 439/995
+2026-11-26 19:46:36,484 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 440/995
+2026-11-26 19:46:36,778 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 441/995
+2026-11-26 19:46:37,287 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 442/995
+2026-11-26 19:46:37,620 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 443/995
+2026-11-26 19:46:38,139 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 444/995
+2026-11-26 19:46:38,428 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 445/995
+2026-11-26 19:46:38,712 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 446/995
+2026-11-26 19:46:38,979 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 447/995
+2026-11-26 19:46:39,447 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 448/995
+2026-11-26 19:46:39,751 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 449/995
+2026-11-26 19:46:40,038 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 450/995
+2026-11-26 19:46:40,343 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 451/995
+2026-11-26 19:46:40,639 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 452/995
+2026-11-26 19:46:40,917 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 453/995
+2026-11-26 19:46:41,198 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 454/995
+2026-11-26 19:46:41,478 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 455/995
+2026-11-26 19:46:41,771 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 456/995
+2026-11-26 19:46:42,099 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 457/995
+2026-11-26 19:46:42,401 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 458/995
+2026-11-26 19:46:42,684 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 459/995
+2026-11-26 19:46:43,060 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 460/995
+2026-11-26 19:46:43,325 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 461/995
+2026-11-26 19:46:43,610 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 462/995
+2026-11-26 19:46:43,904 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 463/995
+2026-11-26 19:46:44,177 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 464/995
+2026-11-26 19:46:44,456 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 465/995
+2026-11-26 19:46:44,778 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 466/995
+2026-11-26 19:46:45,087 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 467/995
+2026-11-26 19:46:45,448 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 468/995
+2026-11-26 19:46:45,783 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 469/995
+2026-11-26 19:46:46,136 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 470/995
+2026-11-26 19:46:46,462 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 471/995
+2026-11-26 19:46:46,797 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 472/995
+2026-11-26 19:46:47,118 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 473/995
+2026-11-26 19:46:47,700 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 474/995
+2026-11-26 19:46:47,981 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 475/995
+2026-11-26 19:46:48,289 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 476/995
+2026-11-26 19:46:48,603 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 477/995
+2026-11-26 19:46:48,967 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 478/995
+2026-11-26 19:46:49,255 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 479/995
+2026-11-26 19:46:49,554 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 480/995
+2026-11-26 19:46:49,879 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 481/995
+2026-11-26 19:46:50,176 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 482/995
+2026-11-26 19:46:50,485 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 483/995
+2026-11-26 19:46:50,758 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 484/995
+2026-11-26 19:46:51,034 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 485/995
+2026-11-26 19:46:51,323 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 486/995
+2026-11-26 19:46:51,874 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 487/995
+2026-11-26 19:46:52,164 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 488/995
+2026-11-26 19:46:52,455 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 489/995
+2026-11-26 19:46:52,754 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 490/995
+2026-11-26 19:46:53,047 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 491/995
+2026-11-26 19:46:53,514 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 492/995
+2026-11-26 19:46:53,819 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 493/995
+2026-11-26 19:46:54,119 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 494/995
+2026-11-26 19:46:54,405 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 495/995
+2026-11-26 19:46:54,846 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 496/995
+2026-11-26 19:46:55,179 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 497/995
+2026-11-26 19:46:55,463 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 498/995
+2026-11-26 19:46:55,771 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 499/995
+2026-11-26 19:46:56,287 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 500/995
+2026-11-26 19:46:56,601 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 501/995
+2026-11-26 19:46:56,931 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 502/995
+2026-11-26 19:46:57,218 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 503/995
+2026-11-26 19:46:57,578 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 504/995
+2026-11-26 19:46:57,902 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 505/995
+2026-11-26 19:46:58,359 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 506/995
+2026-11-26 19:46:58,683 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 507/995
+2026-11-26 19:46:59,015 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 508/995
+2026-11-26 19:46:59,349 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 509/995
+2026-11-26 19:46:59,658 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 510/995
+2026-11-26 19:46:59,999 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 511/995
+2026-11-26 19:47:00,384 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 512/995
+2026-11-26 19:47:00,702 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 513/995
+2026-11-26 19:47:01,069 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 514/995
+2026-11-26 19:47:01,382 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 515/995
+2026-11-26 19:47:01,702 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 516/995
+2026-11-26 19:47:02,004 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 517/995
+2026-11-26 19:47:02,292 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 518/995
+2026-11-26 19:47:02,585 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 519/995
+2026-11-26 19:47:02,891 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 520/995
+2026-11-26 19:47:03,185 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 521/995
+2026-11-26 19:47:03,483 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 522/995
+2026-11-26 19:47:03,775 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 523/995
+2026-11-26 19:47:04,071 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 524/995
+2026-11-26 19:47:04,367 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 525/995
+2026-11-26 19:47:04,665 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 526/995
+2026-11-26 19:47:05,448 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 527/995
+2026-11-26 19:47:05,898 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 528/995
+2026-11-26 19:47:06,259 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 529/995
+2026-11-26 19:47:06,612 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 530/995
+2026-11-26 19:47:07,010 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 531/995
+2026-11-26 19:47:07,358 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 532/995
+2026-11-26 19:47:07,701 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 533/995
+2026-11-26 19:47:08,055 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 534/995
+2026-11-26 19:47:08,684 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 535/995
+2026-11-26 19:47:09,146 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 536/995
+2026-11-26 19:47:09,502 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 537/995
+2026-11-26 19:47:09,904 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 538/995
+2026-11-26 19:47:10,248 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 539/995
+2026-11-26 19:47:10,627 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 540/995
+2026-11-26 19:47:10,969 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 541/995
+2026-11-26 19:47:11,388 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 542/995
+2026-11-26 19:47:11,766 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 543/995
+2026-11-26 19:47:12,136 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 544/995
+2026-11-26 19:47:12,719 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 545/995
+2026-11-26 19:47:13,072 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 546/995
+2026-11-26 19:47:13,465 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 547/995
+2026-11-26 19:47:13,782 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 548/995
+2026-11-26 19:47:14,147 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 549/995
+2026-11-26 19:47:14,496 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 550/995
+2026-11-26 19:47:14,862 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 551/995
+2026-11-26 19:47:15,224 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 552/995
+2026-11-26 19:47:15,616 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 553/995
+2026-11-26 19:47:16,165 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 554/995
+2026-11-26 19:47:16,577 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 555/995
+2026-11-26 19:47:16,883 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 556/995
+2026-11-26 19:47:17,178 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 557/995
+2026-11-26 19:47:17,496 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 558/995
+2026-11-26 19:47:17,881 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 559/995
+2026-11-26 19:47:18,183 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 560/995
+2026-11-26 19:47:18,496 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 561/995
+2026-11-26 19:47:18,804 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 562/995
+2026-11-26 19:47:19,083 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 563/995
+2026-11-26 19:47:19,397 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 564/995
+2026-11-26 19:47:19,715 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 565/995
+2026-11-26 19:47:20,250 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 566/995
+2026-11-26 19:47:20,786 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 567/995
+2026-11-26 19:47:21,124 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 568/995
+2026-11-26 19:47:21,469 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 569/995
+2026-11-26 19:47:21,787 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 570/995
+2026-11-26 19:47:22,104 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 571/995
+2026-11-26 19:47:22,410 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 572/995
+2026-11-26 19:47:22,715 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 573/995
+2026-11-26 19:47:23,025 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 574/995
+2026-11-26 19:47:23,349 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 575/995
+2026-11-26 19:47:23,675 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 576/995
+2026-11-26 19:47:24,018 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 577/995
+2026-11-26 19:47:24,351 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 578/995
+2026-11-26 19:47:24,665 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 579/995
+2026-11-26 19:47:24,981 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 580/995
+2026-11-26 19:47:25,295 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 581/995
+2026-11-26 19:47:25,589 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 582/995
+2026-11-26 19:47:25,897 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 583/995
+2026-11-26 19:47:26,185 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 584/995
+2026-11-26 19:47:26,481 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 585/995
+2026-11-26 19:47:26,816 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 586/995
+2026-11-26 19:47:27,331 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 587/995
+2026-11-26 19:47:27,700 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 588/995
+2026-11-26 19:47:28,001 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 589/995
+2026-11-26 19:47:28,315 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 590/995
+2026-11-26 19:47:28,629 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 591/995
+2026-11-26 19:47:29,225 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 592/995
+2026-11-26 19:47:29,587 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 593/995
+2026-11-26 19:47:29,874 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 594/995
+2026-11-26 19:47:30,178 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 595/995
+2026-11-26 19:47:30,484 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 596/995
+2026-11-26 19:47:30,786 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 597/995
+2026-11-26 19:47:31,067 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 598/995
+2026-11-26 19:47:31,362 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 599/995
+2026-11-26 19:47:31,681 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 600/995
+2026-11-26 19:47:31,997 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 601/995
+2026-11-26 19:47:32,298 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 602/995
+2026-11-26 19:47:32,741 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 603/995
+2026-11-26 19:47:33,039 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 604/995
+2026-11-26 19:47:33,328 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 605/995
+2026-11-26 19:47:33,634 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 606/995
+2026-11-26 19:47:34,087 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 607/995
+2026-11-26 19:47:34,379 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 608/995
+2026-11-26 19:47:34,674 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 609/995
+2026-11-26 19:47:34,972 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 610/995
+2026-11-26 19:47:35,258 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 611/995
+2026-11-26 19:47:35,614 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 612/995
+2026-11-26 19:47:35,899 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 613/995
+2026-11-26 19:47:36,183 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 614/995
+2026-11-26 19:47:36,459 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 615/995
+2026-11-26 19:47:36,789 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 616/995
+2026-11-26 19:47:37,131 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 617/995
+2026-11-26 19:47:37,435 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 618/995
+2026-11-26 19:47:37,755 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 619/995
+2026-11-26 19:47:38,062 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 620/995
+2026-11-26 19:47:38,572 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 621/995
+2026-11-26 19:47:38,869 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 622/995
+2026-11-26 19:47:39,168 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 623/995
+2026-11-26 19:47:39,646 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 624/995
+2026-11-26 19:47:39,983 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 625/995
+2026-11-26 19:47:40,308 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 626/995
+2026-11-26 19:47:40,627 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 627/995
+2026-11-26 19:47:40,895 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 628/995
+2026-11-26 19:47:41,204 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 629/995
+2026-11-26 19:47:41,490 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 630/995
+2026-11-26 19:47:41,763 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 631/995
+2026-11-26 19:47:42,041 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 632/995
+2026-11-26 19:47:42,564 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 633/995
+2026-11-26 19:47:42,822 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 634/995
+2026-11-26 19:47:43,148 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 635/995
+2026-11-26 19:47:43,471 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 636/995
+2026-11-26 19:47:43,782 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 637/995
+2026-11-26 19:47:44,091 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 638/995
+2026-11-26 19:47:44,381 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 639/995
+2026-11-26 19:47:44,687 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 640/995
+2026-11-26 19:47:45,129 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 641/995
+2026-11-26 19:47:45,419 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 642/995
+2026-11-26 19:47:45,716 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 643/995
+2026-11-26 19:47:45,992 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 644/995
+2026-11-26 19:47:46,288 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 645/995
+2026-11-26 19:47:46,681 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 646/995
+2026-11-26 19:47:46,981 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 647/995
+2026-11-26 19:47:47,299 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 648/995
+2026-11-26 19:47:47,605 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 649/995
+2026-11-26 19:47:48,119 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 650/995
+2026-11-26 19:47:48,454 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 651/995
+2026-11-26 19:47:48,806 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 652/995
+2026-11-26 19:47:49,096 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 653/995
+2026-11-26 19:47:49,382 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 654/995
+2026-11-26 19:47:49,853 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 655/995
+2026-11-26 19:47:50,161 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 656/995
+2026-11-26 19:47:50,473 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 657/995
+2026-11-26 19:47:50,775 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 658/995
+2026-11-26 19:47:51,067 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 659/995
+2026-11-26 19:47:51,353 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 660/995
+2026-11-26 19:47:51,642 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 661/995
+2026-11-26 19:47:51,942 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 662/995
+2026-11-26 19:47:52,241 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 663/995
+2026-11-26 19:47:52,815 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 664/995
+2026-11-26 19:47:53,102 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 665/995
+2026-11-26 19:47:53,441 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 666/995
+2026-11-26 19:47:53,729 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 667/995
+2026-11-26 19:47:54,028 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 668/995
+2026-11-26 19:47:54,357 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 669/995
+2026-11-26 19:47:54,683 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 670/995
+2026-11-26 19:47:55,007 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 671/995
+2026-11-26 19:47:55,318 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 672/995
+2026-11-26 19:47:55,638 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 673/995
+2026-11-26 19:47:55,958 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 674/995
+2026-11-26 19:47:56,248 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 675/995
+2026-11-26 19:47:56,544 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 676/995
+2026-11-26 19:47:57,054 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 677/995
+2026-11-26 19:47:57,360 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 678/995
+2026-11-26 19:47:57,648 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 679/995
+2026-11-26 19:47:57,912 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 680/995
+2026-11-26 19:47:58,174 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 681/995
+2026-11-26 19:47:58,418 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 682/995
+2026-11-26 19:47:58,698 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 683/995
+2026-11-26 19:47:58,984 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 684/995
+2026-11-26 19:47:59,306 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 685/995
+2026-11-26 19:47:59,583 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 686/995
+2026-11-26 19:47:59,880 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 687/995
+2026-11-26 19:48:00,231 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 688/995
+2026-11-26 19:48:00,545 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 689/995
+2026-11-26 19:48:00,876 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 690/995
+2026-11-26 19:48:01,314 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 691/995
+2026-11-26 19:48:01,634 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 692/995
+2026-11-26 19:48:01,930 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 693/995
+2026-11-26 19:48:02,224 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 694/995
+2026-11-26 19:48:02,856 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 695/995
+2026-11-26 19:48:03,113 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 696/995
+2026-11-26 19:48:03,349 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 697/995
+2026-11-26 19:48:03,593 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 698/995
+2026-11-26 19:48:03,893 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 699/995
+2026-11-26 19:48:04,185 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 700/995
+2026-11-26 19:48:04,670 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 701/995
+2026-11-26 19:48:04,972 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 702/995
+2026-11-26 19:48:05,279 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 703/995
+2026-11-26 19:48:05,594 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 704/995
+2026-11-26 19:48:05,929 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 705/995
+2026-11-26 19:48:06,237 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 706/995
+2026-11-26 19:48:06,510 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 707/995
+2026-11-26 19:48:06,758 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 708/995
+2026-11-26 19:48:07,316 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 709/995
+2026-11-26 19:48:07,686 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 710/995
+2026-11-26 19:48:07,997 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 711/995
+2026-11-26 19:48:08,510 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 712/995
+2026-11-26 19:48:08,855 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 713/995
+2026-11-26 19:48:09,179 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 714/995
+2026-11-26 19:48:09,540 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 715/995
+2026-11-26 19:48:09,926 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 716/995
+2026-11-26 19:48:10,235 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 717/995
+2026-11-26 19:48:10,544 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 718/995
+2026-11-26 19:48:10,851 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 719/995
+2026-11-26 19:48:11,185 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 720/995
+2026-11-26 19:48:11,499 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 721/995
+2026-11-26 19:48:13,043 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 722/995
+2026-11-26 19:48:13,418 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 723/995
+2026-11-26 19:48:13,925 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 724/995
+2026-11-26 19:48:14,291 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 725/995
+2026-11-26 19:48:14,623 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 726/995
+2026-11-26 19:48:14,928 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 727/995
+2026-11-26 19:48:15,278 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 728/995
+2026-11-26 19:48:15,652 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 729/995
+2026-11-26 19:48:15,962 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 730/995
+2026-11-26 19:48:16,308 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 731/995
+2026-11-26 19:48:16,640 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 732/995
+2026-11-26 19:48:17,129 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 733/995
+2026-11-26 19:48:17,852 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 734/995
+2026-11-26 19:48:18,268 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 735/995
+2026-11-26 19:48:18,671 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 736/995
+2026-11-26 19:48:19,262 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 737/995
+2026-11-26 19:48:19,808 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 738/995
+2026-11-26 19:48:20,381 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 739/995
+2026-11-26 19:48:20,832 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 740/995
+2026-11-26 19:48:21,268 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 741/995
+2026-11-26 19:48:21,703 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 742/995
+2026-11-26 19:48:22,130 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 743/995
+2026-11-26 19:48:22,562 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 744/995
+2026-11-26 19:48:23,099 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 745/995
+2026-11-26 19:48:23,497 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 746/995
+2026-11-26 19:48:24,007 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 747/995
+2026-11-26 19:48:25,503 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 748/995
+2026-11-26 19:48:26,058 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 749/995
+2026-11-26 19:48:26,798 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 750/995
+2026-11-26 19:48:27,189 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 751/995
+2026-11-26 19:48:27,648 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 752/995
+2026-11-26 19:48:28,351 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 753/995
+2026-11-26 19:48:28,771 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 754/995
+2026-11-26 19:48:29,142 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 755/995
+2026-11-26 19:48:29,511 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 756/995
+2026-11-26 19:48:29,943 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 757/995
+2026-11-26 19:48:30,427 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 758/995
+2026-11-26 19:48:30,779 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 759/995
+2026-11-26 19:48:31,103 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 760/995
+2026-11-26 19:48:31,404 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 761/995
+2026-11-26 19:48:31,727 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 762/995
+2026-11-26 19:48:32,029 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 763/995
+2026-11-26 19:48:32,400 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 764/995
+2026-11-26 19:48:32,724 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 765/995
+2026-11-26 19:48:33,099 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 766/995
+2026-11-26 19:48:33,420 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 767/995
+2026-11-26 19:48:33,776 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 768/995
+2026-11-26 19:48:34,114 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 769/995
+2026-11-26 19:48:34,421 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 770/995
+2026-11-26 19:48:34,755 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 771/995
+2026-11-26 19:48:35,093 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 772/995
+2026-11-26 19:48:35,435 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 773/995
+2026-11-26 19:48:35,791 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 774/995
+2026-11-26 19:48:36,118 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 775/995
+2026-11-26 19:48:36,467 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 776/995
+2026-11-26 19:48:36,789 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 777/995
+2026-11-26 19:48:37,113 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 778/995
+2026-11-26 19:48:37,433 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 779/995
+2026-11-26 19:48:37,782 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 780/995
+2026-11-26 19:48:38,370 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 781/995
+2026-11-26 19:48:38,675 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 782/995
+2026-11-26 19:48:38,993 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 783/995
+2026-11-26 19:48:39,439 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 784/995
+2026-11-26 19:48:39,774 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 785/995
+2026-11-26 19:48:40,074 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 786/995
+2026-11-26 19:48:40,541 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 787/995
+2026-11-26 19:48:40,932 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 788/995
+2026-11-26 19:48:41,218 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 789/995
+2026-11-26 19:48:41,510 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 790/995
+2026-11-26 19:48:41,810 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 791/995
+2026-11-26 19:48:42,396 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 792/995
+2026-11-26 19:48:42,710 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 793/995
+2026-11-26 19:48:43,063 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 794/995
+2026-11-26 19:48:43,398 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 795/995
+2026-11-26 19:48:43,704 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 796/995
+2026-11-26 19:48:44,128 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 797/995
+2026-11-26 19:48:44,421 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 798/995
+2026-11-26 19:48:44,728 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 799/995
+2026-11-26 19:48:45,022 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 800/995
+2026-11-26 19:48:45,353 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 801/995
+2026-11-26 19:48:45,876 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 802/995
+2026-11-26 19:48:46,193 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 803/995
+2026-11-26 19:48:46,551 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 804/995
+2026-11-26 19:48:46,856 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 805/995
+2026-11-26 19:48:47,259 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 806/995
+2026-11-26 19:48:47,735 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 807/995
+2026-11-26 19:48:48,043 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 808/995
+2026-11-26 19:48:48,350 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 809/995
+2026-11-26 19:48:48,659 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 810/995
+2026-11-26 19:48:48,948 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 811/995
+2026-11-26 19:48:49,618 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 812/995
+2026-11-26 19:48:49,976 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 813/995
+2026-11-26 19:48:50,318 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 814/995
+2026-11-26 19:48:50,671 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 815/995
+2026-11-26 19:48:51,136 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 816/995
+2026-11-26 19:48:51,509 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 817/995
+2026-11-26 19:48:51,853 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 818/995
+2026-11-26 19:48:52,191 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 819/995
+2026-11-26 19:48:52,549 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 820/995
+2026-11-26 19:48:52,850 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 821/995
+2026-11-26 19:48:53,181 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 822/995
+2026-11-26 19:48:53,491 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 823/995
+2026-11-26 19:48:53,835 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 824/995
+2026-11-26 19:48:54,364 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 825/995
+2026-11-26 19:48:54,642 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 826/995
+2026-11-26 19:48:54,911 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 827/995
+2026-11-26 19:48:55,233 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 828/995
+2026-11-26 19:48:55,504 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 829/995
+2026-11-26 19:48:55,772 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 830/995
+2026-11-26 19:48:56,052 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 831/995
+2026-11-26 19:48:56,605 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 832/995
+2026-11-26 19:48:56,903 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 833/995
+2026-11-26 19:48:57,193 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 834/995
+2026-11-26 19:48:57,466 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 835/995
+2026-11-26 19:48:57,896 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 836/995
+2026-11-26 19:48:58,181 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 837/995
+2026-11-26 19:48:58,441 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 838/995
+2026-11-26 19:48:58,702 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 839/995
+2026-11-26 19:48:58,958 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 840/995
+2026-11-26 19:48:59,282 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 841/995
+2026-11-26 19:48:59,908 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 842/995
+2026-11-26 19:49:00,242 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 843/995
+2026-11-26 19:49:00,566 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 844/995
+2026-11-26 19:49:00,910 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 845/995
+2026-11-26 19:49:01,244 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 846/995
+2026-11-26 19:49:01,551 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 847/995
+2026-11-26 19:49:01,839 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 848/995
+2026-11-26 19:49:02,125 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 849/995
+2026-11-26 19:49:02,413 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 850/995
+2026-11-26 19:49:02,687 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 851/995
+2026-11-26 19:49:03,032 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 852/995
+2026-11-26 19:49:03,316 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 853/995
+2026-11-26 19:49:03,635 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 854/995
+2026-11-26 19:49:03,981 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 855/995
+2026-11-26 19:49:04,320 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 856/995
+2026-11-26 19:49:04,653 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 857/995
+2026-11-26 19:49:05,117 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 858/995
+2026-11-26 19:49:05,458 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 859/995
+2026-11-26 19:49:05,759 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 860/995
+2026-11-26 19:49:06,053 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 861/995
+2026-11-26 19:49:06,373 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 862/995
+2026-11-26 19:49:06,682 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 863/995
+2026-11-26 19:49:07,149 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 864/995
+2026-11-26 19:49:07,469 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 865/995
+2026-11-26 19:49:07,746 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 866/995
+2026-11-26 19:49:08,049 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 867/995
+2026-11-26 19:49:08,482 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 868/995
+2026-11-26 19:49:08,729 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 869/995
+2026-11-26 19:49:09,003 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 870/995
+2026-11-26 19:49:09,252 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 871/995
+2026-11-26 19:49:09,510 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 872/995
+2026-11-26 19:49:09,784 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 873/995
+2026-11-26 19:49:10,072 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 874/995
+2026-11-26 19:49:10,488 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 875/995
+2026-11-26 19:49:10,906 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 876/995
+2026-11-26 19:49:11,332 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 877/995
+2026-11-26 19:49:11,617 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 878/995
+2026-11-26 19:49:11,916 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 879/995
+2026-11-26 19:49:12,224 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 880/995
+2026-11-26 19:49:12,575 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 881/995
+2026-11-26 19:49:13,095 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 882/995
+2026-11-26 19:49:13,365 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 883/995
+2026-11-26 19:49:13,657 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 884/995
+2026-11-26 19:49:13,946 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 885/995
+2026-11-26 19:49:14,237 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 886/995
+2026-11-26 19:49:14,616 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 887/995
+2026-11-26 19:49:15,121 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 888/995
+2026-11-26 19:49:15,514 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 889/995
+2026-11-26 19:49:15,897 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 890/995
+2026-11-26 19:49:16,394 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 891/995
+2026-11-26 19:49:16,998 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 892/995
+2026-11-26 19:49:17,339 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 893/995
+2026-11-26 19:49:17,681 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 894/995
+2026-11-26 19:49:17,981 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 895/995
+2026-11-26 19:49:18,277 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 896/995
+2026-11-26 19:49:18,575 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 897/995
+2026-11-26 19:49:18,922 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 898/995
+2026-11-26 19:49:19,214 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 899/995
+2026-11-26 19:49:19,503 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 900/995
+2026-11-26 19:49:19,839 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 901/995
+2026-11-26 19:49:20,176 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 902/995
+2026-11-26 19:49:20,706 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 903/995
+2026-11-26 19:49:21,029 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 904/995
+2026-11-26 19:49:21,350 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 905/995
+2026-11-26 19:49:21,926 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 906/995
+2026-11-26 19:49:22,476 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 907/995
+2026-11-26 19:49:22,789 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 908/995
+2026-11-26 19:49:23,051 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 909/995
+2026-11-26 19:49:23,362 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 910/995
+2026-11-26 19:49:23,630 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 911/995
+2026-11-26 19:49:23,962 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 912/995
+2026-11-26 19:49:24,224 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 913/995
+2026-11-26 19:49:24,499 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 914/995
+2026-11-26 19:49:24,786 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 915/995
+2026-11-26 19:49:25,054 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 916/995
+2026-11-26 19:49:25,397 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 917/995
+2026-11-26 19:49:25,710 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 918/995
+2026-11-26 19:49:26,026 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 919/995
+2026-11-26 19:49:26,519 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 920/995
+2026-11-26 19:49:26,878 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 921/995
+2026-11-26 19:49:27,202 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 922/995
+2026-11-26 19:49:27,444 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 923/995
+2026-11-26 19:49:27,800 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 924/995
+2026-11-26 19:49:28,048 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 925/995
+2026-11-26 19:49:28,408 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 926/995
+2026-11-26 19:49:28,671 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 927/995
+2026-11-26 19:49:28,942 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 928/995
+2026-11-26 19:49:29,201 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 929/995
+2026-11-26 19:49:29,505 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 930/995
+2026-11-26 19:49:29,798 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 931/995
+2026-11-26 19:49:30,084 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 932/995
+2026-11-26 19:49:30,371 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 933/995
+2026-11-26 19:49:30,654 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 934/995
+2026-11-26 19:49:30,978 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 935/995
+2026-11-26 19:49:31,304 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 936/995
+2026-11-26 19:49:31,598 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 937/995
+2026-11-26 19:49:31,908 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 938/995
+2026-11-26 19:49:32,442 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 939/995
+2026-11-26 19:49:32,753 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 940/995
+2026-11-26 19:49:33,127 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 941/995
+2026-11-26 19:49:33,435 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 942/995
+2026-11-26 19:49:33,717 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 943/995
+2026-11-26 19:49:33,990 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 944/995
+2026-11-26 19:49:34,314 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 945/995
+2026-11-26 19:49:34,686 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 946/995
+2026-11-26 19:49:35,000 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 947/995
+2026-11-26 19:49:35,310 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 948/995
+2026-11-26 19:49:35,648 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 949/995
+2026-11-26 19:49:35,945 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 950/995
+2026-11-26 19:49:36,224 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 951/995
+2026-11-26 19:49:37,734 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 952/995
+2026-11-26 19:49:38,135 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 953/995
+2026-11-26 19:49:38,489 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 954/995
+2026-11-26 19:49:39,941 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 955/995
+2026-11-26 19:49:40,660 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 956/995
+2026-11-26 19:49:41,427 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 957/995
+2026-11-26 19:49:41,805 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 958/995
+2026-11-26 19:49:42,212 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 959/995
+2026-11-26 19:49:42,753 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 960/995
+2026-11-26 19:49:43,177 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 961/995
+2026-11-26 19:49:43,527 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 962/995
+2026-11-26 19:49:43,875 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 963/995
+2026-11-26 19:49:44,200 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 964/995
+2026-11-26 19:49:44,691 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 965/995
+2026-11-26 19:49:44,979 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 966/995
+2026-11-26 19:49:45,286 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 967/995
+2026-11-26 19:49:45,758 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 968/995
+2026-11-26 19:49:46,089 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 969/995
+2026-11-26 19:49:46,378 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 970/995
+2026-11-26 19:49:46,821 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 971/995
+2026-11-26 19:49:47,393 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 972/995
+2026-11-26 19:49:47,934 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 973/995
+2026-11-26 19:49:48,313 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 974/995
+2026-11-26 19:49:48,743 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 975/995
+2026-11-26 19:49:49,127 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 976/995
+2026-11-26 19:49:49,711 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 977/995
+2026-11-26 19:49:50,125 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 978/995
+2026-11-26 19:49:50,489 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 979/995
+2026-11-26 19:49:50,873 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 980/995
+2026-11-26 19:49:51,234 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 981/995
+2026-11-26 19:49:51,749 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 982/995
+2026-11-26 19:49:52,089 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 983/995
+2026-11-26 19:49:52,450 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 984/995
+2026-11-26 19:49:52,798 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 985/995
+2026-11-26 19:49:53,287 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 986/995
+2026-11-26 19:49:53,640 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 987/995
+2026-11-26 19:49:54,000 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 988/995
+2026-11-26 19:49:54,373 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 989/995
+2026-11-26 19:49:54,952 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 990/995
+2026-11-26 19:49:55,301 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 991/995
+2026-11-26 19:49:55,684 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 992/995
+2026-11-26 19:49:56,055 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 993/995
+2026-11-26 19:49:56,444 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 994/995
+2026-11-26 19:49:56,926 - INFO - epileps_ia.epilepsia_HU2 - Consultando ficha técnica 995/995
+2026-11-26 19:49:57,345 - INFO - epileps_ia.epilepsia_HU2 - Fichas técnicas procesadas sin errores de procesamiento: 995
+2026-11-26 19:49:57,346 - INFO - epileps_ia.epilepsia_HU2 - Total de fichas técnicas fallidas: 0
+2026-11-26 19:49:57,346 - INFO - epileps_ia.epilepsia_HU2 - Secciones 4.4 no encontradas: 0
+2026-11-26 19:49:57,347 - INFO - epileps_ia.epilepsia_HU2 - Todas las fichas técnicas se han procesado correctamente
+2026-11-26 19:49:57,347 - INFO - epileps_ia.epilepsia_HU2 - Inicio del guardado del Excel hu1-hu2
+2026-11-26 19:49:57,857 - INFO - epileps_ia.epilepsia_HU2 - Excel HU1-HU2 se ha guardado correctamente en: C:\TRASTEO\epileps.IA\data\medicamentos_epilepsia_HU1_HU2_2026-11-26_19-43-13.xlsx
+2026-11-26 19:49:57,859 - INFO - __main__ - HU2 finalizada: procesamiento completo
+2026-11-26 19:49:57,859 - INFO - __main__ - Iniciando HU3
+2026-11-26 19:49:57,859 - INFO - epileps_ia.hu3_nomenclator - Iniciando procesamiento de HU3
+2026-11-26 19:49:57,860 - INFO - epileps_ia.hu3_nomenclator - Iniciando descarga del Nomenclátor
+2026-11-26 19:50:04,660 - INFO - epileps_ia.hu3_nomenclator - Nomenclator descargado correctamente: C:\TRASTEO\epileps.IA\data\Nomenclator_2026-11-26_19-43-13.csv
+2026-11-26 19:50:04,667 - INFO - epileps_ia.hu3_nomenclator - Leyendo el CSV del Nomenclátor
+2026-11-26 19:50:04,720 - INFO - epileps_ia.hu3_nomenclator - Registros leídos del Nomenclator: 20655
+2026-11-26 19:50:04,776 - INFO - epileps_ia.hu3_nomenclator - Medicamentos con coincidencia en el Nomenclator: 582
+2026-11-26 19:50:04,776 - INFO - epileps_ia.hu3_nomenclator - Medicamentos sin coincidencia en el Nomenclator: 413
+2026-11-26 19:50:04,777 - WARNING - epileps_ia.hu3_nomenclator - HU3 finalizada: algunos medicamentos no tienen coincidencia en el Nomenclator
+2026-11-26 19:50:04,777 - INFO - epileps_ia.hu3_nomenclator - Inicio del guardado del Excel hu1-hu2-hu3
+2026-11-26 19:50:05,412 - INFO - epileps_ia.hu3_nomenclator - Excel HU3 guardado correctamente en: C:\TRASTEO\epileps.IA\data\medicamentos_epilepsia_HU1_HU2_HU3_2026-11-26_19-43-13.xlsx
+2026-11-26 19:50:05,413 - WARNING - __main__ - HU3 finalizada: procesamiento parcial. Algunos medicamentos no tienen coincidencia en el Nomenclator
+2026-11-26 19:50:05,413 - INFO - __main__ - Iniciando HU4
+2026-11-26 19:50:05,413 - INFO - epileps_ia.epilepsia_HU4 - Iniciando la limpieza de 995 medicamentos
+2026-11-26 19:50:05,420 - INFO - epileps_ia.epilepsia_HU4 - Quedan 582 medicamentos con precio
+2026-11-26 19:50:05,428 - INFO - epileps_ia.epilepsia_HU4 - Duplicados quitados: 1
+2026-11-26 19:50:05,440 - INFO - epileps_ia.epilepsia_HU4 - Datos limpios: 578 medicamentos y 33 columnas
+2026-11-26 19:50:05,450 - INFO - epileps_ia.epilepsia_HU4 - CSV HU4 guardado en: C:\TRASTEO\epileps.IA\data\medicamentos_epilepsia_HU4_limpio_2026-11-26_19-43-13.csv
+2026-11-26 19:50:05,450 - INFO - __main__ - HU4 finalizada: limpieza completa
+2026-11-26 19:50:05,450 - INFO - __main__ - Iniciando HU5
+2026-11-26 19:50:05,450 - INFO - epileps_ia.epilepsia_HU5 - Iniciando el clustering de 578 medicamentos
+2026-11-26 19:50:05,822 - INFO - epileps_ia.epilepsia_HU5 - Silueta del modelo con k=5: 0.398
+2026-11-26 19:50:05,824 - INFO - epileps_ia.epilepsia_HU5 - Clúster 0 - Precio bajo, muchos avisos graves: 86 medicamentos
+2026-11-26 19:50:05,824 - INFO - epileps_ia.epilepsia_HU5 - Clúster 1 - Precio medio, muchos avisos graves: 83 medicamentos
+2026-11-26 19:50:05,824 - INFO - epileps_ia.epilepsia_HU5 - Clúster 2 - Precio medio, pocos avisos graves: 145 medicamentos
+2026-11-26 19:50:05,825 - INFO - epileps_ia.epilepsia_HU5 - Clúster 3 - Precio alto, pocos avisos graves: 170 medicamentos
+2026-11-26 19:50:05,825 - INFO - epileps_ia.epilepsia_HU5 - Clúster 4 - Precio alto, muchos avisos graves: 94 medicamentos
+2026-11-26 19:50:06,267 - INFO - epileps_ia.epilepsia_HU5 - Gráfico PCA guardado en: C:\TRASTEO\epileps.IA\data\graficos\hu5_clusters_pca.png
+2026-11-26 19:50:06,275 - INFO - epileps_ia.epilepsia_HU5 - CSV HU5 guardado correctamente en: C:\TRASTEO\epileps.IA\data\medicamentos_epilepsia_HU5_clusters.csv
+2026-11-26 19:50:06,276 - INFO - __main__ - HU5 finalizada correctamente
+2026-11-26 19:50:06,277 - INFO - __main__ - Iniciando HU6
+2026-11-26 19:50:06,277 - INFO - epileps_ia.epilepsia_HU6 - Iniciando la carga en MySQL de 578 medicamentos
+2026-11-26 19:50:06,606 - INFO - mysql.connector - package: mysql.connector.plugins
+2026-11-26 19:50:06,606 - INFO - mysql.connector - plugin_name: caching_sha2_password
+2026-11-26 19:50:06,606 - INFO - mysql.connector - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-11-26 19:50:06,665 - INFO - epileps_ia.epilepsia_HU6 - Base de datos lista: BD_EPILEPSIA
+2026-11-26 19:50:06,910 - INFO - epileps_ia.epilepsia_HU6 - Tabla creada: medicamentos_epilepsia_hu5 (35 columnas)
+2026-11-26 19:50:07,051 - INFO - epileps_ia.epilepsia_HU6 - Filas insertadas en medicamentos_epilepsia_hu5: 578
+2026-11-26 19:50:07,052 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_1_densidad/añadir columna.sql
+2026-11-26 19:50:07,081 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_1_densidad/UPDATE densidad.sql
+2026-11-26 19:50:07,110 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_1_densidad/view_kpi_1_densidad_ficha_tecnica.sql
+2026-11-26 19:50:07,117 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_2_ahorro_potencial/alter_table_kpi_2_ahorro_potencial_eur_pct.sql
+2026-11-26 19:50:07,144 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_2_ahorro_potencial/update_kpi_2_ahorro_potencial_eur_pct.sql
+2026-11-26 19:50:07,177 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_2_ahorro_potencial/view_kpi_2_ahorro_potencial.sql
+2026-11-26 19:50:07,184 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_3_ahorro_potencial_comercializados/alter_table_kpi_3_ahorro_potencial_comercializados_eur_pct.sql
+2026-11-26 19:50:07,207 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_3_ahorro_potencial_comercializados/update_kpi_3_ahorro_potencial_comercializados_eur_pct.sql
+2026-11-26 19:50:07,243 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_3_ahorro_potencial_comercializados/view_kpi_3_ahorro_comercializados.sql
+2026-11-26 19:50:07,258 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_4_pct_distribucion_aculada_precios/alter_table_kpi_4_pct_distribucion_aculada_precios.sql
+2026-11-26 19:50:07,287 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_4_pct_distribucion_aculada_precios/update_kpi_4_pct_distribucion_aculada_precios.sql
+2026-11-26 19:50:07,362 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_4_pct_distribucion_aculada_precios/view_kpi_4_distribucion_acumulada_precios.sql
+2026-11-26 19:50:07,369 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_5_pct_distribucion_aculada_precios_comercializados/alter_table_kpi_5_pct_distribucion_aculada_precios_comercializados.sql
+2026-11-26 19:50:07,393 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_5_pct_distribucion_aculada_precios_comercializados/update_kpi_5_pct_distribucion_aculada_precios_comercializados.sql
+2026-11-26 19:50:07,422 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_5_pct_distribucion_aculada_precios_comercializados/view_kpi_5_distribucion_acumulada_comercializados.sql
+2026-11-26 19:50:07,431 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_6_intensidad_riesgo/alter_table_kpi_6_intensidad_riesgo.sql
+2026-11-26 19:50:07,456 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_6_intensidad_riesgo/update_kpi_6_intensidad_riesgo.sql
+2026-11-26 19:50:07,484 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_6_intensidad_riesgo/view_kpi_6_intensidad_riesgo.sql
+2026-11-26 19:50:07,490 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_7_laboratorios_pactivo/alter_table_kpi_7_laboratorios_pactivo.sql
+2026-11-26 19:50:07,514 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_7_laboratorios_pactivo/update_kpi_7_laboratorios_pactivo.sql
+2026-11-26 19:50:07,540 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: kpi_7_laboratorios_pactivo/view_kpi_7_laboratorios_pactivo.sql
+2026-11-26 19:50:07,546 - INFO - epileps_ia.epilepsia_HU6 - Ejecutando SQL: view_kpis_medicamentos_completo.sql
+2026-11-26 19:50:07,556 - INFO - epileps_ia.epilepsia_HU6 - KPIs calculados. Ficheros SQL ejecutados: 22
+2026-11-26 19:50:07,586 - WARNING - epileps_ia.epilepsia_HU6 - Columna nueva añadida al histórico: url_html_ficha_tecnica
+2026-11-26 19:50:07,605 - WARNING - epileps_ia.epilepsia_HU6 - Columna nueva añadida al histórico: url_foto_materiales
+2026-11-26 19:50:07,615 - INFO - epileps_ia.epilepsia_HU6 - Ya había una versión de hoy en el histórico (578 filas). Se sustituye
+2026-11-26 19:50:07,635 - INFO - epileps_ia.epilepsia_HU6 - Histórico actualizado: 578 filas copiadas. Versiones guardadas: 4
+2026-11-26 19:50:07,635 - INFO - epileps_ia.epilepsia_HU6 - HU6 finalizada: 578 medicamentos en MySQL con sus KPIs
+2026-11-26 19:50:07,636 - INFO - __main__ - HU6 finalizada correctamente
+2026-11-26 19:50:07,636 - INFO - __main__ - RESUMEN DEL PROCESO
+2026-11-26 19:50:07,636 - INFO - __main__ - HU1 completa: True
+2026-11-26 19:50:07,636 - INFO - __main__ - HU2 completa: True
+2026-11-26 19:50:07,636 - INFO - __main__ - HU3 completa: False
+2026-11-26 19:50:07,636 - INFO - __main__ - HU4 completa: True
+2026-11-26 19:50:07,636 - INFO - __main__ - HU5 completa
+2026-11-26 19:50:07,636 - INFO - __main__ - HU6 completa
+2026-11-26 19:50:07,637 - WARNING - __main__ - RESULTADO GLOBAL: DATOS PARCIALES
+2026-11-26 19:50:07,637 - INFO - __main__ - Proceso finalizado correctamente
