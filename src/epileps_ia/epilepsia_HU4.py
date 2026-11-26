@@ -107,8 +107,14 @@ def obtener_datos_hu4(df, fecha):
 
     logger.info(f"Datos limpios: {df4.shape[0]} medicamentos y {df4.shape[1]} columnas")
 
-    #la hu4 esta completa si no hay ningun fallo de scraping en la hu2
+        #la hu4 esta completa si no hay ningun fallo de scraping en la hu2
     hu4_completo = (con_fallo.sum() == 0)
+
+    #guardar csv de la hu4
+    ruta_csv = RUTA_DATA / f"medicamentos_epilepsia_HU4_limpio_{fecha}.csv"
+    df4.to_csv(ruta_csv, index=False)
+    logger.info(f"CSV HU4 guardado en: {ruta_csv}")
+
     return df4, hu4_completo
 
 # PARA PROBAR SOLO ESTA HU CON EL ÚLTIMO EXCEL DE LA HU3 QUE HAYA EN data/
