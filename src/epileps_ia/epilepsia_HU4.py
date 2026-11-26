@@ -100,24 +100,15 @@ def obtener_datos_hu4(df, fecha):
     df4.insert(df4.columns.get_loc("dosis") + 1, "dosis_unidad", columna)  # LA PONEMOS AL LADO DE DOSIS
     df4 = df4.dropna(subset=["dosis", "dosis_unidad"])
 
-    # comprobar que no hay nulos
-    #nulos = df4.isnull().sum().sum()
-    #if nulos > 0:
-    #    raise ValueError(f"Después de la limpieza quedan {nulos} nulos")
-#
-    #logger.info(f"Datos limpios: {df4.shape[0]} medicamentos y {df4.shape[1]} columnas")
-
+    # comprobar que no hay nulos (la foto puede faltar, no todos los medicamentos tienen)
     nulos = df4.drop(columns=["url_foto_materiales"]).isnull().sum().sum()
-    print(f"Después de la limpieza quedan {nulos} nulos")
+    if nulos > 0:
+        raise ValueError(f"Después de la limpieza quedan {nulos} nulos")
+
+    logger.info(f"Datos limpios: {df4.shape[0]} medicamentos y {df4.shape[1]} columnas")
+
     #la hu4 esta completa si no hay ningun fallo de scraping en la hu2
     hu4_completo = (con_fallo.sum() == 0)
-    logger.info(f"el numero de columnas de la hu4 es {df4.shape[1]} y el numero de filas es {df4.shape[0]}")
-
-    #guardar csv de la hu4
-    ruta_csv = RUTA_DATA / f"medicamentos_epilepsia_HU4_limpio_{fecha}.csv"
-    df4.to_csv(ruta_csv, index=False)
-    logger.info(f"CSV HU4 guardado en: {ruta_csv}")
-
     return df4, hu4_completo
 
 # PARA PROBAR SOLO ESTA HU CON EL ÚLTIMO EXCEL DE LA HU3 QUE HAYA EN data/
