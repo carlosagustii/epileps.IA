@@ -56,6 +56,14 @@ FICHEROS_SQL = [
     "kpi_5_pct_distribucion_aculada_precios_comercializados/update_kpi_5_pct_distribucion_aculada_precios_comercializados.sql",
     "kpi_5_pct_distribucion_aculada_precios_comercializados/view_kpi_5_distribucion_acumulada_comercializados.sql",
 
+    "kpi_6_intensidad_riesgo/alter_table_kpi_6_intensidad_riesgo.sql",
+    "kpi_6_intensidad_riesgo/update_kpi_6_intensidad_riesgo.sql",
+    "kpi_6_intensidad_riesgo/view_kpi_6_intensidad_riesgo.sql",
+
+    "kpi_7_laboratorios_pactivo/alter_table_kpi_7_laboratorios_pactivo.sql",
+    "kpi_7_laboratorios_pactivo/update_kpi_7_laboratorios_pactivo.sql",
+    "kpi_7_laboratorios_pactivo/view_kpi_7_laboratorios_pactivo.sql",
+
     "view_kpis_medicamentos_completo.sql",
 ]
 
